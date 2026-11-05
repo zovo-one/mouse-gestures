@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Навігація браузером простими рухами миші",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Керуйте браузером жестами миші. 100% локально, без акаунта та стеження.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Жести увімкнено"
+  },
+  "statusOff": {
+    "message": "Жести вимкнено"
+  },
+  "toggleEnable": {
+    "message": "Увімкнути"
+  },
+  "toggleDisable": {
+    "message": "Вимкнути"
+  },
+  "cheatSheetTitle": {
+    "message": "Ваші жести"
+  },
+  "openOptions": {
+    "message": "Налаштування"
+  },
+  "openOnboarding": {
+    "message": "Налаштувати жести"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "БЕЗКОШТОВНО"
+  },
+  "cmd_newTab": {
+    "message": "Нова вкладка"
+  },
+  "cmd_closeTab": {
+    "message": "Закрити вкладку"
+  },
+  "cmd_reopenTab": {
+    "message": "Відкрити закриту вкладку"
+  },
+  "cmd_back": {
+    "message": "Назад"
+  },
+  "cmd_forward": {
+    "message": "Вперед"
+  },
+  "cmd_reload": {
+    "message": "Оновити сторінку"
+  },
+  "cmd_duplicateTab": {
+    "message": "Дублювати вкладку"
+  },
+  "cmd_scrollTop": {
+    "message": "Прокрутити вгору"
+  },
+  "cmd_scrollBottom": {
+    "message": "Прокрутити вниз"
+  },
+  "cmd_nextTab": {
+    "message": "Наступна вкладка"
+  },
+  "cmd_prevTab": {
+    "message": "Попередня вкладка"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Відкрити посилання в новій вкладці"
+  },
+  "cmd_searchText": {
+    "message": "Шукати виділений текст"
+  },
+  "cmd_none": {
+    "message": "Немає дії"
+  },
+  "optionsTitle": {
+    "message": "Налаштування Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "Жести"
+  },
+  "tabTrail": {
+    "message": "Слід"
+  },
+  "tabExclusions": {
+    "message": "Виключені сайти"
+  },
+  "tabAdvanced": {
+    "message": "Додатково"
+  },
+  "tabAbout": {
+    "message": "Про розширення"
+  },
+  "gestureEditorTitle": {
+    "message": "Карта жестів"
+  },
+  "gestureEditorHelp": {
+    "message": "Утримуйте праву кнопку миші й намалюйте напрямок, потім відпустіть. Призначте кожному напрямку команду."
+  },
+  "drawToBind": {
+    "message": "Намалюйте для прив'язки"
+  },
+  "drawPrompt": {
+    "message": "Намалюйте жест у полі (утримуючи праву кнопку)…"
+  },
+  "clearBinding": {
+    "message": "Очистити"
+  },
+  "colGesture": {
+    "message": "Жест"
+  },
+  "colCommand": {
+    "message": "Команда"
+  },
+  "rockerTitle": {
+    "message": "Рокер-жести"
+  },
+  "rockerBack": {
+    "message": "Утримуйте праву, клацніть лівою → Назад"
+  },
+  "rockerForward": {
+    "message": "Утримуйте ліву, клацніть правою → Вперед"
+  },
+  "wheelTitle": {
+    "message": "Жести колесом"
+  },
+  "wheelTabs": {
+    "message": "Утримуйте праву + колесо → Перемикання вкладок"
+  },
+  "superDragTitle": {
+    "message": "Супер-перетягування"
+  },
+  "superDragLink": {
+    "message": "Перетягніть посилання → відкрити в новій вкладці"
+  },
+  "superDragText": {
+    "message": "Перетягніть виділений текст → пошук"
+  },
+  "trailTitle": {
+    "message": "Слід жесту"
+  },
+  "trailEnabled": {
+    "message": "Показувати слід жесту"
+  },
+  "trailColor": {
+    "message": "Колір сліду"
+  },
+  "trailWidth": {
+    "message": "Товщина сліду"
+  },
+  "trailPreview": {
+    "message": "Попередній перегляд"
+  },
+  "exclusionsTitle": {
+    "message": "Виключені сайти"
+  },
+  "exclusionsHelp": {
+    "message": "Жести вимкнено на цих доменах. Один домен на рядок, наприклад maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Додати"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Видалити"
+  },
+  "noExclusions": {
+    "message": "Поки немає виключених сайтів."
+  },
+  "advancedTitle": {
+    "message": "Додатково"
+  },
+  "importConfig": {
+    "message": "Імпортувати налаштування"
+  },
+  "exportConfig": {
+    "message": "Експортувати налаштування"
+  },
+  "importError": {
+    "message": "Не вдалося імпортувати: файл не є коректним експортом налаштувань."
+  },
+  "importOk": {
+    "message": "Налаштування імпортовано."
+  },
+  "resetDefaults": {
+    "message": "Скинути до типових значень"
+  },
+  "resetConfirm": {
+    "message": "Скинути всі жести й налаштування до типових значень?"
+  },
+  "searchEngineLabel": {
+    "message": "Шаблон URL пошуку"
+  },
+  "searchEngineHelp": {
+    "message": "Використовується жестом пошуку тексту. %s замінюється вашим виділенням. Надсилає виділення на цей URL лише під час запуску жесту."
+  },
+  "proTitle": {
+    "message": "Функції Pro"
+  },
+  "proLocked": {
+    "message": "Це функція Pro."
+  },
+  "proProfiles": {
+    "message": "Профілі жестів і пресети"
+  },
+  "proChords": {
+    "message": "Акорди й послідовності"
+  },
+  "proCustom": {
+    "message": "Користувацькі команди (декларативні)"
+  },
+  "proSync": {
+    "message": "Синхронізація між пристроями"
+  },
+  "proUrlTemplate": {
+    "message": "Користувацька команда за шаблоном URL"
+  },
+  "unlockPro": {
+    "message": "Розблокувати Pro"
+  },
+  "proActive": {
+    "message": "Pro активний. Дякуємо!"
+  },
+  "licensePlaceholder": {
+    "message": "Введіть ліцензійний ключ"
+  },
+  "activateLicense": {
+    "message": "Активувати"
+  },
+  "licenseInvalid": {
+    "message": "Цей ліцензійний ключ не розпізнано."
+  },
+  "onboardTitle": {
+    "message": "Ласкаво просимо до Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Керуйте всім браузером одним помахом миші."
+  },
+  "onboardTrust": {
+    "message": "100% локально · без телеметрії, аналітики та акаунтів. Єдина мережева активність — пошук, який ви явно запускаєте, в обраній вами системі."
+  },
+  "onboardEnableTitle": {
+    "message": "Увімкнути жести на всіх сайтах"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures потрібен дозвіл відстежувати рух миші на сторінках, які ви відвідуєте, щоб розпізнавати ваші жести. Вміст сторінок ніколи не читається, не зберігається й не надсилається."
+  },
+  "onboardEnableBtn": {
+    "message": "Увімкнути жести на всіх сайтах"
+  },
+  "onboardEnabled": {
+    "message": "Жести увімкнено. Усе готово."
+  },
+  "onboardDenied": {
+    "message": "Дозвіл відхилено. Ви можете ввімкнути його будь-коли зі спливаючого вікна."
+  },
+  "onboardTryTitle": {
+    "message": "Спробуйте зараз"
+  },
+  "onboardTryBody": {
+    "message": "Утримуйте праву кнопку миші, рухайтеся ліворуч і відпустіть, щоб повернутися назад."
+  },
+  "onboardOpenSettings": {
+    "message": "Відкрити налаштування"
+  },
+  "onboardFinish": {
+    "message": "Готово"
+  },
+  "trustBanner": {
+    "message": "Безкоштовно назавжди · Без акаунта · Без реклами · Без стеження"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures відкрито повідомляє про свої дозволи й зберігає все на вашому пристрої. Жести розпізнаються локально; нічого з переглянутого не збирається."
+  },
+  "privacyLink": {
+    "message": "Політика конфіденційності"
+  },
+  "save": {
+    "message": "Зберегти"
+  },
+  "cancel": {
+    "message": "Скасувати"
+  },
+  "saved": {
+    "message": "Збережено"
+  },
+  "supportLink": {
+    "message": "Звʼязатися з підтримкою"
+  }
+}

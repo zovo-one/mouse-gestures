@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Navegue no navegador com movimentos do mouse",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Controle seu navegador com gestos do mouse. 100% local, sem conta, sem rastreamento.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Gestos ativados"
+  },
+  "statusOff": {
+    "message": "Gestos desativados"
+  },
+  "toggleEnable": {
+    "message": "Ativar"
+  },
+  "toggleDisable": {
+    "message": "Desativar"
+  },
+  "cheatSheetTitle": {
+    "message": "Seus gestos"
+  },
+  "openOptions": {
+    "message": "Configurações"
+  },
+  "openOnboarding": {
+    "message": "Configurar gestos"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "GRÁTIS"
+  },
+  "cmd_newTab": {
+    "message": "Nova aba"
+  },
+  "cmd_closeTab": {
+    "message": "Fechar aba"
+  },
+  "cmd_reopenTab": {
+    "message": "Reabrir aba fechada"
+  },
+  "cmd_back": {
+    "message": "Voltar"
+  },
+  "cmd_forward": {
+    "message": "Avançar"
+  },
+  "cmd_reload": {
+    "message": "Recarregar página"
+  },
+  "cmd_duplicateTab": {
+    "message": "Duplicar aba"
+  },
+  "cmd_scrollTop": {
+    "message": "Rolar para o topo"
+  },
+  "cmd_scrollBottom": {
+    "message": "Rolar para o fim"
+  },
+  "cmd_nextTab": {
+    "message": "Próxima aba"
+  },
+  "cmd_prevTab": {
+    "message": "Aba anterior"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Abrir link em nova aba"
+  },
+  "cmd_searchText": {
+    "message": "Pesquisar texto selecionado"
+  },
+  "cmd_none": {
+    "message": "Nenhuma ação"
+  },
+  "optionsTitle": {
+    "message": "Configurações do Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "Gestos"
+  },
+  "tabTrail": {
+    "message": "Rastro"
+  },
+  "tabExclusions": {
+    "message": "Sites excluídos"
+  },
+  "tabAdvanced": {
+    "message": "Avançado"
+  },
+  "tabAbout": {
+    "message": "Sobre"
+  },
+  "gestureEditorTitle": {
+    "message": "Mapa de gestos"
+  },
+  "gestureEditorHelp": {
+    "message": "Mantenha o botão direito do mouse pressionado e desenhe uma direção, depois solte. Atribua um comando a cada direção."
+  },
+  "drawToBind": {
+    "message": "Desenhe para atribuir"
+  },
+  "drawPrompt": {
+    "message": "Desenhe um gesto na caixa (mantenha o botão direito pressionado)…"
+  },
+  "clearBinding": {
+    "message": "Limpar"
+  },
+  "colGesture": {
+    "message": "Gesto"
+  },
+  "colCommand": {
+    "message": "Comando"
+  },
+  "rockerTitle": {
+    "message": "Gestos de balanço"
+  },
+  "rockerBack": {
+    "message": "Segure o direito, clique com o esquerdo → Voltar"
+  },
+  "rockerForward": {
+    "message": "Segure o esquerdo, clique com o direito → Avançar"
+  },
+  "wheelTitle": {
+    "message": "Gestos com a roda"
+  },
+  "wheelTabs": {
+    "message": "Segure o direito + roda → Alternar abas"
+  },
+  "superDragTitle": {
+    "message": "Super arrastar"
+  },
+  "superDragLink": {
+    "message": "Arraste um link → abrir em nova aba"
+  },
+  "superDragText": {
+    "message": "Arraste o texto selecionado → pesquisar"
+  },
+  "trailTitle": {
+    "message": "Rastro do gesto"
+  },
+  "trailEnabled": {
+    "message": "Mostrar o rastro do gesto"
+  },
+  "trailColor": {
+    "message": "Cor do rastro"
+  },
+  "trailWidth": {
+    "message": "Espessura do rastro"
+  },
+  "trailPreview": {
+    "message": "Pré-visualização"
+  },
+  "exclusionsTitle": {
+    "message": "Sites excluídos"
+  },
+  "exclusionsHelp": {
+    "message": "Os gestos ficam desativados nesses domínios. Um domínio por linha, por exemplo maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Adicionar"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Remover"
+  },
+  "noExclusions": {
+    "message": "Nenhum site excluído ainda."
+  },
+  "advancedTitle": {
+    "message": "Avançado"
+  },
+  "importConfig": {
+    "message": "Importar configurações"
+  },
+  "exportConfig": {
+    "message": "Exportar configurações"
+  },
+  "importError": {
+    "message": "Não foi possível importar: o arquivo não é uma exportação de configurações válida."
+  },
+  "importOk": {
+    "message": "Configurações importadas."
+  },
+  "resetDefaults": {
+    "message": "Restaurar padrões"
+  },
+  "resetConfirm": {
+    "message": "Restaurar todos os gestos e configurações para os padrões?"
+  },
+  "searchEngineLabel": {
+    "message": "Modelo de URL de pesquisa"
+  },
+  "searchEngineHelp": {
+    "message": "Usado pelo gesto de pesquisar texto. %s é substituído pela sua seleção. Envia a seleção para esta URL somente quando você aciona."
+  },
+  "proTitle": {
+    "message": "Recursos Pro"
+  },
+  "proLocked": {
+    "message": "Este é um recurso Pro."
+  },
+  "proProfiles": {
+    "message": "Perfis e predefinições de gestos"
+  },
+  "proChords": {
+    "message": "Acordes e sequências"
+  },
+  "proCustom": {
+    "message": "Comandos personalizados (declarativos)"
+  },
+  "proSync": {
+    "message": "Sincronização entre máquinas"
+  },
+  "proUrlTemplate": {
+    "message": "Comando com modelo de URL personalizado"
+  },
+  "unlockPro": {
+    "message": "Desbloquear Pro"
+  },
+  "proActive": {
+    "message": "O Pro está ativo. Obrigado!"
+  },
+  "licensePlaceholder": {
+    "message": "Insira sua chave de licença"
+  },
+  "activateLicense": {
+    "message": "Ativar"
+  },
+  "licenseInvalid": {
+    "message": "Essa chave de licença não foi reconhecida."
+  },
+  "onboardTitle": {
+    "message": "Boas-vindas ao Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Controle todo o seu navegador com um simples movimento do mouse."
+  },
+  "onboardTrust": {
+    "message": "100% local · sem telemetria, sem análises, sem contas. A única atividade de rede é a pesquisa que você aciona explicitamente, no mecanismo que você escolher."
+  },
+  "onboardEnableTitle": {
+    "message": "Ativar gestos em todos os sites"
+  },
+  "onboardEnableBody": {
+    "message": "O Mouse Gestures precisa de permissão para observar o movimento do mouse nas páginas que você visita, a fim de reconhecer seus gestos. Nenhum conteúdo de página é lido, armazenado ou enviado."
+  },
+  "onboardEnableBtn": {
+    "message": "Ativar gestos em todos os sites"
+  },
+  "onboardEnabled": {
+    "message": "Gestos ativados. Tudo pronto."
+  },
+  "onboardDenied": {
+    "message": "A permissão foi recusada. Você pode ativá-la a qualquer momento pelo pop-up."
+  },
+  "onboardTryTitle": {
+    "message": "Experimente agora"
+  },
+  "onboardTryBody": {
+    "message": "Mantenha o botão direito do mouse pressionado, mova para a esquerda e solte para voltar."
+  },
+  "onboardOpenSettings": {
+    "message": "Abrir configurações"
+  },
+  "onboardFinish": {
+    "message": "Concluir"
+  },
+  "trustBanner": {
+    "message": "Grátis para sempre · Sem conta · Sem anúncios · Sem rastreamento"
+  },
+  "aboutBody": {
+    "message": "O Mouse Gestures é transparente quanto às suas permissões e mantém tudo no seu dispositivo. Os gestos são reconhecidos localmente; nada do que você navega é coletado."
+  },
+  "privacyLink": {
+    "message": "Política de privacidade"
+  },
+  "save": {
+    "message": "Salvar"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "saved": {
+    "message": "Salvo"
+  },
+  "supportLink": {
+    "message": "Fale com o suporte"
+  }
+}

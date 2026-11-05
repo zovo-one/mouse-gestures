@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Basit fare hareketleriyle tarayıcıda gezinin",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Tarayıcınızı fare hareketleriyle kontrol edin. %100 yerel, hesap yok, takip yok.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Hareketler açık"
+  },
+  "statusOff": {
+    "message": "Hareketler kapalı"
+  },
+  "toggleEnable": {
+    "message": "Etkinleştir"
+  },
+  "toggleDisable": {
+    "message": "Devre dışı bırak"
+  },
+  "cheatSheetTitle": {
+    "message": "Hareketleriniz"
+  },
+  "openOptions": {
+    "message": "Ayarlar"
+  },
+  "openOnboarding": {
+    "message": "Hareketleri ayarla"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "ÜCRETSİZ"
+  },
+  "cmd_newTab": {
+    "message": "Yeni sekme"
+  },
+  "cmd_closeTab": {
+    "message": "Sekmeyi kapat"
+  },
+  "cmd_reopenTab": {
+    "message": "Kapatılan sekmeyi yeniden aç"
+  },
+  "cmd_back": {
+    "message": "Geri git"
+  },
+  "cmd_forward": {
+    "message": "İleri git"
+  },
+  "cmd_reload": {
+    "message": "Sayfayı yenile"
+  },
+  "cmd_duplicateTab": {
+    "message": "Sekmeyi çoğalt"
+  },
+  "cmd_scrollTop": {
+    "message": "En üste kaydır"
+  },
+  "cmd_scrollBottom": {
+    "message": "En alta kaydır"
+  },
+  "cmd_nextTab": {
+    "message": "Sonraki sekme"
+  },
+  "cmd_prevTab": {
+    "message": "Önceki sekme"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Bağlantıyı yeni sekmede aç"
+  },
+  "cmd_searchText": {
+    "message": "Seçili metni ara"
+  },
+  "cmd_none": {
+    "message": "Eylem yok"
+  },
+  "optionsTitle": {
+    "message": "Mouse Gestures ayarları"
+  },
+  "tabGestures": {
+    "message": "Hareketler"
+  },
+  "tabTrail": {
+    "message": "İz"
+  },
+  "tabExclusions": {
+    "message": "Hariç tutulan siteler"
+  },
+  "tabAdvanced": {
+    "message": "Gelişmiş"
+  },
+  "tabAbout": {
+    "message": "Hakkında"
+  },
+  "gestureEditorTitle": {
+    "message": "Hareket haritası"
+  },
+  "gestureEditorHelp": {
+    "message": "Sağ fare tuşunu basılı tutup bir yön çizin, sonra bırakın. Her yöne bir komut atayın."
+  },
+  "drawToBind": {
+    "message": "Atamak için çizin"
+  },
+  "drawPrompt": {
+    "message": "Kutuya bir hareket çizin (sağ tuşu basılı tutarak)…"
+  },
+  "clearBinding": {
+    "message": "Temizle"
+  },
+  "colGesture": {
+    "message": "Hareket"
+  },
+  "colCommand": {
+    "message": "Komut"
+  },
+  "rockerTitle": {
+    "message": "Rocker hareketleri"
+  },
+  "rockerBack": {
+    "message": "Sağı tut, sola tıkla → Geri"
+  },
+  "rockerForward": {
+    "message": "Solu tut, sağa tıkla → İleri"
+  },
+  "wheelTitle": {
+    "message": "Tekerlek hareketleri"
+  },
+  "wheelTabs": {
+    "message": "Sağı tut + tekerlek → Sekme değiştir"
+  },
+  "superDragTitle": {
+    "message": "Süper sürükleme"
+  },
+  "superDragLink": {
+    "message": "Bir bağlantıyı sürükle → yeni sekmede aç"
+  },
+  "superDragText": {
+    "message": "Seçili metni sürükle → ara"
+  },
+  "trailTitle": {
+    "message": "Hareket izi"
+  },
+  "trailEnabled": {
+    "message": "Hareket izini göster"
+  },
+  "trailColor": {
+    "message": "İz rengi"
+  },
+  "trailWidth": {
+    "message": "İz kalınlığı"
+  },
+  "trailPreview": {
+    "message": "Önizleme"
+  },
+  "exclusionsTitle": {
+    "message": "Hariç tutulan siteler"
+  },
+  "exclusionsHelp": {
+    "message": "Bu alan adlarında hareketler devre dışıdır. Her satıra bir alan adı, örneğin maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Ekle"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Kaldır"
+  },
+  "noExclusions": {
+    "message": "Henüz hariç tutulan site yok."
+  },
+  "advancedTitle": {
+    "message": "Gelişmiş"
+  },
+  "importConfig": {
+    "message": "Ayarları içe aktar"
+  },
+  "exportConfig": {
+    "message": "Ayarları dışa aktar"
+  },
+  "importError": {
+    "message": "İçe aktarılamadı: dosya geçerli bir ayar dışa aktarımı değil."
+  },
+  "importOk": {
+    "message": "Ayarlar içe aktarıldı."
+  },
+  "resetDefaults": {
+    "message": "Varsayılanlara sıfırla"
+  },
+  "resetConfirm": {
+    "message": "Tüm hareketler ve ayarlar varsayılanlara sıfırlansın mı?"
+  },
+  "searchEngineLabel": {
+    "message": "Arama URL şablonu"
+  },
+  "searchEngineHelp": {
+    "message": "Metin arama hareketi tarafından kullanılır. %s seçiminizle değiştirilir. Seçimi bu URL'ye yalnızca siz tetiklediğinizde gönderir."
+  },
+  "proTitle": {
+    "message": "Pro özellikleri"
+  },
+  "proLocked": {
+    "message": "Bu bir Pro özelliğidir."
+  },
+  "proProfiles": {
+    "message": "Hareket profilleri ve hazır ayarlar"
+  },
+  "proChords": {
+    "message": "Akorlar ve diziler"
+  },
+  "proCustom": {
+    "message": "Özel komutlar (bildirimsel)"
+  },
+  "proSync": {
+    "message": "Cihazlar arası senkronizasyon"
+  },
+  "proUrlTemplate": {
+    "message": "Özel URL şablonu komutu"
+  },
+  "unlockPro": {
+    "message": "Pro'nun kilidini aç"
+  },
+  "proActive": {
+    "message": "Pro etkin. Teşekkürler!"
+  },
+  "licensePlaceholder": {
+    "message": "Lisans anahtarınızı girin"
+  },
+  "activateLicense": {
+    "message": "Etkinleştir"
+  },
+  "licenseInvalid": {
+    "message": "Bu lisans anahtarı tanınmadı."
+  },
+  "onboardTitle": {
+    "message": "Mouse Gestures'a hoş geldiniz"
+  },
+  "onboardSubtitle": {
+    "message": "Tüm tarayıcınızı farenizin tek bir hareketiyle kontrol edin."
+  },
+  "onboardTrust": {
+    "message": "%100 yerel · telemetri, analiz veya hesap yok. Tek ağ etkinliği, açıkça tetiklediğiniz aramadır; seçtiğiniz motora gider."
+  },
+  "onboardEnableTitle": {
+    "message": "Hareketleri tüm sitelerde etkinleştir"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures, hareketlerinizi tanıyabilmek için ziyaret ettiğiniz sayfalarda fare hareketini izleme iznine ihtiyaç duyar. Sayfa içeriği asla okunmaz, saklanmaz veya gönderilmez."
+  },
+  "onboardEnableBtn": {
+    "message": "Hareketleri tüm sitelerde etkinleştir"
+  },
+  "onboardEnabled": {
+    "message": "Hareketler etkinleştirildi. Her şey hazır."
+  },
+  "onboardDenied": {
+    "message": "İzin reddedildi. Açılır pencereden istediğiniz zaman etkinleştirebilirsiniz."
+  },
+  "onboardTryTitle": {
+    "message": "Şimdi deneyin"
+  },
+  "onboardTryBody": {
+    "message": "Sağ fare tuşunu basılı tutun, sola hareket edin ve geri gitmek için bırakın."
+  },
+  "onboardOpenSettings": {
+    "message": "Ayarları aç"
+  },
+  "onboardFinish": {
+    "message": "Bitir"
+  },
+  "trustBanner": {
+    "message": "Sonsuza dek ücretsiz · Hesap yok · Reklam yok · Takip yok"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures izinleri konusunda açıktır ve her şeyi cihazınızda tutar. Hareketler yerel olarak tanınır; gezindiğiniz hiçbir şey toplanmaz."
+  },
+  "privacyLink": {
+    "message": "Gizlilik politikası"
+  },
+  "save": {
+    "message": "Kaydet"
+  },
+  "cancel": {
+    "message": "İptal"
+  },
+  "saved": {
+    "message": "Kaydedildi"
+  },
+  "supportLink": {
+    "message": "Desteğe başvurun"
+  }
+}

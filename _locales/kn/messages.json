@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - ಸರಳ ಮೌಸ್ ಚಲನೆಗಳಿಂದ ಬ್ರೌಸರ್ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "ಮೌಸ್ ಗೆಸ್ಚರ್‌ಗಳಿಂದ ನಿಮ್ಮ ಬ್ರೌಸರ್ ನಿಯಂತ್ರಿಸಿ. 100% ಸ್ಥಳೀಯ, ಖಾತೆ ಬೇಡ, ಟ್ರ್ಯಾಕಿಂಗ್ ಇಲ್ಲ.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "ಮೌಸ್ ಗೆಸ್ಚರ್‌ಗಳು"
+  },
+  "statusOn": {
+    "message": "ಗೆಸ್ಚರ್‌ಗಳು ಆನ್"
+  },
+  "statusOff": {
+    "message": "ಗೆಸ್ಚರ್‌ಗಳು ಆಫ್"
+  },
+  "toggleEnable": {
+    "message": "ಸಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "toggleDisable": {
+    "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "cheatSheetTitle": {
+    "message": "ನಿಮ್ಮ ಗೆಸ್ಚರ್‌ಗಳು"
+  },
+  "openOptions": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "openOnboarding": {
+    "message": "ಗೆಸ್ಚರ್‌ಗಳನ್ನು ಹೊಂದಿಸಿ"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "ಉಚಿತ"
+  },
+  "cmd_newTab": {
+    "message": "ಹೊಸ ಟ್ಯಾಬ್"
+  },
+  "cmd_closeTab": {
+    "message": "ಟ್ಯಾಬ್ ಮುಚ್ಚಿ"
+  },
+  "cmd_reopenTab": {
+    "message": "ಮುಚ್ಚಿದ ಟ್ಯಾಬ್ ಮತ್ತೆ ತೆರೆಯಿರಿ"
+  },
+  "cmd_back": {
+    "message": "ಹಿಂದೆ ಹೋಗಿ"
+  },
+  "cmd_forward": {
+    "message": "ಮುಂದೆ ಹೋಗಿ"
+  },
+  "cmd_reload": {
+    "message": "ಪುಟ ಮರುಲೋಡ್ ಮಾಡಿ"
+  },
+  "cmd_duplicateTab": {
+    "message": "ಟ್ಯಾಬ್ ನಕಲಿಸಿ"
+  },
+  "cmd_scrollTop": {
+    "message": "ಮೇಲಕ್ಕೆ ಸ್ಕ್ರಾಲ್ ಮಾಡಿ"
+  },
+  "cmd_scrollBottom": {
+    "message": "ಕೆಳಕ್ಕೆ ಸ್ಕ್ರಾಲ್ ಮಾಡಿ"
+  },
+  "cmd_nextTab": {
+    "message": "ಮುಂದಿನ ಟ್ಯಾಬ್"
+  },
+  "cmd_prevTab": {
+    "message": "ಹಿಂದಿನ ಟ್ಯಾಬ್"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "ಲಿಂಕ್ ಅನ್ನು ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"
+  },
+  "cmd_searchText": {
+    "message": "ಆಯ್ಕೆಮಾಡಿದ ಪಠ್ಯ ಹುಡುಕಿ"
+  },
+  "cmd_none": {
+    "message": "ಯಾವುದೇ ಕ್ರಿಯೆ ಇಲ್ಲ"
+  },
+  "optionsTitle": {
+    "message": "ಮೌಸ್ ಗೆಸ್ಚರ್‌ಗಳ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "tabGestures": {
+    "message": "ಗೆಸ್ಚರ್‌ಗಳು"
+  },
+  "tabTrail": {
+    "message": "ಜಾಡು"
+  },
+  "tabExclusions": {
+    "message": "ಹೊರಗಿಟ್ಟ ಸೈಟ್‌ಗಳು"
+  },
+  "tabAdvanced": {
+    "message": "ಸುಧಾರಿತ"
+  },
+  "tabAbout": {
+    "message": "ಕುರಿತು"
+  },
+  "gestureEditorTitle": {
+    "message": "ಗೆಸ್ಚರ್ ನಕ್ಷೆ"
+  },
+  "gestureEditorHelp": {
+    "message": "ಬಲ ಮೌಸ್ ಬಟನ್ ಹಿಡಿದು ಒಂದು ದಿಕ್ಕನ್ನು ಬಿಡಿಸಿ, ನಂತರ ಬಿಡುಗಡೆ ಮಾಡಿ. ಪ್ರತಿ ದಿಕ್ಕಿಗೂ ಒಂದು ಆದೇಶ ನಿಯೋಜಿಸಿ."
+  },
+  "drawToBind": {
+    "message": "ಬಂಧಿಸಲು ಬಿಡಿಸಿ"
+  },
+  "drawPrompt": {
+    "message": "ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಒಂದು ಗೆಸ್ಚರ್ ಬಿಡಿಸಿ (ಬಲ ಬಟನ್ ಹಿಡಿಯಿರಿ)…"
+  },
+  "clearBinding": {
+    "message": "ತೆರವುಗೊಳಿಸಿ"
+  },
+  "colGesture": {
+    "message": "ಗೆಸ್ಚರ್"
+  },
+  "colCommand": {
+    "message": "ಆದೇಶ"
+  },
+  "rockerTitle": {
+    "message": "ರಾಕರ್ ಗೆಸ್ಚರ್‌ಗಳು"
+  },
+  "rockerBack": {
+    "message": "ಬಲ ಹಿಡಿಯಿರಿ, ಎಡ ಕ್ಲಿಕ್ ಮಾಡಿ → ಹಿಂದೆ"
+  },
+  "rockerForward": {
+    "message": "ಎಡ ಹಿಡಿಯಿರಿ, ಬಲ ಕ್ಲಿಕ್ ಮಾಡಿ → ಮುಂದೆ"
+  },
+  "wheelTitle": {
+    "message": "ವೀಲ್ ಗೆಸ್ಚರ್‌ಗಳು"
+  },
+  "wheelTabs": {
+    "message": "ಬಲ ಹಿಡಿಯಿರಿ + ವೀಲ್ → ಟ್ಯಾಬ್‌ಗಳನ್ನು ಬದಲಿಸಿ"
+  },
+  "superDragTitle": {
+    "message": "ಸೂಪರ್-ಡ್ರ್ಯಾಗ್"
+  },
+  "superDragLink": {
+    "message": "ಲಿಂಕ್ ಎಳೆಯಿರಿ → ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"
+  },
+  "superDragText": {
+    "message": "ಆಯ್ಕೆಮಾಡಿದ ಪಠ್ಯ ಎಳೆಯಿರಿ → ಹುಡುಕಿ"
+  },
+  "trailTitle": {
+    "message": "ಗೆಸ್ಚರ್ ಜಾಡು"
+  },
+  "trailEnabled": {
+    "message": "ಗೆಸ್ಚರ್ ಜಾಡು ತೋರಿಸಿ"
+  },
+  "trailColor": {
+    "message": "ಜಾಡಿನ ಬಣ್ಣ"
+  },
+  "trailWidth": {
+    "message": "ಜಾಡಿನ ಅಗಲ"
+  },
+  "trailPreview": {
+    "message": "ಮುನ್ನೋಟ"
+  },
+  "exclusionsTitle": {
+    "message": "ಹೊರಗಿಟ್ಟ ಸೈಟ್‌ಗಳು"
+  },
+  "exclusionsHelp": {
+    "message": "ಈ ಡೊಮೇನ್‌ಗಳಲ್ಲಿ ಗೆಸ್ಚರ್‌ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. ಪ್ರತಿ ಸಾಲಿಗೆ ಒಂದು ಡೊಮೇನ್, ಉದಾ. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "ಸೇರಿಸಿ"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "ತೆಗೆದುಹಾಕಿ"
+  },
+  "noExclusions": {
+    "message": "ಇನ್ನೂ ಯಾವುದೇ ಹೊರಗಿಟ್ಟ ಸೈಟ್‌ಗಳಿಲ್ಲ."
+  },
+  "advancedTitle": {
+    "message": "ಸುಧಾರಿತ"
+  },
+  "importConfig": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಆಮದು ಮಾಡಿ"
+  },
+  "exportConfig": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ರಫ್ತು ಮಾಡಿ"
+  },
+  "importError": {
+    "message": "ಆಮದು ಮಾಡಲಾಗಲಿಲ್ಲ: ಫೈಲ್ ಮಾನ್ಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳ ರಫ್ತಲ್ಲ."
+  },
+  "importOk": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಆಮದು ಮಾಡಲಾಗಿದೆ."
+  },
+  "resetDefaults": {
+    "message": "ಡೀಫಾಲ್ಟ್‌ಗಳಿಗೆ ಮರುಹೊಂದಿಸಿ"
+  },
+  "resetConfirm": {
+    "message": "ಎಲ್ಲಾ ಗೆಸ್ಚರ್‌ಗಳು ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಡೀಫಾಲ್ಟ್‌ಗಳಿಗೆ ಮರುಹೊಂದಿಸುವುದೇ?"
+  },
+  "searchEngineLabel": {
+    "message": "ಹುಡುಕಾಟ URL ಟೆಂಪ್ಲೇಟ್"
+  },
+  "searchEngineHelp": {
+    "message": "ಪಠ್ಯ-ಹುಡುಕಾಟ ಗೆಸ್ಚರ್ ಇದನ್ನು ಬಳಸುತ್ತದೆ. %s ಅನ್ನು ನಿಮ್ಮ ಆಯ್ಕೆಯಿಂದ ಬದಲಾಯಿಸಲಾಗುತ್ತದೆ. ನೀವು ಪ್ರಚೋದಿಸಿದಾಗ ಮಾತ್ರ ಆಯ್ಕೆಯನ್ನು ಈ URL ಗೆ ಕಳುಹಿಸುತ್ತದೆ."
+  },
+  "proTitle": {
+    "message": "Pro ವೈಶಿಷ್ಟ್ಯಗಳು"
+  },
+  "proLocked": {
+    "message": "ಇದು Pro ವೈಶಿಷ್ಟ್ಯ."
+  },
+  "proProfiles": {
+    "message": "ಗೆಸ್ಚರ್ ಪ್ರೊಫೈಲ್‌ಗಳು ಮತ್ತು ಪ್ರಿಸೆಟ್‌ಗಳು"
+  },
+  "proChords": {
+    "message": "ಕಾರ್ಡ್‌ಗಳು ಮತ್ತು ಅನುಕ್ರಮಗಳು"
+  },
+  "proCustom": {
+    "message": "ಕಸ್ಟಮ್ ಆದೇಶಗಳು (ಘೋಷಣಾತ್ಮಕ)"
+  },
+  "proSync": {
+    "message": "ಸಾಧನಗಳ ನಡುವಿನ ಸಿಂಕ್"
+  },
+  "proUrlTemplate": {
+    "message": "ಕಸ್ಟಮ್ URL-ಟೆಂಪ್ಲೇಟ್ ಆದೇಶ"
+  },
+  "unlockPro": {
+    "message": "Pro ಅನ್ಲಾಕ್ ಮಾಡಿ"
+  },
+  "proActive": {
+    "message": "Pro ಸಕ್ರಿಯವಾಗಿದೆ. ಧನ್ಯವಾದಗಳು!"
+  },
+  "licensePlaceholder": {
+    "message": "ನಿಮ್ಮ ಪರವಾನಗಿ ಕೀ ನಮೂದಿಸಿ"
+  },
+  "activateLicense": {
+    "message": "ಸಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "licenseInvalid": {
+    "message": "ಆ ಪರವಾನಗಿ ಕೀ ಗುರುತಿಸಲಾಗಲಿಲ್ಲ."
+  },
+  "onboardTitle": {
+    "message": "ಮೌಸ್ ಗೆಸ್ಚರ್‌ಗಳಿಗೆ ಸ್ವಾಗತ"
+  },
+  "onboardSubtitle": {
+    "message": "ಮೌಸ್‌ನ ಒಂದೇ ಚಲನೆಯಿಂದ ನಿಮ್ಮ ಇಡೀ ಬ್ರೌಸರ್ ನಿಯಂತ್ರಿಸಿ."
+  },
+  "onboardTrust": {
+    "message": "100% ಸ್ಥಳೀಯ · ಟೆಲಿಮೆಟ್ರಿ ಇಲ್ಲ, ವಿಶ್ಲೇಷಣೆ ಇಲ್ಲ, ಖಾತೆಗಳಿಲ್ಲ. ಏಕೈಕ ನೆಟ್‌ವರ್ಕ್ ಚಟುವಟಿಕೆ ಎಂದರೆ ನೀವು ಸ್ಪಷ್ಟವಾಗಿ ಪ್ರಚೋದಿಸುವ ಹುಡುಕಾಟ, ನೀವು ಆರಿಸಿದ ಎಂಜಿನ್‌ಗೆ."
+  },
+  "onboardEnableTitle": {
+    "message": "ಎಲ್ಲಾ ಸೈಟ್‌ಗಳಲ್ಲಿ ಗೆಸ್ಚರ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "onboardEnableBody": {
+    "message": "ನಿಮ್ಮ ಗೆಸ್ಚರ್‌ಗಳನ್ನು ಗುರುತಿಸಲು ನೀವು ಭೇಟಿ ನೀಡುವ ಪುಟಗಳಲ್ಲಿ ಮೌಸ್ ಚಲನೆಯನ್ನು ವೀಕ್ಷಿಸಲು ಮೌಸ್ ಗೆಸ್ಚರ್‌ಗಳಿಗೆ ಅನುಮತಿ ಬೇಕು. ಯಾವುದೇ ಪುಟದ ವಿಷಯವನ್ನು ಎಂದಿಗೂ ಓದಲಾಗುವುದಿಲ್ಲ, ಸಂಗ್ರಹಿಸಲಾಗುವುದಿಲ್ಲ ಅಥವಾ ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ."
+  },
+  "onboardEnableBtn": {
+    "message": "ಎಲ್ಲಾ ಸೈಟ್‌ಗಳಲ್ಲಿ ಗೆಸ್ಚರ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "onboardEnabled": {
+    "message": "ಗೆಸ್ಚರ್‌ಗಳು ಸಕ್ರಿಯಗೊಂಡಿವೆ. ನೀವು ಸಿದ್ಧ."
+  },
+  "onboardDenied": {
+    "message": "ಅನುಮತಿ ನಿರಾಕರಿಸಲಾಯಿತು. ನೀವು ಪಾಪ್‌ಅಪ್‌ನಿಂದ ಯಾವಾಗ ಬೇಕಾದರೂ ಅದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು."
+  },
+  "onboardTryTitle": {
+    "message": "ಈಗ ಪ್ರಯತ್ನಿಸಿ"
+  },
+  "onboardTryBody": {
+    "message": "ಬಲ ಮೌಸ್ ಬಟನ್ ಹಿಡಿದು, ಎಡಕ್ಕೆ ಚಲಿಸಿ, ಹಿಂದೆ ಹೋಗಲು ಬಿಡುಗಡೆ ಮಾಡಿ."
+  },
+  "onboardOpenSettings": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ"
+  },
+  "onboardFinish": {
+    "message": "ಮುಗಿಸಿ"
+  },
+  "trustBanner": {
+    "message": "ಶಾಶ್ವತವಾಗಿ ಉಚಿತ · ಖಾತೆ ಬೇಡ · ಜಾಹೀರಾತು ಇಲ್ಲ · ಟ್ರ್ಯಾಕಿಂಗ್ ಇಲ್ಲ"
+  },
+  "aboutBody": {
+    "message": "ಮೌಸ್ ಗೆಸ್ಚರ್‌ಗಳು ತನ್ನ ಅನುಮತಿಗಳ ಬಗ್ಗೆ ಪಾರದರ್ಶಕವಾಗಿದೆ ಮತ್ತು ಎಲ್ಲವನ್ನೂ ನಿಮ್ಮ ಸಾಧನದಲ್ಲೇ ಇಡುತ್ತದೆ. ಗೆಸ್ಚರ್‌ಗಳನ್ನು ಸ್ಥಳೀಯವಾಗಿ ಗುರುತಿಸಲಾಗುತ್ತದೆ; ನೀವು ಬ್ರೌಸ್ ಮಾಡುವ ಯಾವುದನ್ನೂ ಸಂಗ್ರಹಿಸಲಾಗುವುದಿಲ್ಲ."
+  },
+  "privacyLink": {
+    "message": "ಗೌಪ್ಯತಾ ನೀತಿ"
+  },
+  "save": {
+    "message": "ಉಳಿಸಿ"
+  },
+  "cancel": {
+    "message": "ರದ್ದುಮಾಡಿ"
+  },
+  "saved": {
+    "message": "ಉಳಿಸಲಾಗಿದೆ"
+  },
+  "supportLink": {
+    "message": "ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ"
+  }
+}

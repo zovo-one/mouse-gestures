@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - አሳሽዎን በቀላል የመዳፊት እንቅስቃሴዎች ይቆጣጠሩ",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "አሳሽዎን በመዳፊት ምልክቶች ይቆጣጠሩ። 100% በኮምፒውተርዎ ላይ፣ መለያ የለም፣ ክትትል የለም።",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "የመዳፊት ምልክቶች"
+  },
+  "statusOn": {
+    "message": "ምልክቶች በርተዋል"
+  },
+  "statusOff": {
+    "message": "ምልክቶች ጠፍተዋል"
+  },
+  "toggleEnable": {
+    "message": "አንቃ"
+  },
+  "toggleDisable": {
+    "message": "አሰናክል"
+  },
+  "cheatSheetTitle": {
+    "message": "የእርስዎ ምልክቶች"
+  },
+  "openOptions": {
+    "message": "ቅንብሮች"
+  },
+  "openOnboarding": {
+    "message": "ምልክቶችን አዘጋጅ"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "ነጻ"
+  },
+  "cmd_newTab": {
+    "message": "አዲስ ትር"
+  },
+  "cmd_closeTab": {
+    "message": "ትር ዝጋ"
+  },
+  "cmd_reopenTab": {
+    "message": "የተዘጋ ትር እንደገና ክፈት"
+  },
+  "cmd_back": {
+    "message": "ወደ ኋላ ተመለስ"
+  },
+  "cmd_forward": {
+    "message": "ወደ ፊት ሂድ"
+  },
+  "cmd_reload": {
+    "message": "ገጽ እንደገና ጫን"
+  },
+  "cmd_duplicateTab": {
+    "message": "ትር አባዛ"
+  },
+  "cmd_scrollTop": {
+    "message": "ወደ ላይ ሸብልል"
+  },
+  "cmd_scrollBottom": {
+    "message": "ወደ ታች ሸብልል"
+  },
+  "cmd_nextTab": {
+    "message": "ቀጣይ ትር"
+  },
+  "cmd_prevTab": {
+    "message": "ቀዳሚ ትር"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "አገናኝ በአዲስ ትር ክፈት"
+  },
+  "cmd_searchText": {
+    "message": "የተመረጠ ጽሑፍ ፈልግ"
+  },
+  "cmd_none": {
+    "message": "ምንም እርምጃ የለም"
+  },
+  "optionsTitle": {
+    "message": "የመዳፊት ምልክቶች ቅንብሮች"
+  },
+  "tabGestures": {
+    "message": "ምልክቶች"
+  },
+  "tabTrail": {
+    "message": "ዱካ"
+  },
+  "tabExclusions": {
+    "message": "የተገለሉ ጣቢያዎች"
+  },
+  "tabAdvanced": {
+    "message": "የላቀ"
+  },
+  "tabAbout": {
+    "message": "ስለ"
+  },
+  "gestureEditorTitle": {
+    "message": "የምልክት ካርታ"
+  },
+  "gestureEditorHelp": {
+    "message": "የቀኝ የመዳፊት ቁልፉን ይዘው አቅጣጫ ይሳሉ፣ ከዚያ ይልቀቁ። እያንዳንዱን አቅጣጫ ለአንድ ትዕዛዝ ይመድቡ።"
+  },
+  "drawToBind": {
+    "message": "ለማሰር ይሳሉ"
+  },
+  "drawPrompt": {
+    "message": "በሳጥኑ ውስጥ ምልክት ይሳሉ (የቀኝ ቁልፉን ይያዙ)…"
+  },
+  "clearBinding": {
+    "message": "አጽዳ"
+  },
+  "colGesture": {
+    "message": "ምልክት"
+  },
+  "colCommand": {
+    "message": "ትዕዛዝ"
+  },
+  "rockerTitle": {
+    "message": "የሮከር ምልክቶች"
+  },
+  "rockerBack": {
+    "message": "ቀኝ ይዘው በግራ ጠቅ ያድርጉ → ወደ ኋላ"
+  },
+  "rockerForward": {
+    "message": "ግራ ይዘው በቀኝ ጠቅ ያድርጉ → ወደ ፊት"
+  },
+  "wheelTitle": {
+    "message": "የመንኮራኩር ምልክቶች"
+  },
+  "wheelTabs": {
+    "message": "ቀኝ ይዘው + መንኮራኩር → ትሮችን ይቀያይሩ"
+  },
+  "superDragTitle": {
+    "message": "ሱፐር-መጎተት"
+  },
+  "superDragLink": {
+    "message": "አገናኝ ይጎትቱ → በአዲስ ትር ይክፈቱ"
+  },
+  "superDragText": {
+    "message": "የተመረጠ ጽሑፍ ይጎትቱ → ይፈልጉ"
+  },
+  "trailTitle": {
+    "message": "የምልክት ዱካ"
+  },
+  "trailEnabled": {
+    "message": "የምልክት ዱካ አሳይ"
+  },
+  "trailColor": {
+    "message": "የዱካ ቀለም"
+  },
+  "trailWidth": {
+    "message": "የዱካ ስፋት"
+  },
+  "trailPreview": {
+    "message": "ቅድመ እይታ"
+  },
+  "exclusionsTitle": {
+    "message": "የተገለሉ ጣቢያዎች"
+  },
+  "exclusionsHelp": {
+    "message": "በእነዚህ ጎራዎች ላይ ምልክቶች ተሰናክለዋል። በአንድ መስመር አንድ ጎራ፣ ለምሳሌ maps.google.com።"
+  },
+  "addExclusion": {
+    "message": "አክል"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "አስወግድ"
+  },
+  "noExclusions": {
+    "message": "እስካሁን የተገለለ ጣቢያ የለም።"
+  },
+  "advancedTitle": {
+    "message": "የላቀ"
+  },
+  "importConfig": {
+    "message": "ቅንብሮችን አስመጣ"
+  },
+  "exportConfig": {
+    "message": "ቅንብሮችን ላክ"
+  },
+  "importError": {
+    "message": "ማስመጣት አልተቻለም፦ ፋይሉ ትክክለኛ የቅንብሮች ወደ ውጭ መላክ አይደለም።"
+  },
+  "importOk": {
+    "message": "ቅንብሮች ተመጡ።"
+  },
+  "resetDefaults": {
+    "message": "ወደ ነባሪ ዳግም አስጀምር"
+  },
+  "resetConfirm": {
+    "message": "ሁሉንም ምልክቶች እና ቅንብሮች ወደ ነባሪ ዳግም ማስጀመር?"
+  },
+  "searchEngineLabel": {
+    "message": "የፍለጋ URL አብነት"
+  },
+  "searchEngineHelp": {
+    "message": "በፍለጋ-ጽሑፍ ምልክት ጥቅም ላይ ይውላል። %s በእርስዎ ምርጫ ይተካል። ምርጫውን ወደዚህ URL የሚልከው ሲያስነሱት ብቻ ነው።"
+  },
+  "proTitle": {
+    "message": "የ Pro ባህሪያት"
+  },
+  "proLocked": {
+    "message": "ይህ የ Pro ባህሪ ነው።"
+  },
+  "proProfiles": {
+    "message": "የምልክት መገለጫዎች እና ቅድመ-ቅንብሮች"
+  },
+  "proChords": {
+    "message": "ኮርዶች እና ቅደም ተከተሎች"
+  },
+  "proCustom": {
+    "message": "ብጁ ትዕዛዞች (መግለጫዊ)"
+  },
+  "proSync": {
+    "message": "በተለያዩ ማሽኖች መካከል ማመሳሰል"
+  },
+  "proUrlTemplate": {
+    "message": "ብጁ የURL-አብነት ትዕዛዝ"
+  },
+  "unlockPro": {
+    "message": "Pro ክፈት"
+  },
+  "proActive": {
+    "message": "Pro ንቁ ነው። እናመሰግናለን!"
+  },
+  "licensePlaceholder": {
+    "message": "የፈቃድ ቁልፍዎን ያስገቡ"
+  },
+  "activateLicense": {
+    "message": "አግብር"
+  },
+  "licenseInvalid": {
+    "message": "ያ የፈቃድ ቁልፍ አልታወቀም።"
+  },
+  "onboardTitle": {
+    "message": "እንኳን ወደ የመዳፊት ምልክቶች በደህና መጡ"
+  },
+  "onboardSubtitle": {
+    "message": "በመዳፊት አንድ እንቅስቃሴ ብቻ ሙሉ አሳሽዎን ይቆጣጠሩ።"
+  },
+  "onboardTrust": {
+    "message": "100% በአካባቢው · ቴሌሜትሪ የለም፣ ትንታኔ የለም፣ መለያ የለም። ብቸኛው የአውታረ መረብ እንቅስቃሴ በግልጽ የሚያስነሱት ፍለጋ ነው፣ ወደ መረጡት ሞተር።"
+  },
+  "onboardEnableTitle": {
+    "message": "በሁሉም ጣቢያዎች ላይ ምልክቶችን አንቃ"
+  },
+  "onboardEnableBody": {
+    "message": "የመዳፊት ምልክቶች የሚጎበኟቸውን ገጾች የመዳፊት እንቅስቃሴ ለመከታተል ፈቃድ ያስፈልገዋል፣ ስለዚህ ምልክቶችዎን ማወቅ ይችላል። ምንም የገጽ ይዘት ፈጽሞ አይነበብም፣ አይከማችም ወይም አይላክም።"
+  },
+  "onboardEnableBtn": {
+    "message": "በሁሉም ጣቢያዎች ላይ ምልክቶችን አንቃ"
+  },
+  "onboardEnabled": {
+    "message": "ምልክቶች ነቅተዋል። ሁሉም ተዘጋጅቷል።"
+  },
+  "onboardDenied": {
+    "message": "ፈቃድ ተከልክሏል። በማንኛውም ጊዜ ከብቅ-ባዩ ውስጥ ማንቃት ይችላሉ።"
+  },
+  "onboardTryTitle": {
+    "message": "አሁን ይሞክሩት"
+  },
+  "onboardTryBody": {
+    "message": "የቀኝ የመዳፊት ቁልፉን ይዘው ወደ ግራ ይንቀሳቀሱ እና ወደ ኋላ ለመመለስ ይልቀቁ።"
+  },
+  "onboardOpenSettings": {
+    "message": "ቅንብሮችን ክፈት"
+  },
+  "onboardFinish": {
+    "message": "ጨርስ"
+  },
+  "trustBanner": {
+    "message": "ለዘላለም ነጻ · መለያ የለም · ማስታወቂያ የለም · ክትትል የለም"
+  },
+  "aboutBody": {
+    "message": "የመዳፊት ምልክቶች ስለ ፈቃዶቹ ግልጽ ነው እና ሁሉንም ነገር በመሣሪያዎ ላይ ያስቀምጣል። ምልክቶች በአካባቢው ይታወቃሉ፤ የሚያስሱት ምንም ነገር አይሰበሰብም።"
+  },
+  "privacyLink": {
+    "message": "የግላዊነት ፖሊሲ"
+  },
+  "save": {
+    "message": "አስቀምጥ"
+  },
+  "cancel": {
+    "message": "ሰርዝ"
+  },
+  "saved": {
+    "message": "ተቀምጧል"
+  },
+  "supportLink": {
+    "message": "ድጋፍ ያግኙ"
+  }
+}

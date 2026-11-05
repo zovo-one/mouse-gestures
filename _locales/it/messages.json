@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Naviga nel browser con semplici movimenti del mouse",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Controlla il browser con i gesti del mouse. 100% locale, senza account, senza tracciamento.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Gesti attivi"
+  },
+  "statusOff": {
+    "message": "Gesti disattivati"
+  },
+  "toggleEnable": {
+    "message": "Attiva"
+  },
+  "toggleDisable": {
+    "message": "Disattiva"
+  },
+  "cheatSheetTitle": {
+    "message": "I tuoi gesti"
+  },
+  "openOptions": {
+    "message": "Impostazioni"
+  },
+  "openOnboarding": {
+    "message": "Configura i gesti"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "GRATIS"
+  },
+  "cmd_newTab": {
+    "message": "Nuova scheda"
+  },
+  "cmd_closeTab": {
+    "message": "Chiudi scheda"
+  },
+  "cmd_reopenTab": {
+    "message": "Riapri scheda chiusa"
+  },
+  "cmd_back": {
+    "message": "Torna indietro"
+  },
+  "cmd_forward": {
+    "message": "Vai avanti"
+  },
+  "cmd_reload": {
+    "message": "Ricarica pagina"
+  },
+  "cmd_duplicateTab": {
+    "message": "Duplica scheda"
+  },
+  "cmd_scrollTop": {
+    "message": "Scorri in cima"
+  },
+  "cmd_scrollBottom": {
+    "message": "Scorri in fondo"
+  },
+  "cmd_nextTab": {
+    "message": "Scheda successiva"
+  },
+  "cmd_prevTab": {
+    "message": "Scheda precedente"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Apri link in nuova scheda"
+  },
+  "cmd_searchText": {
+    "message": "Cerca testo selezionato"
+  },
+  "cmd_none": {
+    "message": "Nessuna azione"
+  },
+  "optionsTitle": {
+    "message": "Impostazioni di Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "Gesti"
+  },
+  "tabTrail": {
+    "message": "Scia"
+  },
+  "tabExclusions": {
+    "message": "Siti esclusi"
+  },
+  "tabAdvanced": {
+    "message": "Avanzate"
+  },
+  "tabAbout": {
+    "message": "Informazioni"
+  },
+  "gestureEditorTitle": {
+    "message": "Mappa dei gesti"
+  },
+  "gestureEditorHelp": {
+    "message": "Tieni premuto il tasto destro del mouse e traccia una direzione, poi rilascia. Assegna ogni direzione a un comando."
+  },
+  "drawToBind": {
+    "message": "Traccia per associare"
+  },
+  "drawPrompt": {
+    "message": "Traccia un gesto nel riquadro (tieni premuto il tasto destro)…"
+  },
+  "clearBinding": {
+    "message": "Cancella"
+  },
+  "colGesture": {
+    "message": "Gesto"
+  },
+  "colCommand": {
+    "message": "Comando"
+  },
+  "rockerTitle": {
+    "message": "Gesti rocker"
+  },
+  "rockerBack": {
+    "message": "Tieni premuto il destro, clic sinistro → Indietro"
+  },
+  "rockerForward": {
+    "message": "Tieni premuto il sinistro, clic destro → Avanti"
+  },
+  "wheelTitle": {
+    "message": "Gesti con la rotellina"
+  },
+  "wheelTabs": {
+    "message": "Tieni premuto il destro + rotellina → Cambia scheda"
+  },
+  "superDragTitle": {
+    "message": "Super-trascinamento"
+  },
+  "superDragLink": {
+    "message": "Trascina un link → apri in nuova scheda"
+  },
+  "superDragText": {
+    "message": "Trascina il testo selezionato → cerca"
+  },
+  "trailTitle": {
+    "message": "Scia del gesto"
+  },
+  "trailEnabled": {
+    "message": "Mostra la scia del gesto"
+  },
+  "trailColor": {
+    "message": "Colore della scia"
+  },
+  "trailWidth": {
+    "message": "Spessore della scia"
+  },
+  "trailPreview": {
+    "message": "Anteprima"
+  },
+  "exclusionsTitle": {
+    "message": "Siti esclusi"
+  },
+  "exclusionsHelp": {
+    "message": "I gesti sono disattivati su questi domini. Un dominio per riga, es. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Aggiungi"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Rimuovi"
+  },
+  "noExclusions": {
+    "message": "Nessun sito escluso per ora."
+  },
+  "advancedTitle": {
+    "message": "Avanzate"
+  },
+  "importConfig": {
+    "message": "Importa impostazioni"
+  },
+  "exportConfig": {
+    "message": "Esporta impostazioni"
+  },
+  "importError": {
+    "message": "Impossibile importare: il file non è un'esportazione valida delle impostazioni."
+  },
+  "importOk": {
+    "message": "Impostazioni importate."
+  },
+  "resetDefaults": {
+    "message": "Ripristina i valori predefiniti"
+  },
+  "resetConfirm": {
+    "message": "Ripristinare tutti i gesti e le impostazioni ai valori predefiniti?"
+  },
+  "searchEngineLabel": {
+    "message": "Modello di URL di ricerca"
+  },
+  "searchEngineHelp": {
+    "message": "Usato dal gesto di ricerca del testo. %s viene sostituito dalla tua selezione. Invia la selezione a questo URL solo quando lo attivi."
+  },
+  "proTitle": {
+    "message": "Funzioni Pro"
+  },
+  "proLocked": {
+    "message": "Questa è una funzione Pro."
+  },
+  "proProfiles": {
+    "message": "Profili e preset dei gesti"
+  },
+  "proChords": {
+    "message": "Combinazioni e sequenze"
+  },
+  "proCustom": {
+    "message": "Comandi personalizzati (dichiarativi)"
+  },
+  "proSync": {
+    "message": "Sincronizzazione tra dispositivi"
+  },
+  "proUrlTemplate": {
+    "message": "Comando con modello di URL personalizzato"
+  },
+  "unlockPro": {
+    "message": "Sblocca Pro"
+  },
+  "proActive": {
+    "message": "Pro è attivo. Grazie!"
+  },
+  "licensePlaceholder": {
+    "message": "Inserisci la tua chiave di licenza"
+  },
+  "activateLicense": {
+    "message": "Attiva"
+  },
+  "licenseInvalid": {
+    "message": "Chiave di licenza non riconosciuta."
+  },
+  "onboardTitle": {
+    "message": "Ti diamo il benvenuto in Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Controlla l'intero browser con un semplice movimento del mouse."
+  },
+  "onboardTrust": {
+    "message": "100% locale · nessuna telemetria, nessuna analisi, nessun account. L'unica attività di rete è la ricerca che avvii esplicitamente, verso il motore che scegli."
+  },
+  "onboardEnableTitle": {
+    "message": "Attiva i gesti su tutti i siti"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures ha bisogno dell'autorizzazione per rilevare il movimento del mouse sulle pagine che visiti, così da riconoscere i tuoi gesti. Nessun contenuto della pagina viene mai letto, memorizzato o inviato."
+  },
+  "onboardEnableBtn": {
+    "message": "Attiva i gesti su tutti i siti"
+  },
+  "onboardEnabled": {
+    "message": "Gesti attivati. È tutto pronto."
+  },
+  "onboardDenied": {
+    "message": "Autorizzazione rifiutata. Puoi attivarla in qualsiasi momento dal popup."
+  },
+  "onboardTryTitle": {
+    "message": "Provalo ora"
+  },
+  "onboardTryBody": {
+    "message": "Tieni premuto il tasto destro del mouse, muovi verso sinistra e rilascia per tornare indietro."
+  },
+  "onboardOpenSettings": {
+    "message": "Apri le impostazioni"
+  },
+  "onboardFinish": {
+    "message": "Fine"
+  },
+  "trustBanner": {
+    "message": "Gratis per sempre · Nessun account · Nessuna pubblicità · Nessun tracciamento"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures è trasparente sulle sue autorizzazioni e mantiene tutto sul tuo dispositivo. I gesti vengono riconosciuti localmente; nulla di ciò che navighi viene raccolto."
+  },
+  "privacyLink": {
+    "message": "Informativa sulla privacy"
+  },
+  "save": {
+    "message": "Salva"
+  },
+  "cancel": {
+    "message": "Annulla"
+  },
+  "saved": {
+    "message": "Salvato"
+  },
+  "supportLink": {
+    "message": "Contatta il supporto"
+  }
+}

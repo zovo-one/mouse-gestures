@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - 簡単なマウス操作でブラウザを操作",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "マウスジェスチャーでブラウザを操作。100% ローカル、アカウント不要、追跡なし。",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "ジェスチャー オン"
+  },
+  "statusOff": {
+    "message": "ジェスチャー オフ"
+  },
+  "toggleEnable": {
+    "message": "有効にする"
+  },
+  "toggleDisable": {
+    "message": "無効にする"
+  },
+  "cheatSheetTitle": {
+    "message": "あなたのジェスチャー"
+  },
+  "openOptions": {
+    "message": "設定"
+  },
+  "openOnboarding": {
+    "message": "ジェスチャーを設定"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "FREE"
+  },
+  "cmd_newTab": {
+    "message": "新しいタブ"
+  },
+  "cmd_closeTab": {
+    "message": "タブを閉じる"
+  },
+  "cmd_reopenTab": {
+    "message": "閉じたタブを再度開く"
+  },
+  "cmd_back": {
+    "message": "戻る"
+  },
+  "cmd_forward": {
+    "message": "進む"
+  },
+  "cmd_reload": {
+    "message": "ページを再読み込み"
+  },
+  "cmd_duplicateTab": {
+    "message": "タブを複製"
+  },
+  "cmd_scrollTop": {
+    "message": "一番上へスクロール"
+  },
+  "cmd_scrollBottom": {
+    "message": "一番下へスクロール"
+  },
+  "cmd_nextTab": {
+    "message": "次のタブ"
+  },
+  "cmd_prevTab": {
+    "message": "前のタブ"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "リンクを新しいタブで開く"
+  },
+  "cmd_searchText": {
+    "message": "選択したテキストを検索"
+  },
+  "cmd_none": {
+    "message": "動作なし"
+  },
+  "optionsTitle": {
+    "message": "Mouse Gestures の設定"
+  },
+  "tabGestures": {
+    "message": "ジェスチャー"
+  },
+  "tabTrail": {
+    "message": "軌跡"
+  },
+  "tabExclusions": {
+    "message": "除外サイト"
+  },
+  "tabAdvanced": {
+    "message": "詳細設定"
+  },
+  "tabAbout": {
+    "message": "情報"
+  },
+  "gestureEditorTitle": {
+    "message": "ジェスチャーマップ"
+  },
+  "gestureEditorHelp": {
+    "message": "マウスの右ボタンを押しながら方向を描き、離してください。各方向にコマンドを割り当てます。"
+  },
+  "drawToBind": {
+    "message": "描いて割り当て"
+  },
+  "drawPrompt": {
+    "message": "枠の中でジェスチャーを描いてください（右ボタンを押しながら）…"
+  },
+  "clearBinding": {
+    "message": "クリア"
+  },
+  "colGesture": {
+    "message": "ジェスチャー"
+  },
+  "colCommand": {
+    "message": "コマンド"
+  },
+  "rockerTitle": {
+    "message": "ロッカージェスチャー"
+  },
+  "rockerBack": {
+    "message": "右を押しながら左クリック → 戻る"
+  },
+  "rockerForward": {
+    "message": "左を押しながら右クリック → 進む"
+  },
+  "wheelTitle": {
+    "message": "ホイールジェスチャー"
+  },
+  "wheelTabs": {
+    "message": "右を押しながらホイール → タブを切り替え"
+  },
+  "superDragTitle": {
+    "message": "スーパードラッグ"
+  },
+  "superDragLink": {
+    "message": "リンクをドラッグ → 新しいタブで開く"
+  },
+  "superDragText": {
+    "message": "選択したテキストをドラッグ → 検索"
+  },
+  "trailTitle": {
+    "message": "ジェスチャー軌跡"
+  },
+  "trailEnabled": {
+    "message": "ジェスチャー軌跡を表示"
+  },
+  "trailColor": {
+    "message": "軌跡の色"
+  },
+  "trailWidth": {
+    "message": "軌跡の太さ"
+  },
+  "trailPreview": {
+    "message": "プレビュー"
+  },
+  "exclusionsTitle": {
+    "message": "除外サイト"
+  },
+  "exclusionsHelp": {
+    "message": "これらのドメインではジェスチャーが無効になります。1 行に 1 ドメイン、例: maps.google.com。"
+  },
+  "addExclusion": {
+    "message": "追加"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "削除"
+  },
+  "noExclusions": {
+    "message": "除外サイトはまだありません。"
+  },
+  "advancedTitle": {
+    "message": "詳細設定"
+  },
+  "importConfig": {
+    "message": "設定をインポート"
+  },
+  "exportConfig": {
+    "message": "設定をエクスポート"
+  },
+  "importError": {
+    "message": "インポートできませんでした：このファイルは有効な設定エクスポートではありません。"
+  },
+  "importOk": {
+    "message": "設定をインポートしました。"
+  },
+  "resetDefaults": {
+    "message": "初期設定に戻す"
+  },
+  "resetConfirm": {
+    "message": "すべてのジェスチャーと設定を初期設定に戻しますか？"
+  },
+  "searchEngineLabel": {
+    "message": "検索 URL テンプレート"
+  },
+  "searchEngineHelp": {
+    "message": "テキスト検索ジェスチャーで使用します。%s は選択した内容に置き換えられます。選択内容は、あなたが実行したときにのみこの URL へ送信されます。"
+  },
+  "proTitle": {
+    "message": "Pro 機能"
+  },
+  "proLocked": {
+    "message": "これは Pro 機能です。"
+  },
+  "proProfiles": {
+    "message": "ジェスチャープロファイルとプリセット"
+  },
+  "proChords": {
+    "message": "コード（同時押し）とシーケンス"
+  },
+  "proCustom": {
+    "message": "カスタムコマンド（宣言型）"
+  },
+  "proSync": {
+    "message": "デバイス間同期"
+  },
+  "proUrlTemplate": {
+    "message": "カスタム URL テンプレートコマンド"
+  },
+  "unlockPro": {
+    "message": "Pro のロックを解除"
+  },
+  "proActive": {
+    "message": "Pro が有効です。ありがとうございます！"
+  },
+  "licensePlaceholder": {
+    "message": "ライセンスキーを入力"
+  },
+  "activateLicense": {
+    "message": "有効化"
+  },
+  "licenseInvalid": {
+    "message": "そのライセンスキーは認識できませんでした。"
+  },
+  "onboardTitle": {
+    "message": "Mouse Gestures へようこそ"
+  },
+  "onboardSubtitle": {
+    "message": "マウスをひと振りするだけで、ブラウザ全体を操作できます。"
+  },
+  "onboardTrust": {
+    "message": "100% ローカル · テレメトリなし、分析なし、アカウント不要。唯一の通信は、あなたが明示的に実行した検索を、あなたが選んだ検索エンジンへ送信することだけです。"
+  },
+  "onboardEnableTitle": {
+    "message": "すべてのサイトでジェスチャーを有効にする"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures はジェスチャーを認識するために、訪問したページ上のマウスの動きを監視する権限を必要とします。ページの内容が読み取られたり、保存されたり、送信されたりすることは一切ありません。"
+  },
+  "onboardEnableBtn": {
+    "message": "すべてのサイトでジェスチャーを有効にする"
+  },
+  "onboardEnabled": {
+    "message": "ジェスチャーが有効になりました。準備完了です。"
+  },
+  "onboardDenied": {
+    "message": "権限が拒否されました。ポップアップからいつでも有効にできます。"
+  },
+  "onboardTryTitle": {
+    "message": "今すぐ試す"
+  },
+  "onboardTryBody": {
+    "message": "マウスの右ボタンを押しながら左に動かし、離すと戻ります。"
+  },
+  "onboardOpenSettings": {
+    "message": "設定を開く"
+  },
+  "onboardFinish": {
+    "message": "完了"
+  },
+  "trustBanner": {
+    "message": "ずっと無料 · アカウント不要 · 広告なし · 追跡なし"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures は権限について透明性を保ち、すべてをあなたのデバイス内に留めます。ジェスチャーはローカルで認識され、閲覧内容が収集されることはありません。"
+  },
+  "privacyLink": {
+    "message": "プライバシーポリシー"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "saved": {
+    "message": "保存しました"
+  },
+  "supportLink": {
+    "message": "サポートに問い合わせる"
+  }
+}

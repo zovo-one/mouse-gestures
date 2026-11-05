@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Pārlūka vadība ar vienkāršām peles kustībām",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Vadiet pārlūku ar peles žestiem. 100% lokāli, bez konta, bez izsekošanas.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Peles žesti"
+  },
+  "statusOn": {
+    "message": "Žesti ieslēgti"
+  },
+  "statusOff": {
+    "message": "Žesti izslēgti"
+  },
+  "toggleEnable": {
+    "message": "Ieslēgt"
+  },
+  "toggleDisable": {
+    "message": "Izslēgt"
+  },
+  "cheatSheetTitle": {
+    "message": "Jūsu žesti"
+  },
+  "openOptions": {
+    "message": "Iestatījumi"
+  },
+  "openOnboarding": {
+    "message": "Iestatīt žestus"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "BEZMAKSAS"
+  },
+  "cmd_newTab": {
+    "message": "Jauna cilne"
+  },
+  "cmd_closeTab": {
+    "message": "Aizvērt cilni"
+  },
+  "cmd_reopenTab": {
+    "message": "Atkārtoti atvērt aizvērto cilni"
+  },
+  "cmd_back": {
+    "message": "Atpakaļ"
+  },
+  "cmd_forward": {
+    "message": "Uz priekšu"
+  },
+  "cmd_reload": {
+    "message": "Pārlādēt lapu"
+  },
+  "cmd_duplicateTab": {
+    "message": "Dublēt cilni"
+  },
+  "cmd_scrollTop": {
+    "message": "Ritināt uz augšu"
+  },
+  "cmd_scrollBottom": {
+    "message": "Ritināt uz leju"
+  },
+  "cmd_nextTab": {
+    "message": "Nākamā cilne"
+  },
+  "cmd_prevTab": {
+    "message": "Iepriekšējā cilne"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Atvērt saiti jaunā cilnē"
+  },
+  "cmd_searchText": {
+    "message": "Meklēt atlasīto tekstu"
+  },
+  "cmd_none": {
+    "message": "Nav darbības"
+  },
+  "optionsTitle": {
+    "message": "Peles žestu iestatījumi"
+  },
+  "tabGestures": {
+    "message": "Žesti"
+  },
+  "tabTrail": {
+    "message": "Pēda"
+  },
+  "tabExclusions": {
+    "message": "Izslēgtās vietnes"
+  },
+  "tabAdvanced": {
+    "message": "Papildu"
+  },
+  "tabAbout": {
+    "message": "Par"
+  },
+  "gestureEditorTitle": {
+    "message": "Žestu karte"
+  },
+  "gestureEditorHelp": {
+    "message": "Turiet labo peles pogu un uzzīmējiet virzienu, pēc tam atlaidiet. Katram virzienam piešķiriet komandu."
+  },
+  "drawToBind": {
+    "message": "Zīmējiet, lai piesaistītu"
+  },
+  "drawPrompt": {
+    "message": "Uzzīmējiet žestu lodziņā (turiet labo pogu)…"
+  },
+  "clearBinding": {
+    "message": "Notīrīt"
+  },
+  "colGesture": {
+    "message": "Žests"
+  },
+  "colCommand": {
+    "message": "Komanda"
+  },
+  "rockerTitle": {
+    "message": "Šūpuļa žesti"
+  },
+  "rockerBack": {
+    "message": "Turiet labo, klikšķiniet kreiso → Atpakaļ"
+  },
+  "rockerForward": {
+    "message": "Turiet kreiso, klikšķiniet labo → Uz priekšu"
+  },
+  "wheelTitle": {
+    "message": "Ritenīša žesti"
+  },
+  "wheelTabs": {
+    "message": "Turiet labo + ritenītis → Pārslēgt cilnes"
+  },
+  "superDragTitle": {
+    "message": "Super vilkšana"
+  },
+  "superDragLink": {
+    "message": "Velciet saiti → atvērt jaunā cilnē"
+  },
+  "superDragText": {
+    "message": "Velciet atlasīto tekstu → meklēt"
+  },
+  "trailTitle": {
+    "message": "Žesta pēda"
+  },
+  "trailEnabled": {
+    "message": "Rādīt žesta pēdu"
+  },
+  "trailColor": {
+    "message": "Pēdas krāsa"
+  },
+  "trailWidth": {
+    "message": "Pēdas platums"
+  },
+  "trailPreview": {
+    "message": "Priekšskatījums"
+  },
+  "exclusionsTitle": {
+    "message": "Izslēgtās vietnes"
+  },
+  "exclusionsHelp": {
+    "message": "Šajos domēnos žesti ir izslēgti. Viens domēns rindā, piem., maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Pievienot"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Noņemt"
+  },
+  "noExclusions": {
+    "message": "Vēl nav izslēgtu vietņu."
+  },
+  "advancedTitle": {
+    "message": "Papildu"
+  },
+  "importConfig": {
+    "message": "Importēt iestatījumus"
+  },
+  "exportConfig": {
+    "message": "Eksportēt iestatījumus"
+  },
+  "importError": {
+    "message": "Neizdevās importēt: fails nav derīgs iestatījumu eksports."
+  },
+  "importOk": {
+    "message": "Iestatījumi importēti."
+  },
+  "resetDefaults": {
+    "message": "Atiestatīt uz noklusējumiem"
+  },
+  "resetConfirm": {
+    "message": "Atiestatīt visus žestus un iestatījumus uz noklusējumiem?"
+  },
+  "searchEngineLabel": {
+    "message": "Meklēšanas URL veidne"
+  },
+  "searchEngineHelp": {
+    "message": "Izmanto teksta meklēšanas žests. %s tiek aizstāts ar jūsu atlasīto tekstu. Atlase tiek nosūtīta uz šo URL tikai tad, kad to aktivizējat."
+  },
+  "proTitle": {
+    "message": "Pro funkcijas"
+  },
+  "proLocked": {
+    "message": "Šī ir Pro funkcija."
+  },
+  "proProfiles": {
+    "message": "Žestu profili un priekšiestatījumi"
+  },
+  "proChords": {
+    "message": "Akordi un secības"
+  },
+  "proCustom": {
+    "message": "Pielāgotas komandas (deklaratīvas)"
+  },
+  "proSync": {
+    "message": "Sinhronizācija starp ierīcēm"
+  },
+  "proUrlTemplate": {
+    "message": "Pielāgota URL veidnes komanda"
+  },
+  "unlockPro": {
+    "message": "Atbloķēt Pro"
+  },
+  "proActive": {
+    "message": "Pro ir aktīvs. Paldies!"
+  },
+  "licensePlaceholder": {
+    "message": "Ievadiet licences atslēgu"
+  },
+  "activateLicense": {
+    "message": "Aktivizēt"
+  },
+  "licenseInvalid": {
+    "message": "Šī licences atslēga netika atpazīta."
+  },
+  "onboardTitle": {
+    "message": "Laipni lūdzam Peles žestos"
+  },
+  "onboardSubtitle": {
+    "message": "Vadiet visu pārlūku ar vienu peles kustību."
+  },
+  "onboardTrust": {
+    "message": "100% lokāli · bez telemetrijas, bez analītikas, bez kontiem. Vienīgā tīkla darbība ir jūsu skaidri aktivizētā meklēšana uz jūsu izvēlēto meklētāju."
+  },
+  "onboardEnableTitle": {
+    "message": "Ieslēgt žestus visās vietnēs"
+  },
+  "onboardEnableBody": {
+    "message": "Peles žestiem nepieciešama atļauja novērot peles kustību jūsu apmeklētajās lapās, lai atpazītu žestus. Nekāds lapas saturs nekad netiek lasīts, saglabāts vai nosūtīts."
+  },
+  "onboardEnableBtn": {
+    "message": "Ieslēgt žestus visās vietnēs"
+  },
+  "onboardEnabled": {
+    "message": "Žesti ieslēgti. Viss ir gatavs."
+  },
+  "onboardDenied": {
+    "message": "Atļauja tika noraidīta. Jūs to varat ieslēgt jebkurā laikā no uznirstošā loga."
+  },
+  "onboardTryTitle": {
+    "message": "Izmēģiniet tagad"
+  },
+  "onboardTryBody": {
+    "message": "Turiet labo peles pogu, virziet pa kreisi un atlaidiet, lai ietu atpakaļ."
+  },
+  "onboardOpenSettings": {
+    "message": "Atvērt iestatījumus"
+  },
+  "onboardFinish": {
+    "message": "Pabeigt"
+  },
+  "trustBanner": {
+    "message": "Bezmaksas mūžīgi · Bez konta · Bez reklāmām · Bez izsekošanas"
+  },
+  "aboutBody": {
+    "message": "Peles žesti atklāti norāda savas atļaujas un visu patur jūsu ierīcē. Žesti tiek atpazīti lokāli; nekas no tā, ko pārlūkojat, netiek vākts."
+  },
+  "privacyLink": {
+    "message": "Privātuma politika"
+  },
+  "save": {
+    "message": "Saglabāt"
+  },
+  "cancel": {
+    "message": "Atcelt"
+  },
+  "saved": {
+    "message": "Saglabāts"
+  },
+  "supportLink": {
+    "message": "Sazināties ar atbalstu"
+  }
+}

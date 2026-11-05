@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - 用簡單的滑鼠手勢瀏覽網頁",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "用滑鼠手勢控制瀏覽器。100% 本機執行，免帳戶，不追蹤。",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "滑鼠手勢"
+  },
+  "statusOn": {
+    "message": "手勢已開啟"
+  },
+  "statusOff": {
+    "message": "手勢已關閉"
+  },
+  "toggleEnable": {
+    "message": "啟用"
+  },
+  "toggleDisable": {
+    "message": "停用"
+  },
+  "cheatSheetTitle": {
+    "message": "你的手勢"
+  },
+  "openOptions": {
+    "message": "設定"
+  },
+  "openOnboarding": {
+    "message": "設定手勢"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "免費"
+  },
+  "cmd_newTab": {
+    "message": "新分頁"
+  },
+  "cmd_closeTab": {
+    "message": "關閉分頁"
+  },
+  "cmd_reopenTab": {
+    "message": "重新開啟已關閉的分頁"
+  },
+  "cmd_back": {
+    "message": "上一頁"
+  },
+  "cmd_forward": {
+    "message": "下一頁"
+  },
+  "cmd_reload": {
+    "message": "重新載入頁面"
+  },
+  "cmd_duplicateTab": {
+    "message": "複製分頁"
+  },
+  "cmd_scrollTop": {
+    "message": "捲動至頂端"
+  },
+  "cmd_scrollBottom": {
+    "message": "捲動至底部"
+  },
+  "cmd_nextTab": {
+    "message": "下一個分頁"
+  },
+  "cmd_prevTab": {
+    "message": "上一個分頁"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "在新分頁開啟連結"
+  },
+  "cmd_searchText": {
+    "message": "搜尋選取的文字"
+  },
+  "cmd_none": {
+    "message": "無動作"
+  },
+  "optionsTitle": {
+    "message": "滑鼠手勢設定"
+  },
+  "tabGestures": {
+    "message": "手勢"
+  },
+  "tabTrail": {
+    "message": "軌跡"
+  },
+  "tabExclusions": {
+    "message": "排除的網站"
+  },
+  "tabAdvanced": {
+    "message": "進階"
+  },
+  "tabAbout": {
+    "message": "關於"
+  },
+  "gestureEditorTitle": {
+    "message": "手勢對應表"
+  },
+  "gestureEditorHelp": {
+    "message": "按住滑鼠右鍵並畫出一個方向，然後放開。為每個方向指派一個指令。"
+  },
+  "drawToBind": {
+    "message": "畫出以綁定"
+  },
+  "drawPrompt": {
+    "message": "在方框中畫一個手勢（按住右鍵）…"
+  },
+  "clearBinding": {
+    "message": "清除"
+  },
+  "colGesture": {
+    "message": "手勢"
+  },
+  "colCommand": {
+    "message": "指令"
+  },
+  "rockerTitle": {
+    "message": "搖桿手勢"
+  },
+  "rockerBack": {
+    "message": "按住右鍵、點左鍵 → 上一頁"
+  },
+  "rockerForward": {
+    "message": "按住左鍵、點右鍵 → 下一頁"
+  },
+  "wheelTitle": {
+    "message": "滾輪手勢"
+  },
+  "wheelTabs": {
+    "message": "按住右鍵 + 滾輪 → 切換分頁"
+  },
+  "superDragTitle": {
+    "message": "超級拖曳"
+  },
+  "superDragLink": {
+    "message": "拖曳連結 → 在新分頁開啟"
+  },
+  "superDragText": {
+    "message": "拖曳選取的文字 → 搜尋"
+  },
+  "trailTitle": {
+    "message": "手勢軌跡"
+  },
+  "trailEnabled": {
+    "message": "顯示手勢軌跡"
+  },
+  "trailColor": {
+    "message": "軌跡顏色"
+  },
+  "trailWidth": {
+    "message": "軌跡寬度"
+  },
+  "trailPreview": {
+    "message": "預覽"
+  },
+  "exclusionsTitle": {
+    "message": "排除的網站"
+  },
+  "exclusionsHelp": {
+    "message": "在這些網域上會停用手勢。每行一個網域，例如 maps.google.com。"
+  },
+  "addExclusion": {
+    "message": "新增"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "移除"
+  },
+  "noExclusions": {
+    "message": "尚無排除的網站。"
+  },
+  "advancedTitle": {
+    "message": "進階"
+  },
+  "importConfig": {
+    "message": "匯入設定"
+  },
+  "exportConfig": {
+    "message": "匯出設定"
+  },
+  "importError": {
+    "message": "無法匯入：此檔案不是有效的設定匯出檔。"
+  },
+  "importOk": {
+    "message": "已匯入設定。"
+  },
+  "resetDefaults": {
+    "message": "重設為預設值"
+  },
+  "resetConfirm": {
+    "message": "要將所有手勢與設定重設為預設值嗎？"
+  },
+  "searchEngineLabel": {
+    "message": "搜尋 URL 範本"
+  },
+  "searchEngineHelp": {
+    "message": "供搜尋文字手勢使用。%s 會替換成你選取的內容。僅在你觸發時才會將選取內容傳送到此 URL。"
+  },
+  "proTitle": {
+    "message": "Pro 功能"
+  },
+  "proLocked": {
+    "message": "這是 Pro 功能。"
+  },
+  "proProfiles": {
+    "message": "手勢設定檔與預設組合"
+  },
+  "proChords": {
+    "message": "和弦與序列"
+  },
+  "proCustom": {
+    "message": "自訂指令（宣告式）"
+  },
+  "proSync": {
+    "message": "跨裝置同步"
+  },
+  "proUrlTemplate": {
+    "message": "自訂 URL 範本指令"
+  },
+  "unlockPro": {
+    "message": "解鎖 Pro"
+  },
+  "proActive": {
+    "message": "Pro 已啟用。謝謝你！"
+  },
+  "licensePlaceholder": {
+    "message": "輸入你的授權金鑰"
+  },
+  "activateLicense": {
+    "message": "啟用"
+  },
+  "licenseInvalid": {
+    "message": "無法辨識該授權金鑰。"
+  },
+  "onboardTitle": {
+    "message": "歡迎使用滑鼠手勢"
+  },
+  "onboardSubtitle": {
+    "message": "輕輕一揮滑鼠，掌控整個瀏覽器。"
+  },
+  "onboardTrust": {
+    "message": "100% 本機執行 · 無遙測、無分析、無帳戶。唯一的網路活動是你主動觸發的搜尋，傳送到你選擇的搜尋引擎。"
+  },
+  "onboardEnableTitle": {
+    "message": "在所有網站啟用手勢"
+  },
+  "onboardEnableBody": {
+    "message": "滑鼠手勢需要權限來偵測你造訪頁面上的滑鼠移動，以辨識你的手勢。絕不會讀取、儲存或傳送任何頁面內容。"
+  },
+  "onboardEnableBtn": {
+    "message": "在所有網站啟用手勢"
+  },
+  "onboardEnabled": {
+    "message": "手勢已啟用。一切就緒。"
+  },
+  "onboardDenied": {
+    "message": "權限遭拒。你隨時可以從彈出視窗啟用它。"
+  },
+  "onboardTryTitle": {
+    "message": "立即試用"
+  },
+  "onboardTryBody": {
+    "message": "按住滑鼠右鍵，向左移動再放開，即可返回上一頁。"
+  },
+  "onboardOpenSettings": {
+    "message": "開啟設定"
+  },
+  "onboardFinish": {
+    "message": "完成"
+  },
+  "trustBanner": {
+    "message": "永久免費 · 無帳戶 · 無廣告 · 不追蹤"
+  },
+  "aboutBody": {
+    "message": "滑鼠手勢對其權限公開透明，並將一切保留在你的裝置上。手勢在本機辨識；你瀏覽的任何內容都不會被收集。"
+  },
+  "privacyLink": {
+    "message": "隱私權政策"
+  },
+  "save": {
+    "message": "儲存"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "saved": {
+    "message": "已儲存"
+  },
+  "supportLink": {
+    "message": "聯絡支援"
+  }
+}

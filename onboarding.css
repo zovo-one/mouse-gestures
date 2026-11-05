@@ -1,0 +1,35 @@
+* { box-sizing: border-box; }
+body {
+    margin: 0;
+    font: 15px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: radial-gradient(1200px 600px at 50% -10%, #241f3d, #14121f);
+    color: #eaeafb;
+    min-height: 100vh;
+}
+.wrap { max-width: 640px; margin: 0 auto; padding: 56px 24px; }
+h1 { font-size: 30px; margin: 0 0 6px; }
+.sub { color: #a39fc7; font-size: 17px; margin: 0 0 24px; }
+.card {
+    background: #1d1a2e; border: 1px solid #2c2740; border-radius: 14px;
+    padding: 22px 24px; margin: 16px 0;
+}
+.card h2 { margin: 0 0 8px; font-size: 18px; }
+.card p { margin: 0 0 14px; color: #cfcbe8; }
+.btn {
+    padding: 12px 20px; border: 0; border-radius: 10px; cursor: pointer;
+    font-weight: 600; font-size: 15px; color: #fff; background: #6d5efc;
+}
+.btn.sec { background: #34304a; }
+.granted { color: #3fd18b; font-weight: 600; }
+.denied { color: #ffb4b4; font-weight: 600; }
+.trust {
+    margin-top: 20px; text-align: center; color: #a39fc7; font-size: 13px;
+    border-top: 1px solid #2c2740; padding-top: 16px;
+}
+.mono { font-family: ui-monospace, Menlo, monospace; color: #8b7cf0; }
+.actions { display: flex; gap: 10px; }
+button:focus-visible, a:focus-visible {
+    outline: 2px solid #8b7cf0;
+    outline-offset: 2px;
+}
+

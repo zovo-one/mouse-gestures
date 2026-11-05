@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - ควบคุมเบราว์เซอร์ด้วยท่าทางเมาส์ง่ายๆ",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "ควบคุมเบราว์เซอร์ด้วยท่าทางเมาส์ 100% ทำงานในเครื่อง ไม่ต้องมีบัญชี ไม่มีการติดตาม",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "ท่าทางเมาส์"
+  },
+  "statusOn": {
+    "message": "เปิดใช้ท่าทาง"
+  },
+  "statusOff": {
+    "message": "ปิดท่าทาง"
+  },
+  "toggleEnable": {
+    "message": "เปิดใช้"
+  },
+  "toggleDisable": {
+    "message": "ปิด"
+  },
+  "cheatSheetTitle": {
+    "message": "ท่าทางของคุณ"
+  },
+  "openOptions": {
+    "message": "การตั้งค่า"
+  },
+  "openOnboarding": {
+    "message": "ตั้งค่าท่าทาง"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "ฟรี"
+  },
+  "cmd_newTab": {
+    "message": "แท็บใหม่"
+  },
+  "cmd_closeTab": {
+    "message": "ปิดแท็บ"
+  },
+  "cmd_reopenTab": {
+    "message": "เปิดแท็บที่ปิดไปอีกครั้ง"
+  },
+  "cmd_back": {
+    "message": "ย้อนกลับ"
+  },
+  "cmd_forward": {
+    "message": "ไปข้างหน้า"
+  },
+  "cmd_reload": {
+    "message": "โหลดหน้าใหม่"
+  },
+  "cmd_duplicateTab": {
+    "message": "ทำสำเนาแท็บ"
+  },
+  "cmd_scrollTop": {
+    "message": "เลื่อนขึ้นบนสุด"
+  },
+  "cmd_scrollBottom": {
+    "message": "เลื่อนลงล่างสุด"
+  },
+  "cmd_nextTab": {
+    "message": "แท็บถัดไป"
+  },
+  "cmd_prevTab": {
+    "message": "แท็บก่อนหน้า"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "เปิดลิงก์ในแท็บใหม่"
+  },
+  "cmd_searchText": {
+    "message": "ค้นหาข้อความที่เลือก"
+  },
+  "cmd_none": {
+    "message": "ไม่มีการทำงาน"
+  },
+  "optionsTitle": {
+    "message": "การตั้งค่าท่าทางเมาส์"
+  },
+  "tabGestures": {
+    "message": "ท่าทาง"
+  },
+  "tabTrail": {
+    "message": "เส้นทาง"
+  },
+  "tabExclusions": {
+    "message": "เว็บไซต์ที่ยกเว้น"
+  },
+  "tabAdvanced": {
+    "message": "ขั้นสูง"
+  },
+  "tabAbout": {
+    "message": "เกี่ยวกับ"
+  },
+  "gestureEditorTitle": {
+    "message": "แผนผังท่าทาง"
+  },
+  "gestureEditorHelp": {
+    "message": "กดปุ่มเมาส์ขวาค้างไว้แล้ววาดทิศทาง จากนั้นปล่อย กำหนดคำสั่งให้แต่ละทิศทาง"
+  },
+  "drawToBind": {
+    "message": "วาดเพื่อผูก"
+  },
+  "drawPrompt": {
+    "message": "วาดท่าทางในกล่อง (กดปุ่มขวาค้างไว้)…"
+  },
+  "clearBinding": {
+    "message": "ล้าง"
+  },
+  "colGesture": {
+    "message": "ท่าทาง"
+  },
+  "colCommand": {
+    "message": "คำสั่ง"
+  },
+  "rockerTitle": {
+    "message": "ท่าทางแบบร็อกเกอร์"
+  },
+  "rockerBack": {
+    "message": "กดขวาค้าง คลิกซ้าย → ย้อนกลับ"
+  },
+  "rockerForward": {
+    "message": "กดซ้ายค้าง คลิกขวา → ไปข้างหน้า"
+  },
+  "wheelTitle": {
+    "message": "ท่าทางแบบล้อเลื่อน"
+  },
+  "wheelTabs": {
+    "message": "กดขวาค้าง + หมุนล้อ → สลับแท็บ"
+  },
+  "superDragTitle": {
+    "message": "ซูเปอร์แดร็ก"
+  },
+  "superDragLink": {
+    "message": "ลากลิงก์ → เปิดในแท็บใหม่"
+  },
+  "superDragText": {
+    "message": "ลากข้อความที่เลือก → ค้นหา"
+  },
+  "trailTitle": {
+    "message": "เส้นทางท่าทาง"
+  },
+  "trailEnabled": {
+    "message": "แสดงเส้นทางท่าทาง"
+  },
+  "trailColor": {
+    "message": "สีเส้นทาง"
+  },
+  "trailWidth": {
+    "message": "ความหนาเส้นทาง"
+  },
+  "trailPreview": {
+    "message": "ตัวอย่าง"
+  },
+  "exclusionsTitle": {
+    "message": "เว็บไซต์ที่ยกเว้น"
+  },
+  "exclusionsHelp": {
+    "message": "ท่าทางจะถูกปิดในโดเมนเหล่านี้ หนึ่งโดเมนต่อบรรทัด เช่น maps.google.com"
+  },
+  "addExclusion": {
+    "message": "เพิ่ม"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "นำออก"
+  },
+  "noExclusions": {
+    "message": "ยังไม่มีเว็บไซต์ที่ยกเว้น"
+  },
+  "advancedTitle": {
+    "message": "ขั้นสูง"
+  },
+  "importConfig": {
+    "message": "นำเข้าการตั้งค่า"
+  },
+  "exportConfig": {
+    "message": "ส่งออกการตั้งค่า"
+  },
+  "importError": {
+    "message": "นำเข้าไม่ได้: ไฟล์ไม่ใช่การส่งออกการตั้งค่าที่ถูกต้อง"
+  },
+  "importOk": {
+    "message": "นำเข้าการตั้งค่าแล้ว"
+  },
+  "resetDefaults": {
+    "message": "รีเซ็ตเป็นค่าเริ่มต้น"
+  },
+  "resetConfirm": {
+    "message": "รีเซ็ตท่าทางและการตั้งค่าทั้งหมดเป็นค่าเริ่มต้นหรือไม่?"
+  },
+  "searchEngineLabel": {
+    "message": "เทมเพลต URL การค้นหา"
+  },
+  "searchEngineHelp": {
+    "message": "ใช้โดยท่าทางค้นหาข้อความ %s จะถูกแทนที่ด้วยข้อความที่คุณเลือก ส่งข้อความที่เลือกไปยัง URL นี้เฉพาะเมื่อคุณสั่งเท่านั้น"
+  },
+  "proTitle": {
+    "message": "ฟีเจอร์ Pro"
+  },
+  "proLocked": {
+    "message": "นี่คือฟีเจอร์ Pro"
+  },
+  "proProfiles": {
+    "message": "โปรไฟล์และพรีเซ็ตท่าทาง"
+  },
+  "proChords": {
+    "message": "คอร์ดและลำดับ"
+  },
+  "proCustom": {
+    "message": "คำสั่งกำหนดเอง (เชิงประกาศ)"
+  },
+  "proSync": {
+    "message": "ซิงค์ข้ามเครื่อง"
+  },
+  "proUrlTemplate": {
+    "message": "คำสั่งเทมเพลต URL กำหนดเอง"
+  },
+  "unlockPro": {
+    "message": "ปลดล็อก Pro"
+  },
+  "proActive": {
+    "message": "Pro เปิดใช้งานอยู่ ขอบคุณ!"
+  },
+  "licensePlaceholder": {
+    "message": "ป้อนคีย์ลิขสิทธิ์ของคุณ"
+  },
+  "activateLicense": {
+    "message": "เปิดใช้งาน"
+  },
+  "licenseInvalid": {
+    "message": "ไม่รู้จักคีย์ลิขสิทธิ์นั้น"
+  },
+  "onboardTitle": {
+    "message": "ยินดีต้อนรับสู่ท่าทางเมาส์"
+  },
+  "onboardSubtitle": {
+    "message": "ควบคุมเบราว์เซอร์ทั้งหมดด้วยการสะบัดเมาส์"
+  },
+  "onboardTrust": {
+    "message": "100% ทำงานในเครื่อง · ไม่มีเทเลเมทรี ไม่มีการวิเคราะห์ ไม่มีบัญชี กิจกรรมเครือข่ายเดียวคือการค้นหาที่คุณสั่งเอง ไปยังเครื่องมือที่คุณเลือก"
+  },
+  "onboardEnableTitle": {
+    "message": "เปิดใช้ท่าทางในทุกเว็บไซต์"
+  },
+  "onboardEnableBody": {
+    "message": "ท่าทางเมาส์ต้องขออนุญาตเพื่อสังเกตการเคลื่อนไหวของเมาส์ในหน้าที่คุณเยี่ยมชม เพื่อจดจำท่าทางของคุณ ไม่มีการอ่าน จัดเก็บ หรือส่งเนื้อหาของหน้าใด ๆ"
+  },
+  "onboardEnableBtn": {
+    "message": "เปิดใช้ท่าทางในทุกเว็บไซต์"
+  },
+  "onboardEnabled": {
+    "message": "เปิดใช้ท่าทางแล้ว คุณพร้อมแล้ว"
+  },
+  "onboardDenied": {
+    "message": "การอนุญาตถูกปฏิเสธ คุณเปิดใช้ได้ทุกเมื่อจากป๊อปอัป"
+  },
+  "onboardTryTitle": {
+    "message": "ลองเลย"
+  },
+  "onboardTryBody": {
+    "message": "กดปุ่มเมาส์ขวาค้าง เลื่อนไปทางซ้าย แล้วปล่อยเพื่อย้อนกลับ"
+  },
+  "onboardOpenSettings": {
+    "message": "เปิดการตั้งค่า"
+  },
+  "onboardFinish": {
+    "message": "เสร็จสิ้น"
+  },
+  "trustBanner": {
+    "message": "ฟรีตลอดไป · ไม่มีบัญชี · ไม่มีโฆษณา · ไม่มีการติดตาม"
+  },
+  "aboutBody": {
+    "message": "ท่าทางเมาส์เปิดเผยเรื่องสิทธิ์การเข้าถึงอย่างโปร่งใส และเก็บทุกอย่างไว้ในเครื่องของคุณ ท่าทางถูกจดจำในเครื่อง ไม่มีการเก็บสิ่งที่คุณเรียกดู"
+  },
+  "privacyLink": {
+    "message": "นโยบายความเป็นส่วนตัว"
+  },
+  "save": {
+    "message": "บันทึก"
+  },
+  "cancel": {
+    "message": "ยกเลิก"
+  },
+  "saved": {
+    "message": "บันทึกแล้ว"
+  },
+  "supportLink": {
+    "message": "ติดต่อฝ่ายสนับสนุน"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Vinjari kivinjari kwa miondoko rahisi ya kipanya",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Dhibiti kivinjari chako kwa ishara za kipanya. 100% ya ndani, bila akaunti, bila kufuatilia.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Ishara za Kipanya"
+  },
+  "statusOn": {
+    "message": "Ishara zimewashwa"
+  },
+  "statusOff": {
+    "message": "Ishara zimezimwa"
+  },
+  "toggleEnable": {
+    "message": "Washa"
+  },
+  "toggleDisable": {
+    "message": "Zima"
+  },
+  "cheatSheetTitle": {
+    "message": "Ishara zako"
+  },
+  "openOptions": {
+    "message": "Mipangilio"
+  },
+  "openOnboarding": {
+    "message": "Sanidi ishara"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "BILA MALIPO"
+  },
+  "cmd_newTab": {
+    "message": "Kichupo kipya"
+  },
+  "cmd_closeTab": {
+    "message": "Funga kichupo"
+  },
+  "cmd_reopenTab": {
+    "message": "Fungua tena kichupo kilichofungwa"
+  },
+  "cmd_back": {
+    "message": "Rudi nyuma"
+  },
+  "cmd_forward": {
+    "message": "Nenda mbele"
+  },
+  "cmd_reload": {
+    "message": "Pakia upya ukurasa"
+  },
+  "cmd_duplicateTab": {
+    "message": "Nakili kichupo"
+  },
+  "cmd_scrollTop": {
+    "message": "Sogeza hadi juu"
+  },
+  "cmd_scrollBottom": {
+    "message": "Sogeza hadi chini"
+  },
+  "cmd_nextTab": {
+    "message": "Kichupo kinachofuata"
+  },
+  "cmd_prevTab": {
+    "message": "Kichupo kilichotangulia"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Fungua kiungo katika kichupo kipya"
+  },
+  "cmd_searchText": {
+    "message": "Tafuta maandishi uliyochagua"
+  },
+  "cmd_none": {
+    "message": "Hakuna kitendo"
+  },
+  "optionsTitle": {
+    "message": "Mipangilio ya ishara za kipanya"
+  },
+  "tabGestures": {
+    "message": "Ishara"
+  },
+  "tabTrail": {
+    "message": "Njia"
+  },
+  "tabExclusions": {
+    "message": "Tovuti zilizotengwa"
+  },
+  "tabAdvanced": {
+    "message": "Za kina"
+  },
+  "tabAbout": {
+    "message": "Kuhusu"
+  },
+  "gestureEditorTitle": {
+    "message": "Ramani ya ishara"
+  },
+  "gestureEditorHelp": {
+    "message": "Shikilia kitufe cha kulia cha kipanya na uchore mwelekeo, kisha uachie. Peana kila mwelekeo amri."
+  },
+  "drawToBind": {
+    "message": "Chora ili kufunga"
+  },
+  "drawPrompt": {
+    "message": "Chora ishara kwenye kisanduku (shikilia kitufe cha kulia)…"
+  },
+  "clearBinding": {
+    "message": "Futa"
+  },
+  "colGesture": {
+    "message": "Ishara"
+  },
+  "colCommand": {
+    "message": "Amri"
+  },
+  "rockerTitle": {
+    "message": "Ishara za Rocker"
+  },
+  "rockerBack": {
+    "message": "Shikilia kulia, bofya kushoto → Nyuma"
+  },
+  "rockerForward": {
+    "message": "Shikilia kushoto, bofya kulia → Mbele"
+  },
+  "wheelTitle": {
+    "message": "Ishara za gurudumu"
+  },
+  "wheelTabs": {
+    "message": "Shikilia kulia + gurudumu → Badilisha vichupo"
+  },
+  "superDragTitle": {
+    "message": "Buruta-kuu"
+  },
+  "superDragLink": {
+    "message": "Buruta kiungo → fungua katika kichupo kipya"
+  },
+  "superDragText": {
+    "message": "Buruta maandishi uliyochagua → tafuta"
+  },
+  "trailTitle": {
+    "message": "Njia ya ishara"
+  },
+  "trailEnabled": {
+    "message": "Onyesha njia ya ishara"
+  },
+  "trailColor": {
+    "message": "Rangi ya njia"
+  },
+  "trailWidth": {
+    "message": "Upana wa njia"
+  },
+  "trailPreview": {
+    "message": "Onyesho la awali"
+  },
+  "exclusionsTitle": {
+    "message": "Tovuti zilizotengwa"
+  },
+  "exclusionsHelp": {
+    "message": "Ishara zimezimwa kwenye vikoa hivi. Kikoa kimoja kwa kila mstari, k.m. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Ongeza"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Ondoa"
+  },
+  "noExclusions": {
+    "message": "Bado hakuna tovuti zilizotengwa."
+  },
+  "advancedTitle": {
+    "message": "Za kina"
+  },
+  "importConfig": {
+    "message": "Leta mipangilio"
+  },
+  "exportConfig": {
+    "message": "Hamisha mipangilio"
+  },
+  "importError": {
+    "message": "Haikuweza kuleta: faili si hamisho halali la mipangilio."
+  },
+  "importOk": {
+    "message": "Mipangilio imeletwa."
+  },
+  "resetDefaults": {
+    "message": "Rejesha chaguomsingi"
+  },
+  "resetConfirm": {
+    "message": "Urejeshe ishara na mipangilio yote kwenye chaguomsingi?"
+  },
+  "searchEngineLabel": {
+    "message": "Kiolezo cha URL ya utafutaji"
+  },
+  "searchEngineHelp": {
+    "message": "Hutumiwa na ishara ya kutafuta-maandishi. %s hubadilishwa na uteuzi wako. Hutuma uteuzi kwenye URL hii tu unapoiwasha."
+  },
+  "proTitle": {
+    "message": "Vipengele vya Pro"
+  },
+  "proLocked": {
+    "message": "Hiki ni kipengele cha Pro."
+  },
+  "proProfiles": {
+    "message": "Wasifu wa ishara na mipangilio tayari"
+  },
+  "proChords": {
+    "message": "Kodi na mfuatano"
+  },
+  "proCustom": {
+    "message": "Amri maalum (za kutamka)"
+  },
+  "proSync": {
+    "message": "Usawazishaji kati ya mashine"
+  },
+  "proUrlTemplate": {
+    "message": "Amri maalum ya kiolezo cha URL"
+  },
+  "unlockPro": {
+    "message": "Fungua Pro"
+  },
+  "proActive": {
+    "message": "Pro imewashwa. Asante!"
+  },
+  "licensePlaceholder": {
+    "message": "Weka ufunguo wako wa leseni"
+  },
+  "activateLicense": {
+    "message": "Amilisha"
+  },
+  "licenseInvalid": {
+    "message": "Ufunguo huo wa leseni haukutambuliwa."
+  },
+  "onboardTitle": {
+    "message": "Karibu kwenye Ishara za Kipanya"
+  },
+  "onboardSubtitle": {
+    "message": "Dhibiti kivinjari chako chote kwa mtikisiko mmoja wa kipanya."
+  },
+  "onboardTrust": {
+    "message": "100% ya ndani · bila telemetria, bila uchanganuzi, bila akaunti. Shughuli pekee ya mtandao ni utafutaji unaouwasha wewe mwenyewe, kwa injini uliyochagua."
+  },
+  "onboardEnableTitle": {
+    "message": "Washa ishara kwenye tovuti zote"
+  },
+  "onboardEnableBody": {
+    "message": "Ishara za Kipanya zinahitaji ruhusa ya kufuatilia mwendo wa kipanya kwenye kurasa unazotembelea ili kutambua ishara zako. Hakuna maudhui ya ukurasa yanayosomwa, kuhifadhiwa au kutumwa kamwe."
+  },
+  "onboardEnableBtn": {
+    "message": "Washa ishara kwenye tovuti zote"
+  },
+  "onboardEnabled": {
+    "message": "Ishara zimewashwa. Uko tayari kabisa."
+  },
+  "onboardDenied": {
+    "message": "Ruhusa ilikataliwa. Unaweza kuiwasha wakati wowote kutoka kwenye kidirisha ibukizi."
+  },
+  "onboardTryTitle": {
+    "message": "Ijaribu sasa"
+  },
+  "onboardTryBody": {
+    "message": "Shikilia kitufe cha kulia cha kipanya, sogeza kushoto, na uachie ili kurudi nyuma."
+  },
+  "onboardOpenSettings": {
+    "message": "Fungua mipangilio"
+  },
+  "onboardFinish": {
+    "message": "Maliza"
+  },
+  "trustBanner": {
+    "message": "Bila malipo milele · Bila akaunti · Bila matangazo · Bila kufuatilia"
+  },
+  "aboutBody": {
+    "message": "Ishara za Kipanya ni wazi kuhusu ruhusa zake na huhifadhi kila kitu kwenye kifaa chako. Ishara hutambuliwa ndani ya kifaa; hakuna chochote unachovinjari kinachokusanywa."
+  },
+  "privacyLink": {
+    "message": "Sera ya faragha"
+  },
+  "save": {
+    "message": "Hifadhi"
+  },
+  "cancel": {
+    "message": "Ghairi"
+  },
+  "saved": {
+    "message": "Imehifadhiwa"
+  },
+  "supportLink": {
+    "message": "Wasiliana na msaada"
+  }
+}

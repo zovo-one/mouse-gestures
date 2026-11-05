@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - 간단한 마우스 동작으로 브라우저 탐색",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "마우스 제스처로 브라우저를 제어하세요. 100% 로컬, 계정 불필요, 추적 없음.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "제스처 켜짐"
+  },
+  "statusOff": {
+    "message": "제스처 꺼짐"
+  },
+  "toggleEnable": {
+    "message": "사용"
+  },
+  "toggleDisable": {
+    "message": "사용 안 함"
+  },
+  "cheatSheetTitle": {
+    "message": "내 제스처"
+  },
+  "openOptions": {
+    "message": "설정"
+  },
+  "openOnboarding": {
+    "message": "제스처 설정하기"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "FREE"
+  },
+  "cmd_newTab": {
+    "message": "새 탭"
+  },
+  "cmd_closeTab": {
+    "message": "탭 닫기"
+  },
+  "cmd_reopenTab": {
+    "message": "닫은 탭 다시 열기"
+  },
+  "cmd_back": {
+    "message": "뒤로 가기"
+  },
+  "cmd_forward": {
+    "message": "앞으로 가기"
+  },
+  "cmd_reload": {
+    "message": "페이지 새로고침"
+  },
+  "cmd_duplicateTab": {
+    "message": "탭 복제"
+  },
+  "cmd_scrollTop": {
+    "message": "맨 위로 스크롤"
+  },
+  "cmd_scrollBottom": {
+    "message": "맨 아래로 스크롤"
+  },
+  "cmd_nextTab": {
+    "message": "다음 탭"
+  },
+  "cmd_prevTab": {
+    "message": "이전 탭"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "링크를 새 탭에서 열기"
+  },
+  "cmd_searchText": {
+    "message": "선택한 텍스트 검색"
+  },
+  "cmd_none": {
+    "message": "동작 없음"
+  },
+  "optionsTitle": {
+    "message": "Mouse Gestures 설정"
+  },
+  "tabGestures": {
+    "message": "제스처"
+  },
+  "tabTrail": {
+    "message": "궤적"
+  },
+  "tabExclusions": {
+    "message": "제외된 사이트"
+  },
+  "tabAdvanced": {
+    "message": "고급"
+  },
+  "tabAbout": {
+    "message": "정보"
+  },
+  "gestureEditorTitle": {
+    "message": "제스처 맵"
+  },
+  "gestureEditorHelp": {
+    "message": "마우스 오른쪽 버튼을 누른 채 방향을 그린 다음 놓으세요. 각 방향에 명령을 지정합니다."
+  },
+  "drawToBind": {
+    "message": "그려서 지정"
+  },
+  "drawPrompt": {
+    "message": "상자 안에 제스처를 그리세요 (오른쪽 버튼을 누른 채)…"
+  },
+  "clearBinding": {
+    "message": "지우기"
+  },
+  "colGesture": {
+    "message": "제스처"
+  },
+  "colCommand": {
+    "message": "명령"
+  },
+  "rockerTitle": {
+    "message": "로커 제스처"
+  },
+  "rockerBack": {
+    "message": "오른쪽을 누른 채 왼쪽 클릭 → 뒤로"
+  },
+  "rockerForward": {
+    "message": "왼쪽을 누른 채 오른쪽 클릭 → 앞으로"
+  },
+  "wheelTitle": {
+    "message": "휠 제스처"
+  },
+  "wheelTabs": {
+    "message": "오른쪽을 누른 채 휠 → 탭 전환"
+  },
+  "superDragTitle": {
+    "message": "슈퍼 드래그"
+  },
+  "superDragLink": {
+    "message": "링크 드래그 → 새 탭에서 열기"
+  },
+  "superDragText": {
+    "message": "선택한 텍스트 드래그 → 검색"
+  },
+  "trailTitle": {
+    "message": "제스처 궤적"
+  },
+  "trailEnabled": {
+    "message": "제스처 궤적 표시"
+  },
+  "trailColor": {
+    "message": "궤적 색상"
+  },
+  "trailWidth": {
+    "message": "궤적 두께"
+  },
+  "trailPreview": {
+    "message": "미리보기"
+  },
+  "exclusionsTitle": {
+    "message": "제외된 사이트"
+  },
+  "exclusionsHelp": {
+    "message": "이 도메인에서는 제스처가 비활성화됩니다. 한 줄에 도메인 하나씩, 예: maps.google.com."
+  },
+  "addExclusion": {
+    "message": "추가"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "제거"
+  },
+  "noExclusions": {
+    "message": "아직 제외된 사이트가 없습니다."
+  },
+  "advancedTitle": {
+    "message": "고급"
+  },
+  "importConfig": {
+    "message": "설정 가져오기"
+  },
+  "exportConfig": {
+    "message": "설정 내보내기"
+  },
+  "importError": {
+    "message": "가져올 수 없습니다: 이 파일은 유효한 설정 내보내기가 아닙니다."
+  },
+  "importOk": {
+    "message": "설정을 가져왔습니다."
+  },
+  "resetDefaults": {
+    "message": "기본값으로 재설정"
+  },
+  "resetConfirm": {
+    "message": "모든 제스처와 설정을 기본값으로 재설정하시겠습니까?"
+  },
+  "searchEngineLabel": {
+    "message": "검색 URL 템플릿"
+  },
+  "searchEngineHelp": {
+    "message": "텍스트 검색 제스처에서 사용됩니다. %s는 선택한 내용으로 대체됩니다. 선택한 내용은 제스처를 실행할 때만 이 URL로 전송됩니다."
+  },
+  "proTitle": {
+    "message": "Pro 기능"
+  },
+  "proLocked": {
+    "message": "이 기능은 Pro 전용입니다."
+  },
+  "proProfiles": {
+    "message": "제스처 프로필 및 프리셋"
+  },
+  "proChords": {
+    "message": "코드 및 시퀀스"
+  },
+  "proCustom": {
+    "message": "사용자 지정 명령 (선언형)"
+  },
+  "proSync": {
+    "message": "기기 간 동기화"
+  },
+  "proUrlTemplate": {
+    "message": "사용자 지정 URL 템플릿 명령"
+  },
+  "unlockPro": {
+    "message": "Pro 잠금 해제"
+  },
+  "proActive": {
+    "message": "Pro가 활성화되었습니다. 감사합니다!"
+  },
+  "licensePlaceholder": {
+    "message": "라이선스 키를 입력하세요"
+  },
+  "activateLicense": {
+    "message": "활성화"
+  },
+  "licenseInvalid": {
+    "message": "라이선스 키를 인식할 수 없습니다."
+  },
+  "onboardTitle": {
+    "message": "Mouse Gestures에 오신 것을 환영합니다"
+  },
+  "onboardSubtitle": {
+    "message": "마우스를 한 번 휘두르는 것만으로 브라우저 전체를 제어하세요."
+  },
+  "onboardTrust": {
+    "message": "100% 로컬 · 텔레메트리 없음, 분석 없음, 계정 불필요. 유일한 네트워크 활동은 직접 실행한 검색을 선택한 검색 엔진으로 보내는 것뿐입니다."
+  },
+  "onboardEnableTitle": {
+    "message": "모든 사이트에서 제스처 사용"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures가 제스처를 인식하려면 방문하는 페이지에서 마우스 움직임을 감지할 권한이 필요합니다. 페이지 내용은 절대 읽거나 저장하거나 전송하지 않습니다."
+  },
+  "onboardEnableBtn": {
+    "message": "모든 사이트에서 제스처 사용"
+  },
+  "onboardEnabled": {
+    "message": "제스처가 활성화되었습니다. 모든 준비가 끝났습니다."
+  },
+  "onboardDenied": {
+    "message": "권한이 거부되었습니다. 팝업에서 언제든지 사용 설정할 수 있습니다."
+  },
+  "onboardTryTitle": {
+    "message": "지금 사용해 보기"
+  },
+  "onboardTryBody": {
+    "message": "마우스 오른쪽 버튼을 누른 채 왼쪽으로 움직인 다음 놓으면 뒤로 이동합니다."
+  },
+  "onboardOpenSettings": {
+    "message": "설정 열기"
+  },
+  "onboardFinish": {
+    "message": "완료"
+  },
+  "trustBanner": {
+    "message": "평생 무료 · 계정 불필요 · 광고 없음 · 추적 없음"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures는 권한에 대해 투명하며 모든 것을 사용자의 기기에 보관합니다. 제스처는 로컬에서 인식되며, 사용자가 탐색하는 내용은 수집되지 않습니다."
+  },
+  "privacyLink": {
+    "message": "개인정보처리방침"
+  },
+  "save": {
+    "message": "저장"
+  },
+  "cancel": {
+    "message": "취소"
+  },
+  "saved": {
+    "message": "저장됨"
+  },
+  "supportLink": {
+    "message": "지원팀에 문의하기"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Điều hướng trình duyệt bằng cử chỉ chuột đơn giản",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Điều khiển trình duyệt bằng cử chỉ chuột. 100% cục bộ, không tài khoản, không theo dõi.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Cử chỉ chuột"
+  },
+  "statusOn": {
+    "message": "Đã bật cử chỉ"
+  },
+  "statusOff": {
+    "message": "Đã tắt cử chỉ"
+  },
+  "toggleEnable": {
+    "message": "Bật"
+  },
+  "toggleDisable": {
+    "message": "Tắt"
+  },
+  "cheatSheetTitle": {
+    "message": "Cử chỉ của bạn"
+  },
+  "openOptions": {
+    "message": "Cài đặt"
+  },
+  "openOnboarding": {
+    "message": "Thiết lập cử chỉ"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "MIỄN PHÍ"
+  },
+  "cmd_newTab": {
+    "message": "Tab mới"
+  },
+  "cmd_closeTab": {
+    "message": "Đóng tab"
+  },
+  "cmd_reopenTab": {
+    "message": "Mở lại tab đã đóng"
+  },
+  "cmd_back": {
+    "message": "Quay lại"
+  },
+  "cmd_forward": {
+    "message": "Tiến tới"
+  },
+  "cmd_reload": {
+    "message": "Tải lại trang"
+  },
+  "cmd_duplicateTab": {
+    "message": "Nhân đôi tab"
+  },
+  "cmd_scrollTop": {
+    "message": "Cuộn lên đầu"
+  },
+  "cmd_scrollBottom": {
+    "message": "Cuộn xuống cuối"
+  },
+  "cmd_nextTab": {
+    "message": "Tab kế tiếp"
+  },
+  "cmd_prevTab": {
+    "message": "Tab trước"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Mở liên kết trong tab mới"
+  },
+  "cmd_searchText": {
+    "message": "Tìm văn bản đã chọn"
+  },
+  "cmd_none": {
+    "message": "Không hành động"
+  },
+  "optionsTitle": {
+    "message": "Cài đặt Cử chỉ chuột"
+  },
+  "tabGestures": {
+    "message": "Cử chỉ"
+  },
+  "tabTrail": {
+    "message": "Vệt"
+  },
+  "tabExclusions": {
+    "message": "Trang bị loại trừ"
+  },
+  "tabAdvanced": {
+    "message": "Nâng cao"
+  },
+  "tabAbout": {
+    "message": "Giới thiệu"
+  },
+  "gestureEditorTitle": {
+    "message": "Bản đồ cử chỉ"
+  },
+  "gestureEditorHelp": {
+    "message": "Giữ nút chuột phải và vẽ một hướng, rồi thả ra. Gán mỗi hướng cho một lệnh."
+  },
+  "drawToBind": {
+    "message": "Vẽ để gán"
+  },
+  "drawPrompt": {
+    "message": "Vẽ một cử chỉ trong ô (giữ nút phải)…"
+  },
+  "clearBinding": {
+    "message": "Xóa"
+  },
+  "colGesture": {
+    "message": "Cử chỉ"
+  },
+  "colCommand": {
+    "message": "Lệnh"
+  },
+  "rockerTitle": {
+    "message": "Cử chỉ Rocker"
+  },
+  "rockerBack": {
+    "message": "Giữ phải, nhấp trái → Quay lại"
+  },
+  "rockerForward": {
+    "message": "Giữ trái, nhấp phải → Tiến tới"
+  },
+  "wheelTitle": {
+    "message": "Cử chỉ con lăn"
+  },
+  "wheelTabs": {
+    "message": "Giữ phải + lăn → Chuyển tab"
+  },
+  "superDragTitle": {
+    "message": "Kéo thả nâng cao"
+  },
+  "superDragLink": {
+    "message": "Kéo liên kết → mở trong tab mới"
+  },
+  "superDragText": {
+    "message": "Kéo văn bản đã chọn → tìm kiếm"
+  },
+  "trailTitle": {
+    "message": "Vệt cử chỉ"
+  },
+  "trailEnabled": {
+    "message": "Hiện vệt cử chỉ"
+  },
+  "trailColor": {
+    "message": "Màu vệt"
+  },
+  "trailWidth": {
+    "message": "Độ dày vệt"
+  },
+  "trailPreview": {
+    "message": "Xem trước"
+  },
+  "exclusionsTitle": {
+    "message": "Trang bị loại trừ"
+  },
+  "exclusionsHelp": {
+    "message": "Cử chỉ bị tắt trên các miền này. Mỗi miền một dòng, ví dụ maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Thêm"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Xóa"
+  },
+  "noExclusions": {
+    "message": "Chưa có trang nào bị loại trừ."
+  },
+  "advancedTitle": {
+    "message": "Nâng cao"
+  },
+  "importConfig": {
+    "message": "Nhập cài đặt"
+  },
+  "exportConfig": {
+    "message": "Xuất cài đặt"
+  },
+  "importError": {
+    "message": "Không thể nhập: tệp không phải là bản xuất cài đặt hợp lệ."
+  },
+  "importOk": {
+    "message": "Đã nhập cài đặt."
+  },
+  "resetDefaults": {
+    "message": "Đặt lại về mặc định"
+  },
+  "resetConfirm": {
+    "message": "Đặt lại tất cả cử chỉ và cài đặt về mặc định?"
+  },
+  "searchEngineLabel": {
+    "message": "Mẫu URL tìm kiếm"
+  },
+  "searchEngineHelp": {
+    "message": "Được dùng bởi cử chỉ tìm-văn-bản. %s được thay bằng phần bạn chọn. Chỉ gửi phần đã chọn đến URL này khi bạn kích hoạt."
+  },
+  "proTitle": {
+    "message": "Tính năng Pro"
+  },
+  "proLocked": {
+    "message": "Đây là tính năng Pro."
+  },
+  "proProfiles": {
+    "message": "Hồ sơ & cài đặt sẵn cử chỉ"
+  },
+  "proChords": {
+    "message": "Hợp âm & chuỗi"
+  },
+  "proCustom": {
+    "message": "Lệnh tùy chỉnh (khai báo)"
+  },
+  "proSync": {
+    "message": "Đồng bộ đa máy"
+  },
+  "proUrlTemplate": {
+    "message": "Lệnh mẫu URL tùy chỉnh"
+  },
+  "unlockPro": {
+    "message": "Mở khóa Pro"
+  },
+  "proActive": {
+    "message": "Pro đang hoạt động. Cảm ơn bạn!"
+  },
+  "licensePlaceholder": {
+    "message": "Nhập khóa giấy phép của bạn"
+  },
+  "activateLicense": {
+    "message": "Kích hoạt"
+  },
+  "licenseInvalid": {
+    "message": "Không nhận ra khóa giấy phép đó."
+  },
+  "onboardTitle": {
+    "message": "Chào mừng đến với Cử chỉ chuột"
+  },
+  "onboardSubtitle": {
+    "message": "Điều khiển toàn bộ trình duyệt chỉ bằng một cái vẩy chuột."
+  },
+  "onboardTrust": {
+    "message": "100% cục bộ · không đo từ xa, không phân tích, không tài khoản. Hoạt động mạng duy nhất là tìm kiếm bạn tự kích hoạt, đến công cụ bạn chọn."
+  },
+  "onboardEnableTitle": {
+    "message": "Bật cử chỉ trên mọi trang"
+  },
+  "onboardEnableBody": {
+    "message": "Cử chỉ chuột cần quyền theo dõi chuyển động chuột trên các trang bạn truy cập để nhận diện cử chỉ. Không nội dung trang nào bị đọc, lưu hay gửi đi."
+  },
+  "onboardEnableBtn": {
+    "message": "Bật cử chỉ trên mọi trang"
+  },
+  "onboardEnabled": {
+    "message": "Đã bật cử chỉ. Mọi thứ đã sẵn sàng."
+  },
+  "onboardDenied": {
+    "message": "Quyền đã bị từ chối. Bạn có thể bật lại bất cứ lúc nào từ cửa sổ bật lên."
+  },
+  "onboardTryTitle": {
+    "message": "Thử ngay"
+  },
+  "onboardTryBody": {
+    "message": "Giữ nút chuột phải, di chuyển sang trái và thả ra để quay lại."
+  },
+  "onboardOpenSettings": {
+    "message": "Mở cài đặt"
+  },
+  "onboardFinish": {
+    "message": "Hoàn tất"
+  },
+  "trustBanner": {
+    "message": "Miễn phí mãi mãi · Không tài khoản · Không quảng cáo · Không theo dõi"
+  },
+  "aboutBody": {
+    "message": "Cử chỉ chuột minh bạch về các quyền của nó và giữ mọi thứ trên thiết bị của bạn. Cử chỉ được nhận diện cục bộ; không thu thập bất cứ thứ gì bạn duyệt."
+  },
+  "privacyLink": {
+    "message": "Chính sách bảo mật"
+  },
+  "save": {
+    "message": "Lưu"
+  },
+  "cancel": {
+    "message": "Hủy"
+  },
+  "saved": {
+    "message": "Đã lưu"
+  },
+  "supportLink": {
+    "message": "Liên hệ hỗ trợ"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - सरल माउस मूवमेंट से ब्राउज़र नेविगेट करें",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "अपना ब्राउज़र माउस जेस्चर से नियंत्रित करें। 100% लोकल, कोई अकाउंट नहीं, कोई ट्रैकिंग नहीं।",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "माउस जेस्चर"
+  },
+  "statusOn": {
+    "message": "जेस्चर चालू"
+  },
+  "statusOff": {
+    "message": "जेस्चर बंद"
+  },
+  "toggleEnable": {
+    "message": "सक्षम करें"
+  },
+  "toggleDisable": {
+    "message": "अक्षम करें"
+  },
+  "cheatSheetTitle": {
+    "message": "आपके जेस्चर"
+  },
+  "openOptions": {
+    "message": "सेटिंग्स"
+  },
+  "openOnboarding": {
+    "message": "जेस्चर सेट करें"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "मुफ़्त"
+  },
+  "cmd_newTab": {
+    "message": "नया टैब"
+  },
+  "cmd_closeTab": {
+    "message": "टैब बंद करें"
+  },
+  "cmd_reopenTab": {
+    "message": "बंद टैब फिर से खोलें"
+  },
+  "cmd_back": {
+    "message": "पीछे जाएँ"
+  },
+  "cmd_forward": {
+    "message": "आगे जाएँ"
+  },
+  "cmd_reload": {
+    "message": "पेज फिर से लोड करें"
+  },
+  "cmd_duplicateTab": {
+    "message": "टैब की नकल बनाएँ"
+  },
+  "cmd_scrollTop": {
+    "message": "ऊपर स्क्रॉल करें"
+  },
+  "cmd_scrollBottom": {
+    "message": "नीचे स्क्रॉल करें"
+  },
+  "cmd_nextTab": {
+    "message": "अगला टैब"
+  },
+  "cmd_prevTab": {
+    "message": "पिछला टैब"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "लिंक नए टैब में खोलें"
+  },
+  "cmd_searchText": {
+    "message": "चयनित टेक्स्ट खोजें"
+  },
+  "cmd_none": {
+    "message": "कोई क्रिया नहीं"
+  },
+  "optionsTitle": {
+    "message": "माउस जेस्चर सेटिंग्स"
+  },
+  "tabGestures": {
+    "message": "जेस्चर"
+  },
+  "tabTrail": {
+    "message": "ट्रेल"
+  },
+  "tabExclusions": {
+    "message": "बहिष्कृत साइटें"
+  },
+  "tabAdvanced": {
+    "message": "उन्नत"
+  },
+  "tabAbout": {
+    "message": "परिचय"
+  },
+  "gestureEditorTitle": {
+    "message": "जेस्चर मैप"
+  },
+  "gestureEditorHelp": {
+    "message": "माउस का दायाँ बटन दबाए रखें और एक दिशा बनाएँ, फिर छोड़ें। हर दिशा को एक कमांड सौंपें।"
+  },
+  "drawToBind": {
+    "message": "बाँधने के लिए बनाएँ"
+  },
+  "drawPrompt": {
+    "message": "बॉक्स में जेस्चर बनाएँ (दायाँ बटन दबाए रखें)…"
+  },
+  "clearBinding": {
+    "message": "साफ़ करें"
+  },
+  "colGesture": {
+    "message": "जेस्चर"
+  },
+  "colCommand": {
+    "message": "कमांड"
+  },
+  "rockerTitle": {
+    "message": "रॉकर जेस्चर"
+  },
+  "rockerBack": {
+    "message": "दायाँ दबाए रखें, बायाँ क्लिक → पीछे"
+  },
+  "rockerForward": {
+    "message": "बायाँ दबाए रखें, दायाँ क्लिक → आगे"
+  },
+  "wheelTitle": {
+    "message": "व्हील जेस्चर"
+  },
+  "wheelTabs": {
+    "message": "दायाँ दबाए रखें + व्हील → टैब बदलें"
+  },
+  "superDragTitle": {
+    "message": "सुपर-ड्रैग"
+  },
+  "superDragLink": {
+    "message": "लिंक खींचें → नए टैब में खोलें"
+  },
+  "superDragText": {
+    "message": "चयनित टेक्स्ट खींचें → खोजें"
+  },
+  "trailTitle": {
+    "message": "जेस्चर ट्रेल"
+  },
+  "trailEnabled": {
+    "message": "जेस्चर ट्रेल दिखाएँ"
+  },
+  "trailColor": {
+    "message": "ट्रेल रंग"
+  },
+  "trailWidth": {
+    "message": "ट्रेल चौड़ाई"
+  },
+  "trailPreview": {
+    "message": "पूर्वावलोकन"
+  },
+  "exclusionsTitle": {
+    "message": "बहिष्कृत साइटें"
+  },
+  "exclusionsHelp": {
+    "message": "इन डोमेन पर जेस्चर अक्षम हैं। प्रति पंक्ति एक डोमेन, जैसे maps.google.com।"
+  },
+  "addExclusion": {
+    "message": "जोड़ें"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "हटाएँ"
+  },
+  "noExclusions": {
+    "message": "अभी तक कोई बहिष्कृत साइट नहीं।"
+  },
+  "advancedTitle": {
+    "message": "उन्नत"
+  },
+  "importConfig": {
+    "message": "सेटिंग्स आयात करें"
+  },
+  "exportConfig": {
+    "message": "सेटिंग्स निर्यात करें"
+  },
+  "importError": {
+    "message": "आयात नहीं हो सका: फ़ाइल एक मान्य सेटिंग्स निर्यात नहीं है।"
+  },
+  "importOk": {
+    "message": "सेटिंग्स आयात हो गईं।"
+  },
+  "resetDefaults": {
+    "message": "डिफ़ॉल्ट पर रीसेट करें"
+  },
+  "resetConfirm": {
+    "message": "सभी जेस्चर और सेटिंग्स डिफ़ॉल्ट पर रीसेट करें?"
+  },
+  "searchEngineLabel": {
+    "message": "खोज URL टेम्पलेट"
+  },
+  "searchEngineHelp": {
+    "message": "टेक्स्ट-खोज जेस्चर द्वारा उपयोग किया जाता है। %s आपके चयन से बदल जाता है। चयन इस URL पर केवल तभी भेजा जाता है जब आप इसे ट्रिगर करते हैं।"
+  },
+  "proTitle": {
+    "message": "Pro सुविधाएँ"
+  },
+  "proLocked": {
+    "message": "यह एक Pro सुविधा है।"
+  },
+  "proProfiles": {
+    "message": "जेस्चर प्रोफ़ाइल और प्रीसेट"
+  },
+  "proChords": {
+    "message": "कॉर्ड और क्रम"
+  },
+  "proCustom": {
+    "message": "कस्टम कमांड (घोषणात्मक)"
+  },
+  "proSync": {
+    "message": "उपकरणों के बीच सिंक"
+  },
+  "proUrlTemplate": {
+    "message": "कस्टम URL-टेम्पलेट कमांड"
+  },
+  "unlockPro": {
+    "message": "Pro अनलॉक करें"
+  },
+  "proActive": {
+    "message": "Pro सक्रिय है। धन्यवाद!"
+  },
+  "licensePlaceholder": {
+    "message": "अपनी लाइसेंस कुंजी दर्ज करें"
+  },
+  "activateLicense": {
+    "message": "सक्रिय करें"
+  },
+  "licenseInvalid": {
+    "message": "वह लाइसेंस कुंजी पहचानी नहीं गई।"
+  },
+  "onboardTitle": {
+    "message": "माउस जेस्चर में आपका स्वागत है"
+  },
+  "onboardSubtitle": {
+    "message": "माउस की एक हरकत से अपना पूरा ब्राउज़र नियंत्रित करें।"
+  },
+  "onboardTrust": {
+    "message": "100% लोकल · कोई टेलीमेट्री नहीं, कोई एनालिटिक्स नहीं, कोई अकाउंट नहीं। एकमात्र नेटवर्क गतिविधि वह खोज है जिसे आप स्पष्ट रूप से ट्रिगर करते हैं, आपके चुने हुए इंजन पर।"
+  },
+  "onboardEnableTitle": {
+    "message": "सभी साइटों पर जेस्चर सक्षम करें"
+  },
+  "onboardEnableBody": {
+    "message": "आपके जेस्चर पहचानने के लिए माउस जेस्चर को उन पेजों पर माउस की हरकत देखने की अनुमति चाहिए जिन्हें आप देखते हैं। कोई भी पेज सामग्री कभी पढ़ी, संग्रहीत या भेजी नहीं जाती।"
+  },
+  "onboardEnableBtn": {
+    "message": "सभी साइटों पर जेस्चर सक्षम करें"
+  },
+  "onboardEnabled": {
+    "message": "जेस्चर सक्षम हो गए। आप पूरी तरह तैयार हैं।"
+  },
+  "onboardDenied": {
+    "message": "अनुमति अस्वीकृत हुई। आप इसे पॉपअप से कभी भी सक्षम कर सकते हैं।"
+  },
+  "onboardTryTitle": {
+    "message": "अभी आज़माएँ"
+  },
+  "onboardTryBody": {
+    "message": "माउस का दायाँ बटन दबाए रखें, बाएँ ले जाएँ, और पीछे जाने के लिए छोड़ें।"
+  },
+  "onboardOpenSettings": {
+    "message": "सेटिंग्स खोलें"
+  },
+  "onboardFinish": {
+    "message": "समाप्त"
+  },
+  "trustBanner": {
+    "message": "हमेशा मुफ़्त · कोई अकाउंट नहीं · कोई विज्ञापन नहीं · कोई ट्रैकिंग नहीं"
+  },
+  "aboutBody": {
+    "message": "माउस जेस्चर अपनी अनुमतियों के बारे में पारदर्शी है और सब कुछ आपके उपकरण पर रखता है। जेस्चर स्थानीय रूप से पहचाने जाते हैं; आप जो ब्राउज़ करते हैं उसमें से कुछ भी एकत्र नहीं किया जाता।"
+  },
+  "privacyLink": {
+    "message": "गोपनीयता नीति"
+  },
+  "save": {
+    "message": "सहेजें"
+  },
+  "cancel": {
+    "message": "रद्द करें"
+  },
+  "saved": {
+    "message": "सहेजा गया"
+  },
+  "supportLink": {
+    "message": "सहायता से संपर्क करें"
+  }
+}

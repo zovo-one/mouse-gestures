@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - ലളിതമായ മൗസ് ചലനങ്ങളിലൂടെ ബ്രൗസർ നിയന്ത്രിക്കുക",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "മൗസ് ജെസ്ചറുകൾ കൊണ്ട് ബ്രൗസർ നിയന്ത്രിക്കൂ. 100% ലോക്കൽ, അക്കൗണ്ട് വേണ്ട, ട്രാക്കിംഗ് ഇല്ല.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "മൗസ് ജെസ്ചറുകൾ"
+  },
+  "statusOn": {
+    "message": "ജെസ്ചറുകൾ ഓൺ"
+  },
+  "statusOff": {
+    "message": "ജെസ്ചറുകൾ ഓഫ്"
+  },
+  "toggleEnable": {
+    "message": "പ്രവർത്തനക്ഷമമാക്കൂ"
+  },
+  "toggleDisable": {
+    "message": "പ്രവർത്തനരഹിതമാക്കൂ"
+  },
+  "cheatSheetTitle": {
+    "message": "നിങ്ങളുടെ ജെസ്ചറുകൾ"
+  },
+  "openOptions": {
+    "message": "ക്രമീകരണങ്ങൾ"
+  },
+  "openOnboarding": {
+    "message": "ജെസ്ചറുകൾ സജ്ജീകരിക്കൂ"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "സൗജന്യം"
+  },
+  "cmd_newTab": {
+    "message": "പുതിയ ടാബ്"
+  },
+  "cmd_closeTab": {
+    "message": "ടാബ് അടയ്ക്കൂ"
+  },
+  "cmd_reopenTab": {
+    "message": "അടച്ച ടാബ് വീണ്ടും തുറക്കൂ"
+  },
+  "cmd_back": {
+    "message": "പിന്നോട്ട് പോകൂ"
+  },
+  "cmd_forward": {
+    "message": "മുന്നോട്ട് പോകൂ"
+  },
+  "cmd_reload": {
+    "message": "പേജ് വീണ്ടും ലോഡ് ചെയ്യൂ"
+  },
+  "cmd_duplicateTab": {
+    "message": "ടാബ് ഡ്യൂപ്ലിക്കേറ്റ് ചെയ്യൂ"
+  },
+  "cmd_scrollTop": {
+    "message": "മുകളിലേക്ക് സ്ക്രോൾ ചെയ്യൂ"
+  },
+  "cmd_scrollBottom": {
+    "message": "താഴേക്ക് സ്ക്രോൾ ചെയ്യൂ"
+  },
+  "cmd_nextTab": {
+    "message": "അടുത്ത ടാബ്"
+  },
+  "cmd_prevTab": {
+    "message": "മുൻ ടാബ്"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "ലിങ്ക് പുതിയ ടാബിൽ തുറക്കൂ"
+  },
+  "cmd_searchText": {
+    "message": "തിരഞ്ഞെടുത്ത ടെക്സ്റ്റ് തിരയൂ"
+  },
+  "cmd_none": {
+    "message": "പ്രവർത്തനമില്ല"
+  },
+  "optionsTitle": {
+    "message": "മൗസ് ജെസ്ചർ ക്രമീകരണങ്ങൾ"
+  },
+  "tabGestures": {
+    "message": "ജെസ്ചറുകൾ"
+  },
+  "tabTrail": {
+    "message": "ട്രെയിൽ"
+  },
+  "tabExclusions": {
+    "message": "ഒഴിവാക്കിയ സൈറ്റുകൾ"
+  },
+  "tabAdvanced": {
+    "message": "വിപുലം"
+  },
+  "tabAbout": {
+    "message": "കുറിച്ച്"
+  },
+  "gestureEditorTitle": {
+    "message": "ജെസ്ചർ മാപ്പ്"
+  },
+  "gestureEditorHelp": {
+    "message": "വലത് മൗസ് ബട്ടൺ അമർത്തിപ്പിടിച്ച് ഒരു ദിശ വരയ്ക്കൂ, തുടർന്ന് വിടൂ. ഓരോ ദിശയും ഒരു കമാൻഡിലേക്ക് നൽകൂ."
+  },
+  "drawToBind": {
+    "message": "ബൈൻഡ് ചെയ്യാൻ വരയ്ക്കൂ"
+  },
+  "drawPrompt": {
+    "message": "ബോക്‌സിൽ ഒരു ജെസ്ചർ വരയ്ക്കൂ (വലത് ബട്ടൺ അമർത്തിപ്പിടിക്കൂ)…"
+  },
+  "clearBinding": {
+    "message": "മായ്‌ക്കൂ"
+  },
+  "colGesture": {
+    "message": "ജെസ്ചർ"
+  },
+  "colCommand": {
+    "message": "കമാൻഡ്"
+  },
+  "rockerTitle": {
+    "message": "റോക്കർ ജെസ്ചറുകൾ"
+  },
+  "rockerBack": {
+    "message": "വലത് പിടിക്കൂ, ഇടത് ക്ലിക്ക് → പിന്നോട്ട്"
+  },
+  "rockerForward": {
+    "message": "ഇടത് പിടിക്കൂ, വലത് ക്ലിക്ക് → മുന്നോട്ട്"
+  },
+  "wheelTitle": {
+    "message": "വീൽ ജെസ്ചറുകൾ"
+  },
+  "wheelTabs": {
+    "message": "വലത് പിടിക്കൂ + വീൽ → ടാബുകൾ മാറൂ"
+  },
+  "superDragTitle": {
+    "message": "സൂപ്പർ-ഡ്രാഗ്"
+  },
+  "superDragLink": {
+    "message": "ലിങ്ക് വലിച്ചിടൂ → പുതിയ ടാബിൽ തുറക്കൂ"
+  },
+  "superDragText": {
+    "message": "തിരഞ്ഞെടുത്ത ടെക്സ്റ്റ് വലിച്ചിടൂ → തിരയൂ"
+  },
+  "trailTitle": {
+    "message": "ജെസ്ചർ ട്രെയിൽ"
+  },
+  "trailEnabled": {
+    "message": "ജെസ്ചർ ട്രെയിൽ കാണിക്കൂ"
+  },
+  "trailColor": {
+    "message": "ട്രെയിൽ നിറം"
+  },
+  "trailWidth": {
+    "message": "ട്രെയിൽ വീതി"
+  },
+  "trailPreview": {
+    "message": "പ്രിവ്യൂ"
+  },
+  "exclusionsTitle": {
+    "message": "ഒഴിവാക്കിയ സൈറ്റുകൾ"
+  },
+  "exclusionsHelp": {
+    "message": "ഈ ഡൊമെയ്‌നുകളിൽ ജെസ്ചറുകൾ പ്രവർത്തനരഹിതമാണ്. ഓരോ വരിയിലും ഒരു ഡൊമെയ്ൻ, ഉദാ. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "ചേർക്കൂ"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "നീക്കം ചെയ്യൂ"
+  },
+  "noExclusions": {
+    "message": "ഇതുവരെ ഒഴിവാക്കിയ സൈറ്റുകളൊന്നുമില്ല."
+  },
+  "advancedTitle": {
+    "message": "വിപുലം"
+  },
+  "importConfig": {
+    "message": "ക്രമീകരണങ്ങൾ ഇറക്കുമതി ചെയ്യൂ"
+  },
+  "exportConfig": {
+    "message": "ക്രമീകരണങ്ങൾ കയറ്റുമതി ചെയ്യൂ"
+  },
+  "importError": {
+    "message": "ഇറക്കുമതി ചെയ്യാനായില്ല: ഫയൽ സാധുവായ ഒരു ക്രമീകരണ കയറ്റുമതിയല്ല."
+  },
+  "importOk": {
+    "message": "ക്രമീകരണങ്ങൾ ഇറക്കുമതി ചെയ്‌തു."
+  },
+  "resetDefaults": {
+    "message": "സ്ഥിരസ്ഥിതികളിലേക്ക് പുനഃസജ്ജമാക്കൂ"
+  },
+  "resetConfirm": {
+    "message": "എല്ലാ ജെസ്ചറുകളും ക്രമീകരണങ്ങളും സ്ഥിരസ്ഥിതികളിലേക്ക് പുനഃസജ്ജമാക്കണോ?"
+  },
+  "searchEngineLabel": {
+    "message": "തിരയൽ URL ടെംപ്ലേറ്റ്"
+  },
+  "searchEngineHelp": {
+    "message": "തിരയൽ-ടെക്സ്റ്റ് ജെസ്ചർ ഇത് ഉപയോഗിക്കുന്നു. %s നിങ്ങളുടെ തിരഞ്ഞെടുപ്പ് കൊണ്ട് മാറ്റിസ്ഥാപിക്കുന്നു. നിങ്ങൾ ട്രിഗർ ചെയ്യുമ്പോൾ മാത്രം തിരഞ്ഞെടുപ്പ് ഈ URL-ലേക്ക് അയയ്ക്കുന്നു."
+  },
+  "proTitle": {
+    "message": "പ്രോ സവിശേഷതകൾ"
+  },
+  "proLocked": {
+    "message": "ഇത് ഒരു പ്രോ സവിശേഷതയാണ്."
+  },
+  "proProfiles": {
+    "message": "ജെസ്ചർ പ്രൊഫൈലുകളും പ്രീസെറ്റുകളും"
+  },
+  "proChords": {
+    "message": "കോർഡുകളും സീക്വൻസുകളും"
+  },
+  "proCustom": {
+    "message": "ഇഷ്‌ടാനുസൃത കമാൻഡുകൾ (ഡിക്ലറേറ്റീവ്)"
+  },
+  "proSync": {
+    "message": "ക്രോസ്-മെഷീൻ സമന്വയം"
+  },
+  "proUrlTemplate": {
+    "message": "ഇഷ്‌ടാനുസൃത URL-ടെംപ്ലേറ്റ് കമാൻഡ്"
+  },
+  "unlockPro": {
+    "message": "പ്രോ അൺലോക്ക് ചെയ്യൂ"
+  },
+  "proActive": {
+    "message": "പ്രോ സജീവമാണ്. നന്ദി!"
+  },
+  "licensePlaceholder": {
+    "message": "നിങ്ങളുടെ ലൈസൻസ് കീ നൽകൂ"
+  },
+  "activateLicense": {
+    "message": "സജീവമാക്കൂ"
+  },
+  "licenseInvalid": {
+    "message": "ആ ലൈസൻസ് കീ തിരിച്ചറിഞ്ഞില്ല."
+  },
+  "onboardTitle": {
+    "message": "മൗസ് ജെസ്ചറുകളിലേക്ക് സ്വാഗതം"
+  },
+  "onboardSubtitle": {
+    "message": "മൗസിന്റെ ഒരു ചലനം കൊണ്ട് നിങ്ങളുടെ ബ്രൗസർ മുഴുവൻ നിയന്ത്രിക്കൂ."
+  },
+  "onboardTrust": {
+    "message": "100% ലോക്കൽ · ടെലിമെട്രി ഇല്ല, അനലിറ്റിക്സ് ഇല്ല, അക്കൗണ്ടുകൾ ഇല്ല. നിങ്ങൾ വ്യക്തമായി ട്രിഗർ ചെയ്യുന്ന തിരയൽ മാത്രമാണ് ഏക നെറ്റ്‌വർക്ക് പ്രവർത്തനം, നിങ്ങൾ തിരഞ്ഞെടുക്കുന്ന എഞ്ചിനിലേക്ക്."
+  },
+  "onboardEnableTitle": {
+    "message": "എല്ലാ സൈറ്റുകളിലും ജെസ്ചറുകൾ പ്രവർത്തനക്ഷമമാക്കൂ"
+  },
+  "onboardEnableBody": {
+    "message": "നിങ്ങളുടെ ജെസ്ചറുകൾ തിരിച്ചറിയാൻ നിങ്ങൾ സന്ദർശിക്കുന്ന പേജുകളിലെ മൗസ് ചലനം നിരീക്ഷിക്കാൻ മൗസ് ജെസ്ചറുകൾക്ക് അനുമതി വേണം. ഒരു പേജ് ഉള്ളടക്കവും ഒരിക്കലും വായിക്കുകയോ സംഭരിക്കുകയോ അയയ്ക്കുകയോ ചെയ്യുന്നില്ല."
+  },
+  "onboardEnableBtn": {
+    "message": "എല്ലാ സൈറ്റുകളിലും ജെസ്ചറുകൾ പ്രവർത്തനക്ഷമമാക്കൂ"
+  },
+  "onboardEnabled": {
+    "message": "ജെസ്ചറുകൾ പ്രവർത്തനക്ഷമമാക്കി. നിങ്ങൾ തയ്യാറാണ്."
+  },
+  "onboardDenied": {
+    "message": "അനുമതി നിരസിക്കപ്പെട്ടു. പോപ്പപ്പിൽ നിന്ന് എപ്പോൾ വേണമെങ്കിലും ഇത് പ്രവർത്തനക്ഷമമാക്കാം."
+  },
+  "onboardTryTitle": {
+    "message": "ഇപ്പോൾ പരീക്ഷിക്കൂ"
+  },
+  "onboardTryBody": {
+    "message": "പിന്നോട്ട് പോകാൻ വലത് മൗസ് ബട്ടൺ അമർത്തിപ്പിടിച്ച്, ഇടത്തേക്ക് നീക്കി, വിടൂ."
+  },
+  "onboardOpenSettings": {
+    "message": "ക്രമീകരണങ്ങൾ തുറക്കൂ"
+  },
+  "onboardFinish": {
+    "message": "പൂർത്തിയാക്കൂ"
+  },
+  "trustBanner": {
+    "message": "എന്നെന്നേക്കും സൗജന്യം · അക്കൗണ്ട് വേണ്ട · പരസ്യങ്ങളില്ല · ട്രാക്കിംഗ് ഇല്ല"
+  },
+  "aboutBody": {
+    "message": "മൗസ് ജെസ്ചറുകൾ അതിന്റെ അനുമതികളെക്കുറിച്ച് തുറന്ന നിലപാടെടുക്കുന്നു, എല്ലാം നിങ്ങളുടെ ഉപകരണത്തിൽ തന്നെ സൂക്ഷിക്കുന്നു. ജെസ്ചറുകൾ ലോക്കലായി തിരിച്ചറിയുന്നു; നിങ്ങൾ ബ്രൗസ് ചെയ്യുന്നതൊന്നും ശേഖരിക്കുന്നില്ല."
+  },
+  "privacyLink": {
+    "message": "സ്വകാര്യതാ നയം"
+  },
+  "save": {
+    "message": "സംരക്ഷിക്കൂ"
+  },
+  "cancel": {
+    "message": "റദ്ദാക്കൂ"
+  },
+  "saved": {
+    "message": "സംരക്ഷിച്ചു"
+  },
+  "supportLink": {
+    "message": "സപ്പോർട്ടുമായി ബന്ധപ്പെടുക"
+  }
+}

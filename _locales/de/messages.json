@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Mit einfachen Mausbewegungen im Browser navigieren",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Steuern Sie Ihren Browser mit Mausgesten. 100 % lokal, kein Konto, kein Tracking.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Gesten an"
+  },
+  "statusOff": {
+    "message": "Gesten aus"
+  },
+  "toggleEnable": {
+    "message": "Aktivieren"
+  },
+  "toggleDisable": {
+    "message": "Deaktivieren"
+  },
+  "cheatSheetTitle": {
+    "message": "Ihre Gesten"
+  },
+  "openOptions": {
+    "message": "Einstellungen"
+  },
+  "openOnboarding": {
+    "message": "Gesten einrichten"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "GRATIS"
+  },
+  "cmd_newTab": {
+    "message": "Neuer Tab"
+  },
+  "cmd_closeTab": {
+    "message": "Tab schließen"
+  },
+  "cmd_reopenTab": {
+    "message": "Geschlossenen Tab öffnen"
+  },
+  "cmd_back": {
+    "message": "Zurück"
+  },
+  "cmd_forward": {
+    "message": "Vor"
+  },
+  "cmd_reload": {
+    "message": "Seite neu laden"
+  },
+  "cmd_duplicateTab": {
+    "message": "Tab duplizieren"
+  },
+  "cmd_scrollTop": {
+    "message": "Nach oben scrollen"
+  },
+  "cmd_scrollBottom": {
+    "message": "Nach unten scrollen"
+  },
+  "cmd_nextTab": {
+    "message": "Nächster Tab"
+  },
+  "cmd_prevTab": {
+    "message": "Vorheriger Tab"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Link in neuem Tab öffnen"
+  },
+  "cmd_searchText": {
+    "message": "Markierten Text suchen"
+  },
+  "cmd_none": {
+    "message": "Keine Aktion"
+  },
+  "optionsTitle": {
+    "message": "Mouse-Gestures-Einstellungen"
+  },
+  "tabGestures": {
+    "message": "Gesten"
+  },
+  "tabTrail": {
+    "message": "Spur"
+  },
+  "tabExclusions": {
+    "message": "Ausgeschlossene Websites"
+  },
+  "tabAdvanced": {
+    "message": "Erweitert"
+  },
+  "tabAbout": {
+    "message": "Über"
+  },
+  "gestureEditorTitle": {
+    "message": "Gestenkarte"
+  },
+  "gestureEditorHelp": {
+    "message": "Halten Sie die rechte Maustaste gedrückt, zeichnen Sie eine Richtung und lassen Sie los. Weisen Sie jeder Richtung einen Befehl zu."
+  },
+  "drawToBind": {
+    "message": "Zum Zuweisen zeichnen"
+  },
+  "drawPrompt": {
+    "message": "Zeichnen Sie eine Geste im Feld (rechte Taste halten)…"
+  },
+  "clearBinding": {
+    "message": "Löschen"
+  },
+  "colGesture": {
+    "message": "Geste"
+  },
+  "colCommand": {
+    "message": "Befehl"
+  },
+  "rockerTitle": {
+    "message": "Rocker-Gesten"
+  },
+  "rockerBack": {
+    "message": "Rechts halten, links klicken → Zurück"
+  },
+  "rockerForward": {
+    "message": "Links halten, rechts klicken → Vor"
+  },
+  "wheelTitle": {
+    "message": "Rad-Gesten"
+  },
+  "wheelTabs": {
+    "message": "Rechts halten + Rad → Tabs wechseln"
+  },
+  "superDragTitle": {
+    "message": "Super-Drag"
+  },
+  "superDragLink": {
+    "message": "Link ziehen → in neuem Tab öffnen"
+  },
+  "superDragText": {
+    "message": "Markierten Text ziehen → suchen"
+  },
+  "trailTitle": {
+    "message": "Gestenspur"
+  },
+  "trailEnabled": {
+    "message": "Gestenspur anzeigen"
+  },
+  "trailColor": {
+    "message": "Spurfarbe"
+  },
+  "trailWidth": {
+    "message": "Spurbreite"
+  },
+  "trailPreview": {
+    "message": "Vorschau"
+  },
+  "exclusionsTitle": {
+    "message": "Ausgeschlossene Websites"
+  },
+  "exclusionsHelp": {
+    "message": "Auf diesen Domains sind Gesten deaktiviert. Eine Domain pro Zeile, z. B. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Hinzufügen"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Entfernen"
+  },
+  "noExclusions": {
+    "message": "Noch keine ausgeschlossenen Websites."
+  },
+  "advancedTitle": {
+    "message": "Erweitert"
+  },
+  "importConfig": {
+    "message": "Einstellungen importieren"
+  },
+  "exportConfig": {
+    "message": "Einstellungen exportieren"
+  },
+  "importError": {
+    "message": "Import nicht möglich: Die Datei ist kein gültiger Einstellungsexport."
+  },
+  "importOk": {
+    "message": "Einstellungen importiert."
+  },
+  "resetDefaults": {
+    "message": "Auf Standard zurücksetzen"
+  },
+  "resetConfirm": {
+    "message": "Alle Gesten und Einstellungen auf die Standardwerte zurücksetzen?"
+  },
+  "searchEngineLabel": {
+    "message": "URL-Vorlage für die Suche"
+  },
+  "searchEngineHelp": {
+    "message": "Wird von der Text-Suchgeste verwendet. %s wird durch Ihre Auswahl ersetzt. Sendet die Auswahl nur an diese URL, wenn Sie sie auslösen."
+  },
+  "proTitle": {
+    "message": "Pro-Funktionen"
+  },
+  "proLocked": {
+    "message": "Dies ist eine Pro-Funktion."
+  },
+  "proProfiles": {
+    "message": "Gestenprofile & Voreinstellungen"
+  },
+  "proChords": {
+    "message": "Akkorde & Sequenzen"
+  },
+  "proCustom": {
+    "message": "Eigene Befehle (deklarativ)"
+  },
+  "proSync": {
+    "message": "Geräteübergreifende Synchronisierung"
+  },
+  "proUrlTemplate": {
+    "message": "Eigener URL-Vorlagen-Befehl"
+  },
+  "unlockPro": {
+    "message": "Pro freischalten"
+  },
+  "proActive": {
+    "message": "Pro ist aktiv. Vielen Dank!"
+  },
+  "licensePlaceholder": {
+    "message": "Lizenzschlüssel eingeben"
+  },
+  "activateLicense": {
+    "message": "Aktivieren"
+  },
+  "licenseInvalid": {
+    "message": "Dieser Lizenzschlüssel wurde nicht erkannt."
+  },
+  "onboardTitle": {
+    "message": "Willkommen bei Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Steuern Sie Ihren gesamten Browser mit einer einzigen Mausbewegung."
+  },
+  "onboardTrust": {
+    "message": "100 % lokal · keine Telemetrie, keine Analyse, keine Konten. Die einzige Netzwerkaktivität ist die Suche, die Sie ausdrücklich auslösen, an die Suchmaschine Ihrer Wahl."
+  },
+  "onboardEnableTitle": {
+    "message": "Gesten auf allen Websites aktivieren"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures benötigt die Berechtigung, Mausbewegungen auf den von Ihnen besuchten Seiten zu beobachten, um Ihre Gesten zu erkennen. Seiteninhalte werden niemals gelesen, gespeichert oder gesendet."
+  },
+  "onboardEnableBtn": {
+    "message": "Gesten auf allen Websites aktivieren"
+  },
+  "onboardEnabled": {
+    "message": "Gesten aktiviert. Alles bereit."
+  },
+  "onboardDenied": {
+    "message": "Die Berechtigung wurde abgelehnt. Sie können sie jederzeit über das Popup aktivieren."
+  },
+  "onboardTryTitle": {
+    "message": "Jetzt ausprobieren"
+  },
+  "onboardTryBody": {
+    "message": "Halten Sie die rechte Maustaste gedrückt, bewegen Sie nach links und lassen Sie los, um zurückzugehen."
+  },
+  "onboardOpenSettings": {
+    "message": "Einstellungen öffnen"
+  },
+  "onboardFinish": {
+    "message": "Fertig"
+  },
+  "trustBanner": {
+    "message": "Für immer gratis · Kein Konto · Keine Werbung · Kein Tracking"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures geht offen mit seinen Berechtigungen um und behält alles auf Ihrem Gerät. Gesten werden lokal erkannt; nichts von dem, was Sie ansehen, wird erfasst."
+  },
+  "privacyLink": {
+    "message": "Datenschutzerklärung"
+  },
+  "save": {
+    "message": "Speichern"
+  },
+  "cancel": {
+    "message": "Abbrechen"
+  },
+  "saved": {
+    "message": "Gespeichert"
+  },
+  "supportLink": {
+    "message": "Support kontaktieren"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Навигация в браузере простыми движениями мыши",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Управляйте браузером жестами мыши. 100% локально, без аккаунта и слежки.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Жесты включены"
+  },
+  "statusOff": {
+    "message": "Жесты выключены"
+  },
+  "toggleEnable": {
+    "message": "Включить"
+  },
+  "toggleDisable": {
+    "message": "Выключить"
+  },
+  "cheatSheetTitle": {
+    "message": "Ваши жесты"
+  },
+  "openOptions": {
+    "message": "Настройки"
+  },
+  "openOnboarding": {
+    "message": "Настроить жесты"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "БЕСПЛАТНО"
+  },
+  "cmd_newTab": {
+    "message": "Новая вкладка"
+  },
+  "cmd_closeTab": {
+    "message": "Закрыть вкладку"
+  },
+  "cmd_reopenTab": {
+    "message": "Открыть закрытую вкладку"
+  },
+  "cmd_back": {
+    "message": "Назад"
+  },
+  "cmd_forward": {
+    "message": "Вперёд"
+  },
+  "cmd_reload": {
+    "message": "Обновить страницу"
+  },
+  "cmd_duplicateTab": {
+    "message": "Дублировать вкладку"
+  },
+  "cmd_scrollTop": {
+    "message": "Прокрутить вверх"
+  },
+  "cmd_scrollBottom": {
+    "message": "Прокрутить вниз"
+  },
+  "cmd_nextTab": {
+    "message": "Следующая вкладка"
+  },
+  "cmd_prevTab": {
+    "message": "Предыдущая вкладка"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Открыть ссылку в новой вкладке"
+  },
+  "cmd_searchText": {
+    "message": "Искать выделенный текст"
+  },
+  "cmd_none": {
+    "message": "Нет действия"
+  },
+  "optionsTitle": {
+    "message": "Настройки Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "Жесты"
+  },
+  "tabTrail": {
+    "message": "След"
+  },
+  "tabExclusions": {
+    "message": "Исключённые сайты"
+  },
+  "tabAdvanced": {
+    "message": "Дополнительно"
+  },
+  "tabAbout": {
+    "message": "О расширении"
+  },
+  "gestureEditorTitle": {
+    "message": "Карта жестов"
+  },
+  "gestureEditorHelp": {
+    "message": "Удерживайте правую кнопку мыши и нарисуйте направление, затем отпустите. Назначьте каждому направлению команду."
+  },
+  "drawToBind": {
+    "message": "Нарисуйте для привязки"
+  },
+  "drawPrompt": {
+    "message": "Нарисуйте жест в поле (удерживая правую кнопку)…"
+  },
+  "clearBinding": {
+    "message": "Очистить"
+  },
+  "colGesture": {
+    "message": "Жест"
+  },
+  "colCommand": {
+    "message": "Команда"
+  },
+  "rockerTitle": {
+    "message": "Роккер-жесты"
+  },
+  "rockerBack": {
+    "message": "Удерживайте правую, щёлкните левой → Назад"
+  },
+  "rockerForward": {
+    "message": "Удерживайте левую, щёлкните правой → Вперёд"
+  },
+  "wheelTitle": {
+    "message": "Жесты колесом"
+  },
+  "wheelTabs": {
+    "message": "Удерживайте правую + колесо → Переключение вкладок"
+  },
+  "superDragTitle": {
+    "message": "Супер-перетаскивание"
+  },
+  "superDragLink": {
+    "message": "Перетащите ссылку → открыть в новой вкладке"
+  },
+  "superDragText": {
+    "message": "Перетащите выделенный текст → поиск"
+  },
+  "trailTitle": {
+    "message": "След жеста"
+  },
+  "trailEnabled": {
+    "message": "Показывать след жеста"
+  },
+  "trailColor": {
+    "message": "Цвет следа"
+  },
+  "trailWidth": {
+    "message": "Толщина следа"
+  },
+  "trailPreview": {
+    "message": "Предпросмотр"
+  },
+  "exclusionsTitle": {
+    "message": "Исключённые сайты"
+  },
+  "exclusionsHelp": {
+    "message": "Жесты отключены на этих доменах. Один домен в строке, например maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Добавить"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Удалить"
+  },
+  "noExclusions": {
+    "message": "Пока нет исключённых сайтов."
+  },
+  "advancedTitle": {
+    "message": "Дополнительно"
+  },
+  "importConfig": {
+    "message": "Импортировать настройки"
+  },
+  "exportConfig": {
+    "message": "Экспортировать настройки"
+  },
+  "importError": {
+    "message": "Не удалось импортировать: файл не является корректным экспортом настроек."
+  },
+  "importOk": {
+    "message": "Настройки импортированы."
+  },
+  "resetDefaults": {
+    "message": "Сбросить к значениям по умолчанию"
+  },
+  "resetConfirm": {
+    "message": "Сбросить все жесты и настройки к значениям по умолчанию?"
+  },
+  "searchEngineLabel": {
+    "message": "Шаблон URL поиска"
+  },
+  "searchEngineHelp": {
+    "message": "Используется жестом поиска текста. %s заменяется вашим выделением. Отправляет выделение на этот URL только при запуске жеста."
+  },
+  "proTitle": {
+    "message": "Функции Pro"
+  },
+  "proLocked": {
+    "message": "Это функция Pro."
+  },
+  "proProfiles": {
+    "message": "Профили жестов и пресеты"
+  },
+  "proChords": {
+    "message": "Аккорды и последовательности"
+  },
+  "proCustom": {
+    "message": "Пользовательские команды (декларативные)"
+  },
+  "proSync": {
+    "message": "Синхронизация между устройствами"
+  },
+  "proUrlTemplate": {
+    "message": "Пользовательская команда по шаблону URL"
+  },
+  "unlockPro": {
+    "message": "Разблокировать Pro"
+  },
+  "proActive": {
+    "message": "Pro активен. Спасибо!"
+  },
+  "licensePlaceholder": {
+    "message": "Введите лицензионный ключ"
+  },
+  "activateLicense": {
+    "message": "Активировать"
+  },
+  "licenseInvalid": {
+    "message": "Этот лицензионный ключ не распознан."
+  },
+  "onboardTitle": {
+    "message": "Добро пожаловать в Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Управляйте всем браузером одним взмахом мыши."
+  },
+  "onboardTrust": {
+    "message": "100% локально · без телеметрии, аналитики и аккаунтов. Единственная сетевая активность — поиск, который вы явно запускаете, в выбранной вами системе."
+  },
+  "onboardEnableTitle": {
+    "message": "Включить жесты на всех сайтах"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures нужно разрешение отслеживать движение мыши на посещаемых страницах, чтобы распознавать ваши жесты. Содержимое страниц никогда не читается, не сохраняется и не отправляется."
+  },
+  "onboardEnableBtn": {
+    "message": "Включить жесты на всех сайтах"
+  },
+  "onboardEnabled": {
+    "message": "Жесты включены. Всё готово."
+  },
+  "onboardDenied": {
+    "message": "Разрешение отклонено. Вы можете включить его в любой момент из всплывающего окна."
+  },
+  "onboardTryTitle": {
+    "message": "Попробуйте сейчас"
+  },
+  "onboardTryBody": {
+    "message": "Удерживайте правую кнопку мыши, двигайтесь влево и отпустите, чтобы вернуться назад."
+  },
+  "onboardOpenSettings": {
+    "message": "Открыть настройки"
+  },
+  "onboardFinish": {
+    "message": "Готово"
+  },
+  "trustBanner": {
+    "message": "Бесплатно навсегда · Без аккаунта · Без рекламы · Без слежки"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures открыто сообщает о своих разрешениях и хранит всё на вашем устройстве. Жесты распознаются локально; ничто из просматриваемого не собирается."
+  },
+  "privacyLink": {
+    "message": "Политика конфиденциальности"
+  },
+  "save": {
+    "message": "Сохранить"
+  },
+  "cancel": {
+    "message": "Отмена"
+  },
+  "saved": {
+    "message": "Сохранено"
+  },
+  "supportLink": {
+    "message": "Связаться с поддержкой"
+  }
+}

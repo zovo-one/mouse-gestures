@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - సులభమైన మౌస్ కదలికలతో బ్రౌజర్‌ను నావిగేట్ చేయండి",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "మౌస్ సంజ్ఞలతో మీ బ్రౌజర్‌ను నియంత్రించండి. 100% లోకల్, ఖాతా అవసరం లేదు, ట్రాకింగ్ లేదు.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "మౌస్ సంజ్ఞలు"
+  },
+  "statusOn": {
+    "message": "సంజ్ఞలు ఆన్‌లో ఉన్నాయి"
+  },
+  "statusOff": {
+    "message": "సంజ్ఞలు ఆఫ్‌లో ఉన్నాయి"
+  },
+  "toggleEnable": {
+    "message": "ప్రారంభించు"
+  },
+  "toggleDisable": {
+    "message": "నిలిపివేయి"
+  },
+  "cheatSheetTitle": {
+    "message": "మీ సంజ్ఞలు"
+  },
+  "openOptions": {
+    "message": "సెట్టింగ్‌లు"
+  },
+  "openOnboarding": {
+    "message": "సంజ్ఞలను సెటప్ చేయండి"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "ఉచితం"
+  },
+  "cmd_newTab": {
+    "message": "కొత్త ట్యాబ్"
+  },
+  "cmd_closeTab": {
+    "message": "ట్యాబ్ మూసివేయి"
+  },
+  "cmd_reopenTab": {
+    "message": "మూసిన ట్యాబ్‌ను మళ్లీ తెరువు"
+  },
+  "cmd_back": {
+    "message": "వెనుకకు"
+  },
+  "cmd_forward": {
+    "message": "ముందుకు"
+  },
+  "cmd_reload": {
+    "message": "పేజీని రీలోడ్ చేయి"
+  },
+  "cmd_duplicateTab": {
+    "message": "ట్యాబ్‌ను నకలు చేయి"
+  },
+  "cmd_scrollTop": {
+    "message": "పైకి స్క్రోల్ చేయి"
+  },
+  "cmd_scrollBottom": {
+    "message": "కిందికి స్క్రోల్ చేయి"
+  },
+  "cmd_nextTab": {
+    "message": "తదుపరి ట్యాబ్"
+  },
+  "cmd_prevTab": {
+    "message": "మునుపటి ట్యాబ్"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "లింక్‌ను కొత్త ట్యాబ్‌లో తెరువు"
+  },
+  "cmd_searchText": {
+    "message": "ఎంచుకున్న వచనాన్ని వెతుకు"
+  },
+  "cmd_none": {
+    "message": "చర్య లేదు"
+  },
+  "optionsTitle": {
+    "message": "మౌస్ సంజ్ఞల సెట్టింగ్‌లు"
+  },
+  "tabGestures": {
+    "message": "సంజ్ఞలు"
+  },
+  "tabTrail": {
+    "message": "జాడ"
+  },
+  "tabExclusions": {
+    "message": "మినహాయించిన సైట్‌లు"
+  },
+  "tabAdvanced": {
+    "message": "అధునాతన"
+  },
+  "tabAbout": {
+    "message": "గురించి"
+  },
+  "gestureEditorTitle": {
+    "message": "సంజ్ఞ మ్యాప్"
+  },
+  "gestureEditorHelp": {
+    "message": "కుడి మౌస్ బటన్‌ను నొక్కి పట్టుకుని ఒక దిశను గీసి వదిలేయండి. ప్రతి దిశకు ఒక ఆదేశాన్ని కేటాయించండి."
+  },
+  "drawToBind": {
+    "message": "బంధించడానికి గీయండి"
+  },
+  "drawPrompt": {
+    "message": "పెట్టెలో ఒక సంజ్ఞను గీయండి (కుడి బటన్ పట్టుకోండి)…"
+  },
+  "clearBinding": {
+    "message": "క్లియర్ చేయి"
+  },
+  "colGesture": {
+    "message": "సంజ్ఞ"
+  },
+  "colCommand": {
+    "message": "ఆదేశం"
+  },
+  "rockerTitle": {
+    "message": "రాకర్ సంజ్ఞలు"
+  },
+  "rockerBack": {
+    "message": "కుడి పట్టుకుని ఎడమ క్లిక్ → వెనుకకు"
+  },
+  "rockerForward": {
+    "message": "ఎడమ పట్టుకుని కుడి క్లిక్ → ముందుకు"
+  },
+  "wheelTitle": {
+    "message": "వీల్ సంజ్ఞలు"
+  },
+  "wheelTabs": {
+    "message": "కుడి + వీల్ → ట్యాబ్‌లు మార్చు"
+  },
+  "superDragTitle": {
+    "message": "సూపర్-డ్రాగ్"
+  },
+  "superDragLink": {
+    "message": "లింక్‌ను లాగండి → కొత్త ట్యాబ్‌లో తెరువు"
+  },
+  "superDragText": {
+    "message": "ఎంచుకున్న వచనాన్ని లాగండి → వెతుకు"
+  },
+  "trailTitle": {
+    "message": "సంజ్ఞ జాడ"
+  },
+  "trailEnabled": {
+    "message": "సంజ్ఞ జాడను చూపు"
+  },
+  "trailColor": {
+    "message": "జాడ రంగు"
+  },
+  "trailWidth": {
+    "message": "జాడ వెడల్పు"
+  },
+  "trailPreview": {
+    "message": "ప్రివ్యూ"
+  },
+  "exclusionsTitle": {
+    "message": "మినహాయించిన సైట్‌లు"
+  },
+  "exclusionsHelp": {
+    "message": "ఈ డొమైన్‌లలో సంజ్ఞలు నిలిపివేయబడతాయి. ఒక్కో లైన్‌కు ఒక డొమైన్, ఉదా. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "జోడించు"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "తొలగించు"
+  },
+  "noExclusions": {
+    "message": "ఇంకా మినహాయించిన సైట్‌లు లేవు."
+  },
+  "advancedTitle": {
+    "message": "అధునాతన"
+  },
+  "importConfig": {
+    "message": "సెట్టింగ్‌లను దిగుమతి చేయి"
+  },
+  "exportConfig": {
+    "message": "సెట్టింగ్‌లను ఎగుమతి చేయి"
+  },
+  "importError": {
+    "message": "దిగుమతి చేయలేకపోయాం: ఫైల్ చెల్లుబాటు అయ్యే సెట్టింగ్‌ల ఎగుమతి కాదు."
+  },
+  "importOk": {
+    "message": "సెట్టింగ్‌లు దిగుమతి చేయబడ్డాయి."
+  },
+  "resetDefaults": {
+    "message": "డిఫాల్ట్‌లకు రీసెట్ చేయి"
+  },
+  "resetConfirm": {
+    "message": "అన్ని సంజ్ఞలు, సెట్టింగ్‌లను డిఫాల్ట్‌లకు రీసెట్ చేయాలా?"
+  },
+  "searchEngineLabel": {
+    "message": "శోధన URL మూస"
+  },
+  "searchEngineHelp": {
+    "message": "శోధన-వచన సంజ్ఞ దీనిని ఉపయోగిస్తుంది. %s మీ ఎంపికతో భర్తీ చేయబడుతుంది. మీరు ట్రిగ్గర్ చేసినప్పుడు మాత్రమే ఎంపికను ఈ URLకి పంపుతుంది."
+  },
+  "proTitle": {
+    "message": "Pro ఫీచర్‌లు"
+  },
+  "proLocked": {
+    "message": "ఇది ఒక Pro ఫీచర్."
+  },
+  "proProfiles": {
+    "message": "సంజ్ఞ ప్రొఫైల్‌లు & ప్రీసెట్‌లు"
+  },
+  "proChords": {
+    "message": "కార్డ్‌లు & క్రమాలు"
+  },
+  "proCustom": {
+    "message": "అనుకూల ఆదేశాలు (డిక్లరేటివ్)"
+  },
+  "proSync": {
+    "message": "పరికరాల మధ్య సమకాలీకరణ"
+  },
+  "proUrlTemplate": {
+    "message": "అనుకూల URL-మూస ఆదేశం"
+  },
+  "unlockPro": {
+    "message": "Pro అన్‌లాక్ చేయి"
+  },
+  "proActive": {
+    "message": "Pro సక్రియంగా ఉంది. ధన్యవాదాలు!"
+  },
+  "licensePlaceholder": {
+    "message": "మీ లైసెన్స్ కీని నమోదు చేయండి"
+  },
+  "activateLicense": {
+    "message": "సక్రియం చేయి"
+  },
+  "licenseInvalid": {
+    "message": "ఆ లైసెన్స్ కీ గుర్తించబడలేదు."
+  },
+  "onboardTitle": {
+    "message": "మౌస్ సంజ్ఞలకు స్వాగతం"
+  },
+  "onboardSubtitle": {
+    "message": "మౌస్ యొక్క ఒక్క కదలికతో మీ మొత్తం బ్రౌజర్‌ను నియంత్రించండి."
+  },
+  "onboardTrust": {
+    "message": "100% లోకల్ · టెలిమెట్రీ లేదు, విశ్లేషణలు లేవు, ఖాతాలు లేవు. మీరు స్పష్టంగా ట్రిగ్గర్ చేసే శోధన మాత్రమే ఏకైక నెట్‌వర్క్ కార్యకలాపం, మీరు ఎంచుకున్న ఇంజిన్‌కు."
+  },
+  "onboardEnableTitle": {
+    "message": "అన్ని సైట్‌లలో సంజ్ఞలను ప్రారంభించు"
+  },
+  "onboardEnableBody": {
+    "message": "మీరు సందర్శించే పేజీలలో మౌస్ కదలికను గమనించి మీ సంజ్ఞలను గుర్తించడానికి మౌస్ సంజ్ఞలకు అనుమతి అవసరం. ఏ పేజీ కంటెంట్ ఎప్పుడూ చదవబడదు, నిల్వ చేయబడదు లేదా పంపబడదు."
+  },
+  "onboardEnableBtn": {
+    "message": "అన్ని సైట్‌లలో సంజ్ఞలను ప్రారంభించు"
+  },
+  "onboardEnabled": {
+    "message": "సంజ్ఞలు ప్రారంభించబడ్డాయి. మీరు సిద్ధం."
+  },
+  "onboardDenied": {
+    "message": "అనుమతి తిరస్కరించబడింది. పాపప్ నుండి ఎప్పుడైనా దీన్ని ప్రారంభించవచ్చు."
+  },
+  "onboardTryTitle": {
+    "message": "ఇప్పుడు ప్రయత్నించండి"
+  },
+  "onboardTryBody": {
+    "message": "కుడి మౌస్ బటన్‌ను పట్టుకుని, ఎడమవైపు కదిలి, వదిలేస్తే వెనుకకు వెళ్తుంది."
+  },
+  "onboardOpenSettings": {
+    "message": "సెట్టింగ్‌లను తెరువు"
+  },
+  "onboardFinish": {
+    "message": "ముగించు"
+  },
+  "trustBanner": {
+    "message": "ఎప్పటికీ ఉచితం · ఖాతా లేదు · ప్రకటనలు లేవు · ట్రాకింగ్ లేదు"
+  },
+  "aboutBody": {
+    "message": "మౌస్ సంజ్ఞలు తన అనుమతుల గురించి పారదర్శకంగా ఉంటుంది, ప్రతిదీ మీ పరికరంలోనే ఉంచుతుంది. సంజ్ఞలు లోకల్‌గా గుర్తించబడతాయి; మీరు బ్రౌజ్ చేసేది ఏదీ సేకరించబడదు."
+  },
+  "privacyLink": {
+    "message": "గోప్యతా విధానం"
+  },
+  "save": {
+    "message": "సేవ్ చేయి"
+  },
+  "cancel": {
+    "message": "రద్దు చేయి"
+  },
+  "saved": {
+    "message": "సేవ్ చేయబడింది"
+  },
+  "supportLink": {
+    "message": "మద్దతును సంప్రదించండి"
+  }
+}

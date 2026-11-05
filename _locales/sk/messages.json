@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Ovládajte prehliadač jednoduchými pohybmi myši",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Ovládajte prehliadač gestami myši. 100% lokálne, bez účtu, bez sledovania.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Gestá zapnuté"
+  },
+  "statusOff": {
+    "message": "Gestá vypnuté"
+  },
+  "toggleEnable": {
+    "message": "Zapnúť"
+  },
+  "toggleDisable": {
+    "message": "Vypnúť"
+  },
+  "cheatSheetTitle": {
+    "message": "Vaše gestá"
+  },
+  "openOptions": {
+    "message": "Nastavenia"
+  },
+  "openOnboarding": {
+    "message": "Nastaviť gestá"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "ZDARMA"
+  },
+  "cmd_newTab": {
+    "message": "Nová karta"
+  },
+  "cmd_closeTab": {
+    "message": "Zavrieť kartu"
+  },
+  "cmd_reopenTab": {
+    "message": "Znovu otvoriť zatvorenú kartu"
+  },
+  "cmd_back": {
+    "message": "Späť"
+  },
+  "cmd_forward": {
+    "message": "Dopredu"
+  },
+  "cmd_reload": {
+    "message": "Obnoviť stránku"
+  },
+  "cmd_duplicateTab": {
+    "message": "Duplikovať kartu"
+  },
+  "cmd_scrollTop": {
+    "message": "Prejsť nahor"
+  },
+  "cmd_scrollBottom": {
+    "message": "Prejsť nadol"
+  },
+  "cmd_nextTab": {
+    "message": "Ďalšia karta"
+  },
+  "cmd_prevTab": {
+    "message": "Predchádzajúca karta"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Otvoriť odkaz v novej karte"
+  },
+  "cmd_searchText": {
+    "message": "Vyhľadať vybraný text"
+  },
+  "cmd_none": {
+    "message": "Žiadna akcia"
+  },
+  "optionsTitle": {
+    "message": "Nastavenia Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "Gestá"
+  },
+  "tabTrail": {
+    "message": "Stopa"
+  },
+  "tabExclusions": {
+    "message": "Vylúčené weby"
+  },
+  "tabAdvanced": {
+    "message": "Pokročilé"
+  },
+  "tabAbout": {
+    "message": "O aplikácii"
+  },
+  "gestureEditorTitle": {
+    "message": "Mapa gest"
+  },
+  "gestureEditorHelp": {
+    "message": "Podržte pravé tlačidlo myši, nakreslite smer a uvoľnite. Priraďte každému smeru príkaz."
+  },
+  "drawToBind": {
+    "message": "Nakreslite pre priradenie"
+  },
+  "drawPrompt": {
+    "message": "Nakreslite gesto v poli (podržte pravé tlačidlo)…"
+  },
+  "clearBinding": {
+    "message": "Vymazať"
+  },
+  "colGesture": {
+    "message": "Gesto"
+  },
+  "colCommand": {
+    "message": "Príkaz"
+  },
+  "rockerTitle": {
+    "message": "Gestá Rocker"
+  },
+  "rockerBack": {
+    "message": "Podržte pravé, kliknite ľavým → Späť"
+  },
+  "rockerForward": {
+    "message": "Podržte ľavé, kliknite pravým → Dopredu"
+  },
+  "wheelTitle": {
+    "message": "Gestá kolieskom"
+  },
+  "wheelTabs": {
+    "message": "Podržte pravé + koliesko → Prepnúť karty"
+  },
+  "superDragTitle": {
+    "message": "Super-ťahanie"
+  },
+  "superDragLink": {
+    "message": "Potiahnite odkaz → otvoriť v novej karte"
+  },
+  "superDragText": {
+    "message": "Potiahnite vybraný text → hľadať"
+  },
+  "trailTitle": {
+    "message": "Stopa gesta"
+  },
+  "trailEnabled": {
+    "message": "Zobraziť stopu gesta"
+  },
+  "trailColor": {
+    "message": "Farba stopy"
+  },
+  "trailWidth": {
+    "message": "Šírka stopy"
+  },
+  "trailPreview": {
+    "message": "Náhľad"
+  },
+  "exclusionsTitle": {
+    "message": "Vylúčené weby"
+  },
+  "exclusionsHelp": {
+    "message": "Na týchto doménach sú gestá vypnuté. Jedna doména na riadok, napr. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Pridať"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Odstrániť"
+  },
+  "noExclusions": {
+    "message": "Zatiaľ žiadne vylúčené weby."
+  },
+  "advancedTitle": {
+    "message": "Pokročilé"
+  },
+  "importConfig": {
+    "message": "Importovať nastavenia"
+  },
+  "exportConfig": {
+    "message": "Exportovať nastavenia"
+  },
+  "importError": {
+    "message": "Import zlyhal: súbor nie je platný export nastavení."
+  },
+  "importOk": {
+    "message": "Nastavenia importované."
+  },
+  "resetDefaults": {
+    "message": "Obnoviť predvolené"
+  },
+  "resetConfirm": {
+    "message": "Obnoviť všetky gestá a nastavenia na predvolené?"
+  },
+  "searchEngineLabel": {
+    "message": "Šablóna URL vyhľadávania"
+  },
+  "searchEngineHelp": {
+    "message": "Používa gesto vyhľadávania textu. %s sa nahradí vaším výberom. Odošle výber na túto URL len pri spustení."
+  },
+  "proTitle": {
+    "message": "Funkcie Pro"
+  },
+  "proLocked": {
+    "message": "Toto je funkcia Pro."
+  },
+  "proProfiles": {
+    "message": "Profily a predvoľby gest"
+  },
+  "proChords": {
+    "message": "Akordy a sekvencie"
+  },
+  "proCustom": {
+    "message": "Vlastné príkazy (deklaratívne)"
+  },
+  "proSync": {
+    "message": "Synchronizácia medzi zariadeniami"
+  },
+  "proUrlTemplate": {
+    "message": "Vlastný príkaz so šablónou URL"
+  },
+  "unlockPro": {
+    "message": "Odomknúť Pro"
+  },
+  "proActive": {
+    "message": "Pro je aktívne. Ďakujeme!"
+  },
+  "licensePlaceholder": {
+    "message": "Zadajte licenčný kľúč"
+  },
+  "activateLicense": {
+    "message": "Aktivovať"
+  },
+  "licenseInvalid": {
+    "message": "Tento licenčný kľúč nebol rozpoznaný."
+  },
+  "onboardTitle": {
+    "message": "Vitajte v Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Ovládajte celý prehliadač pohybom myši."
+  },
+  "onboardTrust": {
+    "message": "100% lokálne · bez telemetrie, analytiky a účtov. Jediná sieťová aktivita je vyhľadávanie, ktoré sami spustíte, do zvoleného vyhľadávača."
+  },
+  "onboardEnableTitle": {
+    "message": "Povoliť gestá na všetkých weboch"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures potrebuje oprávnenie sledovať pohyb myši na navštívených stránkach, aby rozpoznali gestá. Obsah stránok sa nikdy nečíta, neukladá ani neodosiela."
+  },
+  "onboardEnableBtn": {
+    "message": "Povoliť gestá na všetkých weboch"
+  },
+  "onboardEnabled": {
+    "message": "Gestá povolené. Všetko je pripravené."
+  },
+  "onboardDenied": {
+    "message": "Oprávnenie bolo zamietnuté. Môžete ho kedykoľvek povoliť z vyskakovacieho okna."
+  },
+  "onboardTryTitle": {
+    "message": "Vyskúšajte hneď"
+  },
+  "onboardTryBody": {
+    "message": "Podržte pravé tlačidlo myši, pohnite doľava a uvoľnite pre návrat späť."
+  },
+  "onboardOpenSettings": {
+    "message": "Otvoriť nastavenia"
+  },
+  "onboardFinish": {
+    "message": "Dokončiť"
+  },
+  "trustBanner": {
+    "message": "Zadarmo navždy · Bez účtu · Bez reklám · Bez sledovania"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures otvorene informuje o svojich oprávneniach a všetko uchováva vo vašom zariadení. Gestá sa rozpoznávajú lokálne; nič z toho, čo prehliadate, sa nezhromažďuje."
+  },
+  "privacyLink": {
+    "message": "Zásady ochrany súkromia"
+  },
+  "save": {
+    "message": "Uložiť"
+  },
+  "cancel": {
+    "message": "Zrušiť"
+  },
+  "saved": {
+    "message": "Uložené"
+  },
+  "supportLink": {
+    "message": "Kontaktovať podporu"
+  }
+}

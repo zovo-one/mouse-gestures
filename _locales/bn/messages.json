@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - সহজ মাউস নড়াচড়ায় ব্রাউজার নেভিগেট করুন",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "মাউস জেসচার দিয়ে আপনার ব্রাউজার নিয়ন্ত্রণ করুন। 100% লোকাল, কোনো অ্যাকাউন্ট নেই, কোনো ট্র্যাকিং নেই।",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "মাউস জেসচার"
+  },
+  "statusOn": {
+    "message": "জেসচার চালু"
+  },
+  "statusOff": {
+    "message": "জেসচার বন্ধ"
+  },
+  "toggleEnable": {
+    "message": "সক্ষম করুন"
+  },
+  "toggleDisable": {
+    "message": "নিষ্ক্রিয় করুন"
+  },
+  "cheatSheetTitle": {
+    "message": "আপনার জেসচার"
+  },
+  "openOptions": {
+    "message": "সেটিংস"
+  },
+  "openOnboarding": {
+    "message": "জেসচার সেট আপ করুন"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "ফ্রি"
+  },
+  "cmd_newTab": {
+    "message": "নতুন ট্যাব"
+  },
+  "cmd_closeTab": {
+    "message": "ট্যাব বন্ধ করুন"
+  },
+  "cmd_reopenTab": {
+    "message": "বন্ধ ট্যাব আবার খুলুন"
+  },
+  "cmd_back": {
+    "message": "পিছনে যান"
+  },
+  "cmd_forward": {
+    "message": "সামনে যান"
+  },
+  "cmd_reload": {
+    "message": "পেজ রিলোড করুন"
+  },
+  "cmd_duplicateTab": {
+    "message": "ট্যাব ডুপ্লিকেট করুন"
+  },
+  "cmd_scrollTop": {
+    "message": "উপরে স্ক্রোল করুন"
+  },
+  "cmd_scrollBottom": {
+    "message": "নিচে স্ক্রোল করুন"
+  },
+  "cmd_nextTab": {
+    "message": "পরবর্তী ট্যাব"
+  },
+  "cmd_prevTab": {
+    "message": "পূর্ববর্তী ট্যাব"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "লিঙ্ক নতুন ট্যাবে খুলুন"
+  },
+  "cmd_searchText": {
+    "message": "নির্বাচিত টেক্সট খুঁজুন"
+  },
+  "cmd_none": {
+    "message": "কোনো ক্রিয়া নেই"
+  },
+  "optionsTitle": {
+    "message": "মাউস জেসচার সেটিংস"
+  },
+  "tabGestures": {
+    "message": "জেসচার"
+  },
+  "tabTrail": {
+    "message": "ট্রেইল"
+  },
+  "tabExclusions": {
+    "message": "বাদ দেওয়া সাইট"
+  },
+  "tabAdvanced": {
+    "message": "উন্নত"
+  },
+  "tabAbout": {
+    "message": "সম্পর্কে"
+  },
+  "gestureEditorTitle": {
+    "message": "জেসচার ম্যাপ"
+  },
+  "gestureEditorHelp": {
+    "message": "মাউসের ডান বোতাম চেপে ধরে একটি দিক আঁকুন, তারপর ছেড়ে দিন। প্রতিটি দিকে একটি কমান্ড বরাদ্দ করুন।"
+  },
+  "drawToBind": {
+    "message": "বাঁধতে আঁকুন"
+  },
+  "drawPrompt": {
+    "message": "বক্সে একটি জেসচার আঁকুন (ডান বোতাম চেপে ধরুন)…"
+  },
+  "clearBinding": {
+    "message": "সাফ করুন"
+  },
+  "colGesture": {
+    "message": "জেসচার"
+  },
+  "colCommand": {
+    "message": "কমান্ড"
+  },
+  "rockerTitle": {
+    "message": "রকার জেসচার"
+  },
+  "rockerBack": {
+    "message": "ডান চেপে ধরুন, বাম ক্লিক → পিছনে"
+  },
+  "rockerForward": {
+    "message": "বাম চেপে ধরুন, ডান ক্লিক → সামনে"
+  },
+  "wheelTitle": {
+    "message": "হুইল জেসচার"
+  },
+  "wheelTabs": {
+    "message": "ডান চেপে ধরুন + হুইল → ট্যাব পরিবর্তন"
+  },
+  "superDragTitle": {
+    "message": "সুপার-ড্র্যাগ"
+  },
+  "superDragLink": {
+    "message": "একটি লিঙ্ক টানুন → নতুন ট্যাবে খুলুন"
+  },
+  "superDragText": {
+    "message": "নির্বাচিত টেক্সট টানুন → খুঁজুন"
+  },
+  "trailTitle": {
+    "message": "জেসচার ট্রেইল"
+  },
+  "trailEnabled": {
+    "message": "জেসচার ট্রেইল দেখান"
+  },
+  "trailColor": {
+    "message": "ট্রেইলের রঙ"
+  },
+  "trailWidth": {
+    "message": "ট্রেইলের প্রস্থ"
+  },
+  "trailPreview": {
+    "message": "প্রিভিউ"
+  },
+  "exclusionsTitle": {
+    "message": "বাদ দেওয়া সাইট"
+  },
+  "exclusionsHelp": {
+    "message": "এই ডোমেনগুলিতে জেসচার নিষ্ক্রিয়। প্রতি লাইনে একটি ডোমেন, যেমন maps.google.com।"
+  },
+  "addExclusion": {
+    "message": "যোগ করুন"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "সরান"
+  },
+  "noExclusions": {
+    "message": "এখনও কোনো বাদ দেওয়া সাইট নেই।"
+  },
+  "advancedTitle": {
+    "message": "উন্নত"
+  },
+  "importConfig": {
+    "message": "সেটিংস আমদানি করুন"
+  },
+  "exportConfig": {
+    "message": "সেটিংস রপ্তানি করুন"
+  },
+  "importError": {
+    "message": "আমদানি করা যায়নি: ফাইলটি বৈধ সেটিংস রপ্তানি নয়।"
+  },
+  "importOk": {
+    "message": "সেটিংস আমদানি হয়েছে।"
+  },
+  "resetDefaults": {
+    "message": "ডিফল্টে রিসেট করুন"
+  },
+  "resetConfirm": {
+    "message": "সমস্ত জেসচার এবং সেটিংস ডিফল্টে রিসেট করবেন?"
+  },
+  "searchEngineLabel": {
+    "message": "সার্চ URL টেমপ্লেট"
+  },
+  "searchEngineHelp": {
+    "message": "টেক্সট-সার্চ জেসচার এটি ব্যবহার করে। %s আপনার নির্বাচন দিয়ে প্রতিস্থাপিত হয়। আপনি ট্রিগার করলেই কেবল নির্বাচনটি এই URL-এ পাঠানো হয়।"
+  },
+  "proTitle": {
+    "message": "Pro বৈশিষ্ট্য"
+  },
+  "proLocked": {
+    "message": "এটি একটি Pro বৈশিষ্ট্য।"
+  },
+  "proProfiles": {
+    "message": "জেসচার প্রোফাইল ও প্রিসেট"
+  },
+  "proChords": {
+    "message": "কর্ড ও ক্রম"
+  },
+  "proCustom": {
+    "message": "কাস্টম কমান্ড (ঘোষণামূলক)"
+  },
+  "proSync": {
+    "message": "ডিভাইসের মধ্যে সিঙ্ক"
+  },
+  "proUrlTemplate": {
+    "message": "কাস্টম URL-টেমপ্লেট কমান্ড"
+  },
+  "unlockPro": {
+    "message": "Pro আনলক করুন"
+  },
+  "proActive": {
+    "message": "Pro সক্রিয়। ধন্যবাদ!"
+  },
+  "licensePlaceholder": {
+    "message": "আপনার লাইসেন্স কী লিখুন"
+  },
+  "activateLicense": {
+    "message": "সক্রিয় করুন"
+  },
+  "licenseInvalid": {
+    "message": "সেই লাইসেন্স কী চেনা যায়নি।"
+  },
+  "onboardTitle": {
+    "message": "মাউস জেসচারে স্বাগতম"
+  },
+  "onboardSubtitle": {
+    "message": "মাউসের একটি ঝটকায় আপনার পুরো ব্রাউজার নিয়ন্ত্রণ করুন।"
+  },
+  "onboardTrust": {
+    "message": "100% লোকাল · কোনো টেলিমেট্রি নেই, কোনো অ্যানালিটিক্স নেই, কোনো অ্যাকাউন্ট নেই। একমাত্র নেটওয়ার্ক কার্যকলাপ হল আপনি স্পষ্টভাবে ট্রিগার করা সার্চ, আপনার বেছে নেওয়া ইঞ্জিনে।"
+  },
+  "onboardEnableTitle": {
+    "message": "সব সাইটে জেসচার সক্ষম করুন"
+  },
+  "onboardEnableBody": {
+    "message": "আপনার জেসচার চিনতে মাউস জেসচারের আপনি যে পেজগুলি দেখেন সেখানে মাউসের নড়াচড়া দেখার অনুমতি প্রয়োজন। কোনো পেজের বিষয়বস্তু কখনও পড়া, সংরক্ষণ বা পাঠানো হয় না।"
+  },
+  "onboardEnableBtn": {
+    "message": "সব সাইটে জেসচার সক্ষম করুন"
+  },
+  "onboardEnabled": {
+    "message": "জেসচার সক্ষম হয়েছে। আপনি প্রস্তুত।"
+  },
+  "onboardDenied": {
+    "message": "অনুমতি প্রত্যাখ্যাত হয়েছে। আপনি পপআপ থেকে যেকোনো সময় এটি সক্ষম করতে পারেন।"
+  },
+  "onboardTryTitle": {
+    "message": "এখনই চেষ্টা করুন"
+  },
+  "onboardTryBody": {
+    "message": "মাউসের ডান বোতাম চেপে ধরুন, বামে সরান, এবং পিছনে যেতে ছেড়ে দিন।"
+  },
+  "onboardOpenSettings": {
+    "message": "সেটিংস খুলুন"
+  },
+  "onboardFinish": {
+    "message": "সমাপ্ত"
+  },
+  "trustBanner": {
+    "message": "চিরকাল ফ্রি · কোনো অ্যাকাউন্ট নেই · কোনো বিজ্ঞাপন নেই · কোনো ট্র্যাকিং নেই"
+  },
+  "aboutBody": {
+    "message": "মাউস জেসচার তার অনুমতি সম্পর্কে স্বচ্ছ এবং সবকিছু আপনার ডিভাইসে রাখে। জেসচার স্থানীয়ভাবে চেনা হয়; আপনি যা ব্রাউজ করেন তার কিছুই সংগ্রহ করা হয় না।"
+  },
+  "privacyLink": {
+    "message": "গোপনীয়তা নীতি"
+  },
+  "save": {
+    "message": "সংরক্ষণ করুন"
+  },
+  "cancel": {
+    "message": "বাতিল করুন"
+  },
+  "saved": {
+    "message": "সংরক্ষিত"
+  },
+  "supportLink": {
+    "message": "সাপোর্টে যোগাযোগ করুন"
+  }
+}

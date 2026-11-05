@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Навигация в браузъра с прости движения на мишката",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Управлявайте браузъра с жестове на мишката. 100% локално, без акаунт, без проследяване.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Жестовете са включени"
+  },
+  "statusOff": {
+    "message": "Жестовете са изключени"
+  },
+  "toggleEnable": {
+    "message": "Включи"
+  },
+  "toggleDisable": {
+    "message": "Изключи"
+  },
+  "cheatSheetTitle": {
+    "message": "Вашите жестове"
+  },
+  "openOptions": {
+    "message": "Настройки"
+  },
+  "openOnboarding": {
+    "message": "Настрой жестовете"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "БЕЗПЛАТНО"
+  },
+  "cmd_newTab": {
+    "message": "Нов раздел"
+  },
+  "cmd_closeTab": {
+    "message": "Затвори раздела"
+  },
+  "cmd_reopenTab": {
+    "message": "Отвори отново затворен раздел"
+  },
+  "cmd_back": {
+    "message": "Назад"
+  },
+  "cmd_forward": {
+    "message": "Напред"
+  },
+  "cmd_reload": {
+    "message": "Презареди страницата"
+  },
+  "cmd_duplicateTab": {
+    "message": "Дублирай раздела"
+  },
+  "cmd_scrollTop": {
+    "message": "Превърти до горе"
+  },
+  "cmd_scrollBottom": {
+    "message": "Превърти до долу"
+  },
+  "cmd_nextTab": {
+    "message": "Следващ раздел"
+  },
+  "cmd_prevTab": {
+    "message": "Предишен раздел"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Отвори връзка в нов раздел"
+  },
+  "cmd_searchText": {
+    "message": "Търси избрания текст"
+  },
+  "cmd_none": {
+    "message": "Без действие"
+  },
+  "optionsTitle": {
+    "message": "Настройки на Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "Жестове"
+  },
+  "tabTrail": {
+    "message": "Следа"
+  },
+  "tabExclusions": {
+    "message": "Изключени сайтове"
+  },
+  "tabAdvanced": {
+    "message": "Разширени"
+  },
+  "tabAbout": {
+    "message": "Относно"
+  },
+  "gestureEditorTitle": {
+    "message": "Карта на жестовете"
+  },
+  "gestureEditorHelp": {
+    "message": "Задръжте десния бутон на мишката и начертайте посока, след което пуснете. Задайте команда на всяка посока."
+  },
+  "drawToBind": {
+    "message": "Начертайте, за да зададете"
+  },
+  "drawPrompt": {
+    "message": "Начертайте жест в полето (задръжте десния бутон)…"
+  },
+  "clearBinding": {
+    "message": "Изчисти"
+  },
+  "colGesture": {
+    "message": "Жест"
+  },
+  "colCommand": {
+    "message": "Команда"
+  },
+  "rockerTitle": {
+    "message": "Rocker жестове"
+  },
+  "rockerBack": {
+    "message": "Задръжте десен, щракнете с ляв → Назад"
+  },
+  "rockerForward": {
+    "message": "Задръжте ляв, щракнете с десен → Напред"
+  },
+  "wheelTitle": {
+    "message": "Жестове с колелце"
+  },
+  "wheelTabs": {
+    "message": "Задръжте десен + колелце → Превключване на раздели"
+  },
+  "superDragTitle": {
+    "message": "Супер-плъзгане"
+  },
+  "superDragLink": {
+    "message": "Плъзнете връзка → отвори в нов раздел"
+  },
+  "superDragText": {
+    "message": "Плъзнете избран текст → търси"
+  },
+  "trailTitle": {
+    "message": "Следа от жеста"
+  },
+  "trailEnabled": {
+    "message": "Показвай следа от жеста"
+  },
+  "trailColor": {
+    "message": "Цвят на следата"
+  },
+  "trailWidth": {
+    "message": "Дебелина на следата"
+  },
+  "trailPreview": {
+    "message": "Преглед"
+  },
+  "exclusionsTitle": {
+    "message": "Изключени сайтове"
+  },
+  "exclusionsHelp": {
+    "message": "Жестовете са изключени на тези домейни. Един домейн на ред, напр. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Добави"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Премахни"
+  },
+  "noExclusions": {
+    "message": "Все още няма изключени сайтове."
+  },
+  "advancedTitle": {
+    "message": "Разширени"
+  },
+  "importConfig": {
+    "message": "Импортирай настройки"
+  },
+  "exportConfig": {
+    "message": "Експортирай настройки"
+  },
+  "importError": {
+    "message": "Импортирането не бе успешно: файлът не е валиден експорт на настройки."
+  },
+  "importOk": {
+    "message": "Настройките са импортирани."
+  },
+  "resetDefaults": {
+    "message": "Възстанови по подразбиране"
+  },
+  "resetConfirm": {
+    "message": "Да се възстановят ли всички жестове и настройки по подразбиране?"
+  },
+  "searchEngineLabel": {
+    "message": "Шаблон за URL адрес за търсене"
+  },
+  "searchEngineHelp": {
+    "message": "Използва се от жеста за търсене на текст. %s се заменя с вашата селекция. Изпраща селекцията към този URL адрес само когато го задействате."
+  },
+  "proTitle": {
+    "message": "Pro функции"
+  },
+  "proLocked": {
+    "message": "Това е Pro функция."
+  },
+  "proProfiles": {
+    "message": "Профили и предварителни настройки на жестове"
+  },
+  "proChords": {
+    "message": "Акорди и последователности"
+  },
+  "proCustom": {
+    "message": "Персонализирани команди (декларативни)"
+  },
+  "proSync": {
+    "message": "Синхронизация между устройства"
+  },
+  "proUrlTemplate": {
+    "message": "Персонализирана команда с URL шаблон"
+  },
+  "unlockPro": {
+    "message": "Отключи Pro"
+  },
+  "proActive": {
+    "message": "Pro е активен. Благодарим ви!"
+  },
+  "licensePlaceholder": {
+    "message": "Въведете лицензен ключ"
+  },
+  "activateLicense": {
+    "message": "Активирай"
+  },
+  "licenseInvalid": {
+    "message": "Този лицензен ключ не бе разпознат."
+  },
+  "onboardTitle": {
+    "message": "Добре дошли в Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Управлявайте целия браузър с движение на мишката."
+  },
+  "onboardTrust": {
+    "message": "100% локално · без телеметрия, анализи и акаунти. Единствената мрежова активност е търсенето, което изрично задействате, в избраната от вас търсачка."
+  },
+  "onboardEnableTitle": {
+    "message": "Разреши жестовете на всички сайтове"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures се нуждае от разрешение да следи движението на мишката на страниците, които посещавате, за да разпознава жестовете ви. Съдържанието на страниците никога не се чете, съхранява или изпраща."
+  },
+  "onboardEnableBtn": {
+    "message": "Разреши жестовете на всички сайтове"
+  },
+  "onboardEnabled": {
+    "message": "Жестовете са разрешени. Всичко е готово."
+  },
+  "onboardDenied": {
+    "message": "Разрешението беше отказано. Можете да го разрешите по всяко време от изскачащия прозорец."
+  },
+  "onboardTryTitle": {
+    "message": "Изпробвайте сега"
+  },
+  "onboardTryBody": {
+    "message": "Задръжте десния бутон на мишката, преместете наляво и пуснете, за да се върнете назад."
+  },
+  "onboardOpenSettings": {
+    "message": "Отвори настройките"
+  },
+  "onboardFinish": {
+    "message": "Завърши"
+  },
+  "trustBanner": {
+    "message": "Безплатно завинаги · Без акаунт · Без реклами · Без проследяване"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures е открит относно своите разрешения и запазва всичко на вашето устройство. Жестовете се разпознават локално; нищо от това, което разглеждате, не се събира."
+  },
+  "privacyLink": {
+    "message": "Политика за поверителност"
+  },
+  "save": {
+    "message": "Запази"
+  },
+  "cancel": {
+    "message": "Отказ"
+  },
+  "saved": {
+    "message": "Запазено"
+  },
+  "supportLink": {
+    "message": "Свържете се с поддръжката"
+  }
+}

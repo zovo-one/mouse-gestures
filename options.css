@@ -1,0 +1,118 @@
+/* Zovo conversion kit styling — matches the Mouse Gestures brand tokens
+   (accent #6d5efc, bg #14121f). Imported from monetization/zovo-base.css. */
+.mz-scrim {
+    position: fixed; inset: 0; z-index: 2147483647; display: flex;
+    align-items: center; justify-content: center; padding: 20px;
+    background: rgba(5, 3, 15, 0.72); backdrop-filter: blur(6px);
+}
+.mz-card {
+    position: relative; width: 100%; max-width: 400px;
+    background: linear-gradient(180deg, rgba(124, 108, 240, 0.12), #1d1a2e);
+    border: 1px solid rgba(124, 108, 240, 0.4); border-radius: 16px;
+    padding: 26px 24px; color: #eaeafb; box-shadow: 0 24px 70px -20px rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+.mz-x {
+    position: absolute; top: 12px; right: 14px; background: transparent; border: 0;
+    color: #a39fc7; font-size: 22px; line-height: 1; cursor: pointer;
+}
+.mz-x:focus-visible { outline: 2px solid #9a8cff; outline-offset: 2px; border-radius: 6px; }
+.mz-kicker {
+    font: 600 11px/1 ui-monospace, Menlo, monospace; letter-spacing: 0.12em;
+    text-transform: uppercase; color: #9a8cff; margin-bottom: 10px;
+}
+.mz-h { font-size: 22px; margin: 0 0 14px; color: #fff; line-height: 1.2; }
+.mz-price { display: flex; align-items: baseline; justify-content: center; gap: 8px; }
+.mz-strike { color: #6b7284; text-decoration: line-through; font-size: 18px; }
+.mz-amt { font: 700 44px/1 ui-monospace, Menlo, monospace; color: #fff; letter-spacing: -0.02em; }
+.mz-per { color: #a39fc7; font-size: 15px; }
+.mz-reframe { color: #cfcbe8; font-size: 13px; margin: 10px auto 14px; max-width: 320px; line-height: 1.5; }
+.mz-proof {
+    display: flex; flex-wrap: wrap; gap: 6px 14px; justify-content: center;
+    font: 500 11.5px/1.4 ui-monospace, Menlo, monospace; color: #3fd18b; margin-bottom: 18px;
+}
+.mz-cta {
+    width: 100%; padding: 14px; border: 0; border-radius: 10px; cursor: pointer;
+    font-weight: 600; font-size: 15px; color: #fff;
+    background: linear-gradient(135deg, #7c6cf0, #6366f1); box-shadow: 0 8px 30px -10px rgba(124, 108, 240, 0.5);
+}
+.mz-cta:hover { transform: translateY(-1px); }
+.mz-trial {
+    width: 100%; margin-top: 10px; padding: 11px; border: 1px solid #2c2740; border-radius: 10px;
+    background: transparent; color: #eaeafb; cursor: pointer; font-size: 13.5px; font-weight: 500;
+}
+.mz-cta:focus-visible, .mz-trial:focus-visible { outline: 3px solid #9a8cff; outline-offset: 2px; }
+.mz-key { display: flex; gap: 8px; margin-top: 16px; }
+.mz-key input {
+    flex: 1; background: #14121f; color: #eaeafb; border: 1px solid #2c2740;
+    border-radius: 8px; padding: 9px 11px; font-size: 13px;
+}
+.mz-key button {
+    border: 1px solid #2c2740; background: #34304a; color: #eaeafb; border-radius: 8px;
+    padding: 9px 14px; cursor: pointer; font-size: 13px;
+}
+.mz-note { font-size: 12.5px; margin: 10px 0 0; }
+.mz-note.ok { color: #3fd18b; }
+.mz-note.bad { color: #ffb4b4; }
+.mz-cross { display: inline-block; margin-top: 16px; font-size: 12px; color: #9a8cff; text-decoration: none; }
+.mz-pill { font: 600 11px/1 ui-monospace, Menlo, monospace; color: #3fd18b; padding: 6px 10px; }
+.mz-pill-cta {
+    font-weight: 600; font-size: 12.5px; color: #fff; border: 0; border-radius: 8px;
+    padding: 8px 14px; cursor: pointer; background: linear-gradient(135deg, #7c6cf0, #6366f1);
+}
+.mz-pill-cta:focus-visible { outline: 3px solid #9a8cff; outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { .mz-cta, .mz-trial { transition: none; } }
+
+* { box-sizing: border-box; }
+body {
+    margin: 0;
+    font: 14px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #14121f; color: #eaeafb;
+}
+.shell { max-width: 760px; margin: 0 auto; padding: 32px 24px 64px; }
+h1 { font-size: 24px; margin: 0 0 4px; }
+.tagline { color: #a39fc7; margin: 0 0 20px; font-size: 13px; }
+.tabs { display: flex; gap: 4px; border-bottom: 1px solid #2c2740; margin-bottom: 20px; flex-wrap: wrap; }
+.tabs button {
+    background: transparent; border: 0; color: #a39fc7; padding: 10px 14px;
+    cursor: pointer; font-size: 14px; border-bottom: 2px solid transparent;
+}
+.tabs button.active { color: #eaeafb; border-bottom-color: #6d5efc; }
+.card { background: #1d1a2e; border: 1px solid #2c2740; border-radius: 12px; padding: 18px 20px; margin-bottom: 16px; }
+.card h2 { margin: 0 0 4px; font-size: 16px; }
+.card .hint { color: #a39fc7; font-size: 12px; margin: 0 0 14px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align: left; padding: 7px 8px; border-bottom: 1px solid #2c2740; }
+th { color: #a39fc7; font-weight: 600; font-size: 12px; text-transform: uppercase; }
+.g { font-family: ui-monospace, Menlo, monospace; color: #8b7cf0; font-weight: 700; }
+select, input[type=text], input[type=number], textarea {
+    background: #14121f; color: #eaeafb; border: 1px solid #2c2740; border-radius: 8px;
+    padding: 8px 10px; font-size: 13px; width: 100%; font-family: inherit;
+}
+.btn { padding: 9px 16px; border: 0; border-radius: 9px; cursor: pointer; font-weight: 600; font-size: 13px; color: #fff; background: #6d5efc; }
+.btn.sec { background: #34304a; }
+.btn.danger { background: #7a2740; }
+.row { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+.row label { flex: 1; }
+.drawbox {
+    height: 180px; border: 2px dashed #3a3556; border-radius: 12px; margin: 10px 0;
+    display: flex; align-items: center; justify-content: center; color: #a39fc7;
+    touch-action: none; user-select: none; position: relative; background: #14121f;
+}
+.seq { font-family: ui-monospace, Menlo, monospace; font-size: 28px; color: #8b7cf0; letter-spacing: 6px; }
+.chip { display: inline-block; padding: 2px 8px; border-radius: 6px; font-size: 10px; font-weight: 700; }
+.chip.free { background: #14352a; color: #3fd18b; }
+.chip.pro { background: #3a2a14; color: #f0b866; }
+.excl-list { list-style: none; padding: 0; margin: 10px 0 0; }
+.excl-list li { display: flex; justify-content: space-between; padding: 6px 0; border-bottom: 1px solid #2c2740; }
+.note { font-size: 12px; margin-top: 8px; }
+.note.ok { color: #3fd18b; }
+.note.err { color: #ffb4b4; }
+.msg { color: #a39fc7; font-size: 12px; }
+a { color: #8b7cf0; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible,
+textarea:focus-visible, label.btn:focus-within {
+    outline: 2px solid #8b7cf0;
+    outline-offset: 2px;
+}
+

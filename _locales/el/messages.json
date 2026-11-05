@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Πλοήγηση στον browser με κινήσεις ποντικιού",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Ελέγξτε τον περιηγητή με χειρονομίες ποντικιού. 100% τοπικά, χωρίς λογαριασμό ή παρακολούθηση.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Χειρονομίες ενεργές"
+  },
+  "statusOff": {
+    "message": "Χειρονομίες ανενεργές"
+  },
+  "toggleEnable": {
+    "message": "Ενεργοποίηση"
+  },
+  "toggleDisable": {
+    "message": "Απενεργοποίηση"
+  },
+  "cheatSheetTitle": {
+    "message": "Οι χειρονομίες σας"
+  },
+  "openOptions": {
+    "message": "Ρυθμίσεις"
+  },
+  "openOnboarding": {
+    "message": "Ρύθμιση χειρονομιών"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "ΔΩΡΕΑΝ"
+  },
+  "cmd_newTab": {
+    "message": "Νέα καρτέλα"
+  },
+  "cmd_closeTab": {
+    "message": "Κλείσιμο καρτέλας"
+  },
+  "cmd_reopenTab": {
+    "message": "Άνοιγμα κλεισμένης καρτέλας"
+  },
+  "cmd_back": {
+    "message": "Πίσω"
+  },
+  "cmd_forward": {
+    "message": "Μπροστά"
+  },
+  "cmd_reload": {
+    "message": "Ανανέωση σελίδας"
+  },
+  "cmd_duplicateTab": {
+    "message": "Διπλασιασμός καρτέλας"
+  },
+  "cmd_scrollTop": {
+    "message": "Κύλιση στην κορυφή"
+  },
+  "cmd_scrollBottom": {
+    "message": "Κύλιση στο κάτω μέρος"
+  },
+  "cmd_nextTab": {
+    "message": "Επόμενη καρτέλα"
+  },
+  "cmd_prevTab": {
+    "message": "Προηγούμενη καρτέλα"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Άνοιγμα συνδέσμου σε νέα καρτέλα"
+  },
+  "cmd_searchText": {
+    "message": "Αναζήτηση επιλεγμένου κειμένου"
+  },
+  "cmd_none": {
+    "message": "Καμία ενέργεια"
+  },
+  "optionsTitle": {
+    "message": "Ρυθμίσεις Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "Χειρονομίες"
+  },
+  "tabTrail": {
+    "message": "Ίχνος"
+  },
+  "tabExclusions": {
+    "message": "Εξαιρούμενοι ιστότοποι"
+  },
+  "tabAdvanced": {
+    "message": "Για προχωρημένους"
+  },
+  "tabAbout": {
+    "message": "Σχετικά"
+  },
+  "gestureEditorTitle": {
+    "message": "Χάρτης χειρονομιών"
+  },
+  "gestureEditorHelp": {
+    "message": "Κρατήστε πατημένο το δεξί κουμπί του ποντικιού και σχεδιάστε μια κατεύθυνση, μετά αφήστε. Αντιστοιχίστε κάθε κατεύθυνση σε μια εντολή."
+  },
+  "drawToBind": {
+    "message": "Σχεδιάστε για αντιστοίχιση"
+  },
+  "drawPrompt": {
+    "message": "Σχεδιάστε μια χειρονομία στο πλαίσιο (κρατώντας το δεξί κουμπί)…"
+  },
+  "clearBinding": {
+    "message": "Εκκαθάριση"
+  },
+  "colGesture": {
+    "message": "Χειρονομία"
+  },
+  "colCommand": {
+    "message": "Εντολή"
+  },
+  "rockerTitle": {
+    "message": "Χειρονομίες Rocker"
+  },
+  "rockerBack": {
+    "message": "Κρατήστε δεξί, κλικ αριστερό → Πίσω"
+  },
+  "rockerForward": {
+    "message": "Κρατήστε αριστερό, κλικ δεξί → Μπροστά"
+  },
+  "wheelTitle": {
+    "message": "Χειρονομίες με ροδάκι"
+  },
+  "wheelTabs": {
+    "message": "Κρατήστε δεξί + ροδάκι → Εναλλαγή καρτελών"
+  },
+  "superDragTitle": {
+    "message": "Super-drag"
+  },
+  "superDragLink": {
+    "message": "Σύρετε έναν σύνδεσμο → άνοιγμα σε νέα καρτέλα"
+  },
+  "superDragText": {
+    "message": "Σύρετε επιλεγμένο κείμενο → αναζήτηση"
+  },
+  "trailTitle": {
+    "message": "Ίχνος χειρονομίας"
+  },
+  "trailEnabled": {
+    "message": "Εμφάνιση ίχνους χειρονομίας"
+  },
+  "trailColor": {
+    "message": "Χρώμα ίχνους"
+  },
+  "trailWidth": {
+    "message": "Πάχος ίχνους"
+  },
+  "trailPreview": {
+    "message": "Προεπισκόπηση"
+  },
+  "exclusionsTitle": {
+    "message": "Εξαιρούμενοι ιστότοποι"
+  },
+  "exclusionsHelp": {
+    "message": "Οι χειρονομίες είναι απενεργοποιημένες σε αυτούς τους τομείς. Ένας τομέας ανά γραμμή, π.χ. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Προσθήκη"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Αφαίρεση"
+  },
+  "noExclusions": {
+    "message": "Δεν υπάρχουν ακόμα εξαιρούμενοι ιστότοποι."
+  },
+  "advancedTitle": {
+    "message": "Για προχωρημένους"
+  },
+  "importConfig": {
+    "message": "Εισαγωγή ρυθμίσεων"
+  },
+  "exportConfig": {
+    "message": "Εξαγωγή ρυθμίσεων"
+  },
+  "importError": {
+    "message": "Δεν ήταν δυνατή η εισαγωγή: το αρχείο δεν είναι έγκυρη εξαγωγή ρυθμίσεων."
+  },
+  "importOk": {
+    "message": "Οι ρυθμίσεις εισήχθησαν."
+  },
+  "resetDefaults": {
+    "message": "Επαναφορά προεπιλογών"
+  },
+  "resetConfirm": {
+    "message": "Επαναφορά όλων των χειρονομιών και ρυθμίσεων στις προεπιλογές;"
+  },
+  "searchEngineLabel": {
+    "message": "Πρότυπο URL αναζήτησης"
+  },
+  "searchEngineHelp": {
+    "message": "Χρησιμοποιείται από τη χειρονομία αναζήτησης κειμένου. Το %s αντικαθίσταται από την επιλογή σας. Στέλνει την επιλογή σε αυτό το URL μόνο όταν την ενεργοποιείτε."
+  },
+  "proTitle": {
+    "message": "Λειτουργίες Pro"
+  },
+  "proLocked": {
+    "message": "Αυτή είναι λειτουργία Pro."
+  },
+  "proProfiles": {
+    "message": "Προφίλ χειρονομιών & προεπιλογές"
+  },
+  "proChords": {
+    "message": "Συγχορδίες & ακολουθίες"
+  },
+  "proCustom": {
+    "message": "Προσαρμοσμένες εντολές (δηλωτικές)"
+  },
+  "proSync": {
+    "message": "Συγχρονισμός μεταξύ συσκευών"
+  },
+  "proUrlTemplate": {
+    "message": "Προσαρμοσμένη εντολή προτύπου URL"
+  },
+  "unlockPro": {
+    "message": "Ξεκλείδωμα Pro"
+  },
+  "proActive": {
+    "message": "Το Pro είναι ενεργό. Σας ευχαριστούμε!"
+  },
+  "licensePlaceholder": {
+    "message": "Εισαγάγετε το κλειδί άδειας"
+  },
+  "activateLicense": {
+    "message": "Ενεργοποίηση"
+  },
+  "licenseInvalid": {
+    "message": "Αυτό το κλειδί άδειας δεν αναγνωρίστηκε."
+  },
+  "onboardTitle": {
+    "message": "Καλώς ήρθατε στο Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Ελέγξτε ολόκληρο τον περιηγητή σας με μια κίνηση του ποντικιού."
+  },
+  "onboardTrust": {
+    "message": "100% τοπικά · χωρίς τηλεμετρία, analytics ή λογαριασμούς. Η μόνη δραστηριότητα δικτύου είναι η αναζήτηση που ενεργοποιείτε ρητά, στη μηχανή που επιλέγετε."
+  },
+  "onboardEnableTitle": {
+    "message": "Ενεργοποίηση χειρονομιών σε όλους τους ιστότοπους"
+  },
+  "onboardEnableBody": {
+    "message": "Το Mouse Gestures χρειάζεται άδεια για να παρακολουθεί την κίνηση του ποντικιού στις σελίδες που επισκέπτεστε, ώστε να αναγνωρίζει τις χειρονομίες σας. Κανένα περιεχόμενο σελίδας δεν διαβάζεται, αποθηκεύεται ή αποστέλλεται ποτέ."
+  },
+  "onboardEnableBtn": {
+    "message": "Ενεργοποίηση χειρονομιών σε όλους τους ιστότοπους"
+  },
+  "onboardEnabled": {
+    "message": "Οι χειρονομίες ενεργοποιήθηκαν. Είστε έτοιμοι."
+  },
+  "onboardDenied": {
+    "message": "Η άδεια απορρίφθηκε. Μπορείτε να την ενεργοποιήσετε ανά πάσα στιγμή από το αναδυόμενο παράθυρο."
+  },
+  "onboardTryTitle": {
+    "message": "Δοκιμάστε το τώρα"
+  },
+  "onboardTryBody": {
+    "message": "Κρατήστε πατημένο το δεξί κουμπί του ποντικιού, μετακινηθείτε αριστερά και αφήστε για να πάτε πίσω."
+  },
+  "onboardOpenSettings": {
+    "message": "Άνοιγμα ρυθμίσεων"
+  },
+  "onboardFinish": {
+    "message": "Ολοκλήρωση"
+  },
+  "trustBanner": {
+    "message": "Δωρεάν για πάντα · Χωρίς λογαριασμό · Χωρίς διαφημίσεις · Χωρίς παρακολούθηση"
+  },
+  "aboutBody": {
+    "message": "Το Mouse Gestures είναι διαφανές σχετικά με τις άδειές του και κρατά τα πάντα στη συσκευή σας. Οι χειρονομίες αναγνωρίζονται τοπικά· τίποτα από όσα περιηγείστε δεν συλλέγεται."
+  },
+  "privacyLink": {
+    "message": "Πολιτική απορρήτου"
+  },
+  "save": {
+    "message": "Αποθήκευση"
+  },
+  "cancel": {
+    "message": "Ακύρωση"
+  },
+  "saved": {
+    "message": "Αποθηκεύτηκε"
+  },
+  "supportLink": {
+    "message": "Επικοινωνία με υποστήριξη"
+  }
+}

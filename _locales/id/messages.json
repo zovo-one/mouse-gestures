@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Jelajahi browser dengan gerakan mouse sederhana",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Kendalikan browser dengan gerakan mouse. 100% lokal, tanpa akun, tanpa pelacakan.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Gerakan Mouse"
+  },
+  "statusOn": {
+    "message": "Gerakan aktif"
+  },
+  "statusOff": {
+    "message": "Gerakan nonaktif"
+  },
+  "toggleEnable": {
+    "message": "Aktifkan"
+  },
+  "toggleDisable": {
+    "message": "Nonaktifkan"
+  },
+  "cheatSheetTitle": {
+    "message": "Gerakan Anda"
+  },
+  "openOptions": {
+    "message": "Pengaturan"
+  },
+  "openOnboarding": {
+    "message": "Siapkan gerakan"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "GRATIS"
+  },
+  "cmd_newTab": {
+    "message": "Tab baru"
+  },
+  "cmd_closeTab": {
+    "message": "Tutup tab"
+  },
+  "cmd_reopenTab": {
+    "message": "Buka kembali tab yang ditutup"
+  },
+  "cmd_back": {
+    "message": "Kembali"
+  },
+  "cmd_forward": {
+    "message": "Maju"
+  },
+  "cmd_reload": {
+    "message": "Muat ulang halaman"
+  },
+  "cmd_duplicateTab": {
+    "message": "Gandakan tab"
+  },
+  "cmd_scrollTop": {
+    "message": "Gulir ke atas"
+  },
+  "cmd_scrollBottom": {
+    "message": "Gulir ke bawah"
+  },
+  "cmd_nextTab": {
+    "message": "Tab berikutnya"
+  },
+  "cmd_prevTab": {
+    "message": "Tab sebelumnya"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Buka tautan di tab baru"
+  },
+  "cmd_searchText": {
+    "message": "Cari teks terpilih"
+  },
+  "cmd_none": {
+    "message": "Tanpa aksi"
+  },
+  "optionsTitle": {
+    "message": "Pengaturan Gerakan Mouse"
+  },
+  "tabGestures": {
+    "message": "Gerakan"
+  },
+  "tabTrail": {
+    "message": "Jejak"
+  },
+  "tabExclusions": {
+    "message": "Situs dikecualikan"
+  },
+  "tabAdvanced": {
+    "message": "Lanjutan"
+  },
+  "tabAbout": {
+    "message": "Tentang"
+  },
+  "gestureEditorTitle": {
+    "message": "Peta gerakan"
+  },
+  "gestureEditorHelp": {
+    "message": "Tahan tombol mouse kanan dan gambar sebuah arah, lalu lepaskan. Tetapkan setiap arah ke sebuah perintah."
+  },
+  "drawToBind": {
+    "message": "Gambar untuk mengikat"
+  },
+  "drawPrompt": {
+    "message": "Gambar gerakan di kotak (tahan tombol kanan)…"
+  },
+  "clearBinding": {
+    "message": "Hapus"
+  },
+  "colGesture": {
+    "message": "Gerakan"
+  },
+  "colCommand": {
+    "message": "Perintah"
+  },
+  "rockerTitle": {
+    "message": "Gerakan rocker"
+  },
+  "rockerBack": {
+    "message": "Tahan kanan, klik kiri → Kembali"
+  },
+  "rockerForward": {
+    "message": "Tahan kiri, klik kanan → Maju"
+  },
+  "wheelTitle": {
+    "message": "Gerakan roda"
+  },
+  "wheelTabs": {
+    "message": "Tahan kanan + roda → Ganti tab"
+  },
+  "superDragTitle": {
+    "message": "Super-drag"
+  },
+  "superDragLink": {
+    "message": "Seret tautan → buka di tab baru"
+  },
+  "superDragText": {
+    "message": "Seret teks terpilih → cari"
+  },
+  "trailTitle": {
+    "message": "Jejak gerakan"
+  },
+  "trailEnabled": {
+    "message": "Tampilkan jejak gerakan"
+  },
+  "trailColor": {
+    "message": "Warna jejak"
+  },
+  "trailWidth": {
+    "message": "Lebar jejak"
+  },
+  "trailPreview": {
+    "message": "Pratinjau"
+  },
+  "exclusionsTitle": {
+    "message": "Situs dikecualikan"
+  },
+  "exclusionsHelp": {
+    "message": "Gerakan dinonaktifkan di domain ini. Satu domain per baris, mis. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Tambah"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Hapus"
+  },
+  "noExclusions": {
+    "message": "Belum ada situs yang dikecualikan."
+  },
+  "advancedTitle": {
+    "message": "Lanjutan"
+  },
+  "importConfig": {
+    "message": "Impor pengaturan"
+  },
+  "exportConfig": {
+    "message": "Ekspor pengaturan"
+  },
+  "importError": {
+    "message": "Tidak dapat mengimpor: berkas bukan ekspor pengaturan yang valid."
+  },
+  "importOk": {
+    "message": "Pengaturan diimpor."
+  },
+  "resetDefaults": {
+    "message": "Kembalikan ke bawaan"
+  },
+  "resetConfirm": {
+    "message": "Kembalikan semua gerakan dan pengaturan ke bawaan?"
+  },
+  "searchEngineLabel": {
+    "message": "Templat URL pencarian"
+  },
+  "searchEngineHelp": {
+    "message": "Digunakan oleh gerakan cari-teks. %s diganti dengan pilihan Anda. Mengirim pilihan ke URL ini hanya saat Anda memicunya."
+  },
+  "proTitle": {
+    "message": "Fitur Pro"
+  },
+  "proLocked": {
+    "message": "Ini fitur Pro."
+  },
+  "proProfiles": {
+    "message": "Profil & preset gerakan"
+  },
+  "proChords": {
+    "message": "Kord & urutan"
+  },
+  "proCustom": {
+    "message": "Perintah kustom (deklaratif)"
+  },
+  "proSync": {
+    "message": "Sinkronisasi lintas perangkat"
+  },
+  "proUrlTemplate": {
+    "message": "Perintah templat-URL kustom"
+  },
+  "unlockPro": {
+    "message": "Buka Pro"
+  },
+  "proActive": {
+    "message": "Pro aktif. Terima kasih!"
+  },
+  "licensePlaceholder": {
+    "message": "Masukkan kunci lisensi Anda"
+  },
+  "activateLicense": {
+    "message": "Aktifkan"
+  },
+  "licenseInvalid": {
+    "message": "Kunci lisensi itu tidak dikenali."
+  },
+  "onboardTitle": {
+    "message": "Selamat datang di Gerakan Mouse"
+  },
+  "onboardSubtitle": {
+    "message": "Kendalikan seluruh browser Anda hanya dengan sentakan mouse."
+  },
+  "onboardTrust": {
+    "message": "100% lokal · tanpa telemetri, tanpa analitik, tanpa akun. Satu-satunya aktivitas jaringan adalah pencarian yang Anda picu secara eksplisit, ke mesin pilihan Anda."
+  },
+  "onboardEnableTitle": {
+    "message": "Aktifkan gerakan di semua situs"
+  },
+  "onboardEnableBody": {
+    "message": "Gerakan Mouse perlu izin untuk memantau gerakan mouse di halaman yang Anda kunjungi agar dapat mengenali gerakan Anda. Tidak ada konten halaman yang pernah dibaca, disimpan, atau dikirim."
+  },
+  "onboardEnableBtn": {
+    "message": "Aktifkan gerakan di semua situs"
+  },
+  "onboardEnabled": {
+    "message": "Gerakan diaktifkan. Semua siap."
+  },
+  "onboardDenied": {
+    "message": "Izin ditolak. Anda dapat mengaktifkannya kapan saja dari popup."
+  },
+  "onboardTryTitle": {
+    "message": "Coba sekarang"
+  },
+  "onboardTryBody": {
+    "message": "Tahan tombol mouse kanan, gerakkan ke kiri, dan lepaskan untuk kembali."
+  },
+  "onboardOpenSettings": {
+    "message": "Buka pengaturan"
+  },
+  "onboardFinish": {
+    "message": "Selesai"
+  },
+  "trustBanner": {
+    "message": "Gratis selamanya · Tanpa akun · Tanpa iklan · Tanpa pelacakan"
+  },
+  "aboutBody": {
+    "message": "Gerakan Mouse terbuka tentang izinnya dan menyimpan semuanya di perangkat Anda. Gerakan dikenali secara lokal; tidak ada yang Anda jelajahi yang dikumpulkan."
+  },
+  "privacyLink": {
+    "message": "Kebijakan privasi"
+  },
+  "save": {
+    "message": "Simpan"
+  },
+  "cancel": {
+    "message": "Batal"
+  },
+  "saved": {
+    "message": "Tersimpan"
+  },
+  "supportLink": {
+    "message": "Hubungi dukungan"
+  }
+}

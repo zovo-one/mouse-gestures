@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Layari pelayar dengan gerakan tetikus mudah",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Kawal pelayar guna gerak isyarat tetikus. 100% setempat, tanpa akaun, tanpa penjejakan.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Gerak isyarat tetikus"
+  },
+  "statusOn": {
+    "message": "Gerak isyarat aktif"
+  },
+  "statusOff": {
+    "message": "Gerak isyarat mati"
+  },
+  "toggleEnable": {
+    "message": "Dayakan"
+  },
+  "toggleDisable": {
+    "message": "Lumpuhkan"
+  },
+  "cheatSheetTitle": {
+    "message": "Gerak isyarat anda"
+  },
+  "openOptions": {
+    "message": "Tetapan"
+  },
+  "openOnboarding": {
+    "message": "Sediakan gerak isyarat"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "PERCUMA"
+  },
+  "cmd_newTab": {
+    "message": "Tab baharu"
+  },
+  "cmd_closeTab": {
+    "message": "Tutup tab"
+  },
+  "cmd_reopenTab": {
+    "message": "Buka semula tab yang ditutup"
+  },
+  "cmd_back": {
+    "message": "Undur"
+  },
+  "cmd_forward": {
+    "message": "Maju"
+  },
+  "cmd_reload": {
+    "message": "Muat semula halaman"
+  },
+  "cmd_duplicateTab": {
+    "message": "Duplikasi tab"
+  },
+  "cmd_scrollTop": {
+    "message": "Tatal ke atas"
+  },
+  "cmd_scrollBottom": {
+    "message": "Tatal ke bawah"
+  },
+  "cmd_nextTab": {
+    "message": "Tab seterusnya"
+  },
+  "cmd_prevTab": {
+    "message": "Tab sebelumnya"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Buka pautan dalam tab baharu"
+  },
+  "cmd_searchText": {
+    "message": "Cari teks yang dipilih"
+  },
+  "cmd_none": {
+    "message": "Tiada tindakan"
+  },
+  "optionsTitle": {
+    "message": "Tetapan gerak isyarat tetikus"
+  },
+  "tabGestures": {
+    "message": "Gerak isyarat"
+  },
+  "tabTrail": {
+    "message": "Jejak"
+  },
+  "tabExclusions": {
+    "message": "Tapak dikecualikan"
+  },
+  "tabAdvanced": {
+    "message": "Lanjutan"
+  },
+  "tabAbout": {
+    "message": "Perihal"
+  },
+  "gestureEditorTitle": {
+    "message": "Peta gerak isyarat"
+  },
+  "gestureEditorHelp": {
+    "message": "Tahan butang kanan tetikus dan lukis satu arah, kemudian lepaskan. Tetapkan setiap arah kepada satu arahan."
+  },
+  "drawToBind": {
+    "message": "Lukis untuk mengikat"
+  },
+  "drawPrompt": {
+    "message": "Lukis gerak isyarat dalam kotak (tahan butang kanan)…"
+  },
+  "clearBinding": {
+    "message": "Kosongkan"
+  },
+  "colGesture": {
+    "message": "Gerak isyarat"
+  },
+  "colCommand": {
+    "message": "Arahan"
+  },
+  "rockerTitle": {
+    "message": "Gerak isyarat rocker"
+  },
+  "rockerBack": {
+    "message": "Tahan kanan, klik kiri → Undur"
+  },
+  "rockerForward": {
+    "message": "Tahan kiri, klik kanan → Maju"
+  },
+  "wheelTitle": {
+    "message": "Gerak isyarat roda"
+  },
+  "wheelTabs": {
+    "message": "Tahan kanan + roda → Tukar tab"
+  },
+  "superDragTitle": {
+    "message": "Seret pintar"
+  },
+  "superDragLink": {
+    "message": "Seret pautan → buka dalam tab baharu"
+  },
+  "superDragText": {
+    "message": "Seret teks yang dipilih → cari"
+  },
+  "trailTitle": {
+    "message": "Jejak gerak isyarat"
+  },
+  "trailEnabled": {
+    "message": "Tunjukkan jejak gerak isyarat"
+  },
+  "trailColor": {
+    "message": "Warna jejak"
+  },
+  "trailWidth": {
+    "message": "Lebar jejak"
+  },
+  "trailPreview": {
+    "message": "Pratonton"
+  },
+  "exclusionsTitle": {
+    "message": "Tapak dikecualikan"
+  },
+  "exclusionsHelp": {
+    "message": "Gerak isyarat dilumpuhkan pada domain ini. Satu domain setiap baris, cth. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Tambah"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Buang"
+  },
+  "noExclusions": {
+    "message": "Belum ada tapak yang dikecualikan."
+  },
+  "advancedTitle": {
+    "message": "Lanjutan"
+  },
+  "importConfig": {
+    "message": "Import tetapan"
+  },
+  "exportConfig": {
+    "message": "Eksport tetapan"
+  },
+  "importError": {
+    "message": "Tidak dapat mengimport: fail itu bukan eksport tetapan yang sah."
+  },
+  "importOk": {
+    "message": "Tetapan telah diimport."
+  },
+  "resetDefaults": {
+    "message": "Set semula kepada lalai"
+  },
+  "resetConfirm": {
+    "message": "Set semula semua gerak isyarat dan tetapan kepada lalai?"
+  },
+  "searchEngineLabel": {
+    "message": "Templat URL carian"
+  },
+  "searchEngineHelp": {
+    "message": "Digunakan oleh gerak isyarat cari-teks. %s digantikan dengan pilihan anda. Menghantar pilihan ke URL ini hanya apabila anda mencetuskannya."
+  },
+  "proTitle": {
+    "message": "Ciri Pro"
+  },
+  "proLocked": {
+    "message": "Ini ialah ciri Pro."
+  },
+  "proProfiles": {
+    "message": "Profil & pratetap gerak isyarat"
+  },
+  "proChords": {
+    "message": "Kord & urutan"
+  },
+  "proCustom": {
+    "message": "Arahan tersuai (deklaratif)"
+  },
+  "proSync": {
+    "message": "Penyegerakan merentas mesin"
+  },
+  "proUrlTemplate": {
+    "message": "Arahan templat URL tersuai"
+  },
+  "unlockPro": {
+    "message": "Buka kunci Pro"
+  },
+  "proActive": {
+    "message": "Pro aktif. Terima kasih!"
+  },
+  "licensePlaceholder": {
+    "message": "Masukkan kunci lesen anda"
+  },
+  "activateLicense": {
+    "message": "Aktifkan"
+  },
+  "licenseInvalid": {
+    "message": "Kunci lesen itu tidak dikenali."
+  },
+  "onboardTitle": {
+    "message": "Selamat datang ke Gerak isyarat tetikus"
+  },
+  "onboardSubtitle": {
+    "message": "Kawal keseluruhan pelayar anda dengan satu lambaian tetikus."
+  },
+  "onboardTrust": {
+    "message": "100% setempat · tiada telemetri, tiada analitik, tiada akaun. Satu-satunya aktiviti rangkaian ialah carian yang anda cetuskan secara jelas, ke enjin pilihan anda."
+  },
+  "onboardEnableTitle": {
+    "message": "Dayakan gerak isyarat pada semua tapak"
+  },
+  "onboardEnableBody": {
+    "message": "Gerak isyarat tetikus memerlukan kebenaran untuk memerhati pergerakan tetikus pada halaman yang anda lawati supaya ia dapat mengecam gerak isyarat anda. Tiada kandungan halaman yang pernah dibaca, disimpan, atau dihantar."
+  },
+  "onboardEnableBtn": {
+    "message": "Dayakan gerak isyarat pada semua tapak"
+  },
+  "onboardEnabled": {
+    "message": "Gerak isyarat didayakan. Anda sudah bersedia."
+  },
+  "onboardDenied": {
+    "message": "Kebenaran telah ditolak. Anda boleh mendayakannya bila-bila masa daripada tetingkap timbul."
+  },
+  "onboardTryTitle": {
+    "message": "Cuba sekarang"
+  },
+  "onboardTryBody": {
+    "message": "Tahan butang kanan tetikus, gerak ke kiri, dan lepaskan untuk undur."
+  },
+  "onboardOpenSettings": {
+    "message": "Buka tetapan"
+  },
+  "onboardFinish": {
+    "message": "Selesai"
+  },
+  "trustBanner": {
+    "message": "Percuma selama-lamanya · Tiada akaun · Tiada iklan · Tiada penjejakan"
+  },
+  "aboutBody": {
+    "message": "Gerak isyarat tetikus bersikap terbuka tentang kebenarannya dan menyimpan segalanya pada peranti anda. Gerak isyarat dikecam secara setempat; tiada apa yang anda layari dikumpul."
+  },
+  "privacyLink": {
+    "message": "Dasar privasi"
+  },
+  "save": {
+    "message": "Simpan"
+  },
+  "cancel": {
+    "message": "Batal"
+  },
+  "saved": {
+    "message": "Disimpan"
+  },
+  "supportLink": {
+    "message": "Hubungi sokongan"
+  }
+}

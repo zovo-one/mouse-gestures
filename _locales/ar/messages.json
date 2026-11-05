@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - تنقل في المتصفح بحركات بسيطة للماوس",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "تحكّم في متصفحك بإيماءات الماوس. 100% محلي، دون حساب، دون تتبّع.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "إيماءات الماوس"
+  },
+  "statusOn": {
+    "message": "الإيماءات مُفعّلة"
+  },
+  "statusOff": {
+    "message": "الإيماءات مُعطّلة"
+  },
+  "toggleEnable": {
+    "message": "تفعيل"
+  },
+  "toggleDisable": {
+    "message": "تعطيل"
+  },
+  "cheatSheetTitle": {
+    "message": "إيماءاتك"
+  },
+  "openOptions": {
+    "message": "الإعدادات"
+  },
+  "openOnboarding": {
+    "message": "إعداد الإيماءات"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "مجاني"
+  },
+  "cmd_newTab": {
+    "message": "علامة تبويب جديدة"
+  },
+  "cmd_closeTab": {
+    "message": "إغلاق علامة التبويب"
+  },
+  "cmd_reopenTab": {
+    "message": "إعادة فتح علامة التبويب المغلقة"
+  },
+  "cmd_back": {
+    "message": "رجوع"
+  },
+  "cmd_forward": {
+    "message": "تقدّم"
+  },
+  "cmd_reload": {
+    "message": "إعادة تحميل الصفحة"
+  },
+  "cmd_duplicateTab": {
+    "message": "تكرار علامة التبويب"
+  },
+  "cmd_scrollTop": {
+    "message": "التمرير إلى الأعلى"
+  },
+  "cmd_scrollBottom": {
+    "message": "التمرير إلى الأسفل"
+  },
+  "cmd_nextTab": {
+    "message": "علامة التبويب التالية"
+  },
+  "cmd_prevTab": {
+    "message": "علامة التبويب السابقة"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "فتح الرابط في علامة تبويب جديدة"
+  },
+  "cmd_searchText": {
+    "message": "البحث عن النص المحدد"
+  },
+  "cmd_none": {
+    "message": "دون إجراء"
+  },
+  "optionsTitle": {
+    "message": "إعدادات إيماءات الماوس"
+  },
+  "tabGestures": {
+    "message": "الإيماءات"
+  },
+  "tabTrail": {
+    "message": "الأثر"
+  },
+  "tabExclusions": {
+    "message": "المواقع المستثناة"
+  },
+  "tabAdvanced": {
+    "message": "متقدّم"
+  },
+  "tabAbout": {
+    "message": "حول"
+  },
+  "gestureEditorTitle": {
+    "message": "خريطة الإيماءات"
+  },
+  "gestureEditorHelp": {
+    "message": "اضغط زر الماوس الأيمن وارسم اتجاهًا ثم حرّره. عيّن لكل اتجاه أمرًا."
+  },
+  "drawToBind": {
+    "message": "ارسم للربط"
+  },
+  "drawPrompt": {
+    "message": "ارسم إيماءة في المربّع (اضغط الزر الأيمن)…"
+  },
+  "clearBinding": {
+    "message": "مسح"
+  },
+  "colGesture": {
+    "message": "الإيماءة"
+  },
+  "colCommand": {
+    "message": "الأمر"
+  },
+  "rockerTitle": {
+    "message": "إيماءات الأرجوحة"
+  },
+  "rockerBack": {
+    "message": "اضغط الأيمن، انقر الأيسر → رجوع"
+  },
+  "rockerForward": {
+    "message": "اضغط الأيسر، انقر الأيمن → تقدّم"
+  },
+  "wheelTitle": {
+    "message": "إيماءات العجلة"
+  },
+  "wheelTabs": {
+    "message": "اضغط الأيمن + العجلة → تبديل علامات التبويب"
+  },
+  "superDragTitle": {
+    "message": "السحب الفائق"
+  },
+  "superDragLink": {
+    "message": "اسحب رابطًا → فتح في علامة تبويب جديدة"
+  },
+  "superDragText": {
+    "message": "اسحب نصًا محددًا → بحث"
+  },
+  "trailTitle": {
+    "message": "أثر الإيماءة"
+  },
+  "trailEnabled": {
+    "message": "إظهار أثر الإيماءة"
+  },
+  "trailColor": {
+    "message": "لون الأثر"
+  },
+  "trailWidth": {
+    "message": "عرض الأثر"
+  },
+  "trailPreview": {
+    "message": "معاينة"
+  },
+  "exclusionsTitle": {
+    "message": "المواقع المستثناة"
+  },
+  "exclusionsHelp": {
+    "message": "الإيماءات معطّلة على هذه النطاقات. نطاق واحد لكل سطر، مثل maps.google.com."
+  },
+  "addExclusion": {
+    "message": "إضافة"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "إزالة"
+  },
+  "noExclusions": {
+    "message": "لا توجد مواقع مستثناة بعد."
+  },
+  "advancedTitle": {
+    "message": "متقدّم"
+  },
+  "importConfig": {
+    "message": "استيراد الإعدادات"
+  },
+  "exportConfig": {
+    "message": "تصدير الإعدادات"
+  },
+  "importError": {
+    "message": "تعذّر الاستيراد: الملف ليس تصديرًا صالحًا للإعدادات."
+  },
+  "importOk": {
+    "message": "تم استيراد الإعدادات."
+  },
+  "resetDefaults": {
+    "message": "إعادة التعيين إلى الافتراضيات"
+  },
+  "resetConfirm": {
+    "message": "إعادة تعيين جميع الإيماءات والإعدادات إلى الافتراضيات؟"
+  },
+  "searchEngineLabel": {
+    "message": "قالب عنوان URL للبحث"
+  },
+  "searchEngineHelp": {
+    "message": "تستخدمه إيماءة البحث عن النص. يُستبدل %s بتحديدك. يُرسل التحديد إلى هذا العنوان فقط عند تنفيذك له."
+  },
+  "proTitle": {
+    "message": "ميزات Pro"
+  },
+  "proLocked": {
+    "message": "هذه ميزة Pro."
+  },
+  "proProfiles": {
+    "message": "ملفات تعريف الإيماءات والإعدادات المسبقة"
+  },
+  "proChords": {
+    "message": "التوليفات والتسلسلات"
+  },
+  "proCustom": {
+    "message": "أوامر مخصصة (تعريفية)"
+  },
+  "proSync": {
+    "message": "المزامنة عبر الأجهزة"
+  },
+  "proUrlTemplate": {
+    "message": "أمر قالب URL مخصص"
+  },
+  "unlockPro": {
+    "message": "فتح Pro"
+  },
+  "proActive": {
+    "message": "Pro مُفعّل. شكرًا لك!"
+  },
+  "licensePlaceholder": {
+    "message": "أدخل مفتاح الترخيص"
+  },
+  "activateLicense": {
+    "message": "تفعيل"
+  },
+  "licenseInvalid": {
+    "message": "لم يتم التعرّف على مفتاح الترخيص هذا."
+  },
+  "onboardTitle": {
+    "message": "مرحبًا بك في إيماءات الماوس"
+  },
+  "onboardSubtitle": {
+    "message": "تحكّم في متصفحك بالكامل بحركة بسيطة من الماوس."
+  },
+  "onboardTrust": {
+    "message": "100% محلي · لا قياس عن بُعد، ولا تحليلات، ولا حسابات. النشاط الشبكي الوحيد هو البحث الذي تطلبه صراحةً، إلى المحرك الذي تختاره."
+  },
+  "onboardEnableTitle": {
+    "message": "تفعيل الإيماءات على جميع المواقع"
+  },
+  "onboardEnableBody": {
+    "message": "تحتاج إيماءات الماوس إلى إذن لمراقبة حركة الماوس على الصفحات التي تزورها لتتمكّن من التعرّف على إيماءاتك. لا تُقرأ أي محتويات للصفحة أو تُخزَّن أو تُرسَل أبدًا."
+  },
+  "onboardEnableBtn": {
+    "message": "تفعيل الإيماءات على جميع المواقع"
+  },
+  "onboardEnabled": {
+    "message": "تم تفعيل الإيماءات. أنت جاهز تمامًا."
+  },
+  "onboardDenied": {
+    "message": "تم رفض الإذن. يمكنك تفعيله في أي وقت من النافذة المنبثقة."
+  },
+  "onboardTryTitle": {
+    "message": "جرّبها الآن"
+  },
+  "onboardTryBody": {
+    "message": "اضغط زر الماوس الأيمن، وحرّك إلى اليسار، ثم حرّره للرجوع."
+  },
+  "onboardOpenSettings": {
+    "message": "فتح الإعدادات"
+  },
+  "onboardFinish": {
+    "message": "إنهاء"
+  },
+  "trustBanner": {
+    "message": "مجاني إلى الأبد · دون حساب · دون إعلانات · دون تتبّع"
+  },
+  "aboutBody": {
+    "message": "إيماءات الماوس شفافة بشأن أذوناتها وتُبقي كل شيء على جهازك. تُتعرَّف الإيماءات محليًا؛ ولا يُجمع أي شيء تتصفّحه."
+  },
+  "privacyLink": {
+    "message": "سياسة الخصوصية"
+  },
+  "save": {
+    "message": "حفظ"
+  },
+  "cancel": {
+    "message": "إلغاء"
+  },
+  "saved": {
+    "message": "تم الحفظ"
+  },
+  "supportLink": {
+    "message": "اتصل بالدعم"
+  }
+}

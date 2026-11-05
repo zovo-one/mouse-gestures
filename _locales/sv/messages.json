@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Navigera i webbläsaren med enkla musrörelser",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Styr din webbläsare med musgester. 100% lokalt, inget konto, ingen spårning.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Musgester"
+  },
+  "statusOn": {
+    "message": "Gester på"
+  },
+  "statusOff": {
+    "message": "Gester av"
+  },
+  "toggleEnable": {
+    "message": "Aktivera"
+  },
+  "toggleDisable": {
+    "message": "Inaktivera"
+  },
+  "cheatSheetTitle": {
+    "message": "Dina gester"
+  },
+  "openOptions": {
+    "message": "Inställningar"
+  },
+  "openOnboarding": {
+    "message": "Ställ in gester"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "GRATIS"
+  },
+  "cmd_newTab": {
+    "message": "Ny flik"
+  },
+  "cmd_closeTab": {
+    "message": "Stäng flik"
+  },
+  "cmd_reopenTab": {
+    "message": "Öppna stängd flik igen"
+  },
+  "cmd_back": {
+    "message": "Gå bakåt"
+  },
+  "cmd_forward": {
+    "message": "Gå framåt"
+  },
+  "cmd_reload": {
+    "message": "Uppdatera sidan"
+  },
+  "cmd_duplicateTab": {
+    "message": "Duplicera flik"
+  },
+  "cmd_scrollTop": {
+    "message": "Rulla till toppen"
+  },
+  "cmd_scrollBottom": {
+    "message": "Rulla till botten"
+  },
+  "cmd_nextTab": {
+    "message": "Nästa flik"
+  },
+  "cmd_prevTab": {
+    "message": "Föregående flik"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Öppna länk i ny flik"
+  },
+  "cmd_searchText": {
+    "message": "Sök markerad text"
+  },
+  "cmd_none": {
+    "message": "Ingen åtgärd"
+  },
+  "optionsTitle": {
+    "message": "Inställningar för musgester"
+  },
+  "tabGestures": {
+    "message": "Gester"
+  },
+  "tabTrail": {
+    "message": "Spår"
+  },
+  "tabExclusions": {
+    "message": "Undantagna webbplatser"
+  },
+  "tabAdvanced": {
+    "message": "Avancerat"
+  },
+  "tabAbout": {
+    "message": "Om"
+  },
+  "gestureEditorTitle": {
+    "message": "Gestkarta"
+  },
+  "gestureEditorHelp": {
+    "message": "Håll ned höger musknapp och rita en riktning, släpp sedan. Tilldela varje riktning ett kommando."
+  },
+  "drawToBind": {
+    "message": "Rita för att binda"
+  },
+  "drawPrompt": {
+    "message": "Rita en gest i rutan (håll ned höger knapp)…"
+  },
+  "clearBinding": {
+    "message": "Rensa"
+  },
+  "colGesture": {
+    "message": "Gest"
+  },
+  "colCommand": {
+    "message": "Kommando"
+  },
+  "rockerTitle": {
+    "message": "Rocker-gester"
+  },
+  "rockerBack": {
+    "message": "Håll höger, klicka vänster → Bakåt"
+  },
+  "rockerForward": {
+    "message": "Håll vänster, klicka höger → Framåt"
+  },
+  "wheelTitle": {
+    "message": "Hjulgester"
+  },
+  "wheelTabs": {
+    "message": "Håll höger + hjul → Växla flikar"
+  },
+  "superDragTitle": {
+    "message": "Superdrag"
+  },
+  "superDragLink": {
+    "message": "Dra en länk → öppna i ny flik"
+  },
+  "superDragText": {
+    "message": "Dra markerad text → sök"
+  },
+  "trailTitle": {
+    "message": "Gestspår"
+  },
+  "trailEnabled": {
+    "message": "Visa gestspår"
+  },
+  "trailColor": {
+    "message": "Spårfärg"
+  },
+  "trailWidth": {
+    "message": "Spårbredd"
+  },
+  "trailPreview": {
+    "message": "Förhandsvisning"
+  },
+  "exclusionsTitle": {
+    "message": "Undantagna webbplatser"
+  },
+  "exclusionsHelp": {
+    "message": "Gester är inaktiverade på dessa domäner. En domän per rad, t.ex. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Lägg till"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Ta bort"
+  },
+  "noExclusions": {
+    "message": "Inga undantagna webbplatser ännu."
+  },
+  "advancedTitle": {
+    "message": "Avancerat"
+  },
+  "importConfig": {
+    "message": "Importera inställningar"
+  },
+  "exportConfig": {
+    "message": "Exportera inställningar"
+  },
+  "importError": {
+    "message": "Kunde inte importera: filen är inte en giltig inställningsexport."
+  },
+  "importOk": {
+    "message": "Inställningar importerade."
+  },
+  "resetDefaults": {
+    "message": "Återställ standard"
+  },
+  "resetConfirm": {
+    "message": "Återställa alla gester och inställningar till standard?"
+  },
+  "searchEngineLabel": {
+    "message": "URL-mall för sökning"
+  },
+  "searchEngineHelp": {
+    "message": "Används av gesten sök-text. %s ersätts med din markering. Skickar markeringen till denna URL endast när du utlöser den."
+  },
+  "proTitle": {
+    "message": "Pro-funktioner"
+  },
+  "proLocked": {
+    "message": "Detta är en Pro-funktion."
+  },
+  "proProfiles": {
+    "message": "Gestprofiler och förinställningar"
+  },
+  "proChords": {
+    "message": "Ackord och sekvenser"
+  },
+  "proCustom": {
+    "message": "Anpassade kommandon (deklarativa)"
+  },
+  "proSync": {
+    "message": "Synkronisering mellan datorer"
+  },
+  "proUrlTemplate": {
+    "message": "Anpassat kommando med URL-mall"
+  },
+  "unlockPro": {
+    "message": "Lås upp Pro"
+  },
+  "proActive": {
+    "message": "Pro är aktiverat. Tack!"
+  },
+  "licensePlaceholder": {
+    "message": "Ange din licensnyckel"
+  },
+  "activateLicense": {
+    "message": "Aktivera"
+  },
+  "licenseInvalid": {
+    "message": "Licensnyckeln kändes inte igen."
+  },
+  "onboardTitle": {
+    "message": "Välkommen till Musgester"
+  },
+  "onboardSubtitle": {
+    "message": "Styr hela din webbläsare med en snärt av musen."
+  },
+  "onboardTrust": {
+    "message": "100% lokalt · ingen telemetri, ingen analys, inga konton. Den enda nätverksaktiviteten är sökningen du uttryckligen utlöser, till sökmotorn du väljer."
+  },
+  "onboardEnableTitle": {
+    "message": "Aktivera gester på alla webbplatser"
+  },
+  "onboardEnableBody": {
+    "message": "Musgester behöver behörighet att följa musrörelser på sidorna du besöker för att känna igen dina gester. Inget sidinnehåll läses, lagras eller skickas någonsin."
+  },
+  "onboardEnableBtn": {
+    "message": "Aktivera gester på alla webbplatser"
+  },
+  "onboardEnabled": {
+    "message": "Gester aktiverade. Allt är klart."
+  },
+  "onboardDenied": {
+    "message": "Behörigheten nekades. Du kan aktivera den när som helst från popup-fönstret."
+  },
+  "onboardTryTitle": {
+    "message": "Prova nu"
+  },
+  "onboardTryBody": {
+    "message": "Håll ned höger musknapp, flytta åt vänster och släpp för att gå bakåt."
+  },
+  "onboardOpenSettings": {
+    "message": "Öppna inställningar"
+  },
+  "onboardFinish": {
+    "message": "Slutför"
+  },
+  "trustBanner": {
+    "message": "Gratis för alltid · Inget konto · Inga annonser · Ingen spårning"
+  },
+  "aboutBody": {
+    "message": "Musgester är öppen med sina behörigheter och behåller allt på din enhet. Gester känns igen lokalt; inget av det du surfar på samlas in."
+  },
+  "privacyLink": {
+    "message": "Integritetspolicy"
+  },
+  "save": {
+    "message": "Spara"
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "saved": {
+    "message": "Sparat"
+  },
+  "supportLink": {
+    "message": "Kontakta support"
+  }
+}

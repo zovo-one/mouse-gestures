@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Mag-navigate sa browser gamit ang galaw ng mouse",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Kontrolin ang browser gamit ang mga galaw ng mouse. 100% lokal, walang account, walang pagsubaybay.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mga Galaw ng Mouse"
+  },
+  "statusOn": {
+    "message": "Naka-on ang mga galaw"
+  },
+  "statusOff": {
+    "message": "Naka-off ang mga galaw"
+  },
+  "toggleEnable": {
+    "message": "I-enable"
+  },
+  "toggleDisable": {
+    "message": "I-disable"
+  },
+  "cheatSheetTitle": {
+    "message": "Ang iyong mga galaw"
+  },
+  "openOptions": {
+    "message": "Mga Setting"
+  },
+  "openOnboarding": {
+    "message": "I-set up ang mga galaw"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "LIBRE"
+  },
+  "cmd_newTab": {
+    "message": "Bagong tab"
+  },
+  "cmd_closeTab": {
+    "message": "Isara ang tab"
+  },
+  "cmd_reopenTab": {
+    "message": "Buksang muli ang isinarang tab"
+  },
+  "cmd_back": {
+    "message": "Bumalik"
+  },
+  "cmd_forward": {
+    "message": "Sumulong"
+  },
+  "cmd_reload": {
+    "message": "I-reload ang pahina"
+  },
+  "cmd_duplicateTab": {
+    "message": "I-duplicate ang tab"
+  },
+  "cmd_scrollTop": {
+    "message": "Gumulong pataas"
+  },
+  "cmd_scrollBottom": {
+    "message": "Gumulong pababa"
+  },
+  "cmd_nextTab": {
+    "message": "Susunod na tab"
+  },
+  "cmd_prevTab": {
+    "message": "Nakaraang tab"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Buksan ang link sa bagong tab"
+  },
+  "cmd_searchText": {
+    "message": "Hanapin ang napiling teksto"
+  },
+  "cmd_none": {
+    "message": "Walang aksyon"
+  },
+  "optionsTitle": {
+    "message": "Mga setting ng Mga Galaw ng Mouse"
+  },
+  "tabGestures": {
+    "message": "Mga galaw"
+  },
+  "tabTrail": {
+    "message": "Trail"
+  },
+  "tabExclusions": {
+    "message": "Mga di-kasamang site"
+  },
+  "tabAdvanced": {
+    "message": "Advanced"
+  },
+  "tabAbout": {
+    "message": "Tungkol dito"
+  },
+  "gestureEditorTitle": {
+    "message": "Mapa ng galaw"
+  },
+  "gestureEditorHelp": {
+    "message": "Pindutin nang tuloy-tuloy ang kanang button ng mouse at gumuhit ng direksyon, pagkatapos ay bitawan. Italaga ang bawat direksyon sa isang utos."
+  },
+  "drawToBind": {
+    "message": "Gumuhit para i-bind"
+  },
+  "drawPrompt": {
+    "message": "Gumuhit ng galaw sa kahon (pindutin ang kanang button)…"
+  },
+  "clearBinding": {
+    "message": "I-clear"
+  },
+  "colGesture": {
+    "message": "Galaw"
+  },
+  "colCommand": {
+    "message": "Utos"
+  },
+  "rockerTitle": {
+    "message": "Mga rocker gesture"
+  },
+  "rockerBack": {
+    "message": "Pindutin ang kanan, i-click ang kaliwa → Bumalik"
+  },
+  "rockerForward": {
+    "message": "Pindutin ang kaliwa, i-click ang kanan → Sumulong"
+  },
+  "wheelTitle": {
+    "message": "Mga wheel gesture"
+  },
+  "wheelTabs": {
+    "message": "Pindutin ang kanan + gulong → Lumipat ng tab"
+  },
+  "superDragTitle": {
+    "message": "Super-drag"
+  },
+  "superDragLink": {
+    "message": "I-drag ang link → buksan sa bagong tab"
+  },
+  "superDragText": {
+    "message": "I-drag ang napiling teksto → hanapin"
+  },
+  "trailTitle": {
+    "message": "Gesture trail"
+  },
+  "trailEnabled": {
+    "message": "Ipakita ang gesture trail"
+  },
+  "trailColor": {
+    "message": "Kulay ng trail"
+  },
+  "trailWidth": {
+    "message": "Lapad ng trail"
+  },
+  "trailPreview": {
+    "message": "Preview"
+  },
+  "exclusionsTitle": {
+    "message": "Mga di-kasamang site"
+  },
+  "exclusionsHelp": {
+    "message": "Naka-disable ang mga galaw sa mga domain na ito. Isang domain kada linya, hal. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Idagdag"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Alisin"
+  },
+  "noExclusions": {
+    "message": "Wala pang di-kasamang site."
+  },
+  "advancedTitle": {
+    "message": "Advanced"
+  },
+  "importConfig": {
+    "message": "Mag-import ng mga setting"
+  },
+  "exportConfig": {
+    "message": "Mag-export ng mga setting"
+  },
+  "importError": {
+    "message": "Hindi ma-import: ang file ay hindi wastong export ng mga setting."
+  },
+  "importOk": {
+    "message": "Na-import ang mga setting."
+  },
+  "resetDefaults": {
+    "message": "I-reset sa mga default"
+  },
+  "resetConfirm": {
+    "message": "I-reset ang lahat ng galaw at setting sa mga default?"
+  },
+  "searchEngineLabel": {
+    "message": "Template ng search URL"
+  },
+  "searchEngineHelp": {
+    "message": "Ginagamit ng search-text gesture. Ang %s ay pinapalitan ng iyong napili. Ipinapadala ang napili sa URL na ito kapag pinatakbo mo lang ito."
+  },
+  "proTitle": {
+    "message": "Mga tampok na Pro"
+  },
+  "proLocked": {
+    "message": "Ito ay tampok na Pro."
+  },
+  "proProfiles": {
+    "message": "Mga profile at preset ng galaw"
+  },
+  "proChords": {
+    "message": "Mga chord at sequence"
+  },
+  "proCustom": {
+    "message": "Mga custom na utos (declarative)"
+  },
+  "proSync": {
+    "message": "Cross-machine sync"
+  },
+  "proUrlTemplate": {
+    "message": "Custom na utos na URL-template"
+  },
+  "unlockPro": {
+    "message": "I-unlock ang Pro"
+  },
+  "proActive": {
+    "message": "Aktibo ang Pro. Salamat!"
+  },
+  "licensePlaceholder": {
+    "message": "Ilagay ang iyong license key"
+  },
+  "activateLicense": {
+    "message": "I-activate"
+  },
+  "licenseInvalid": {
+    "message": "Hindi nakilala ang license key na iyon."
+  },
+  "onboardTitle": {
+    "message": "Maligayang pagdating sa Mga Galaw ng Mouse"
+  },
+  "onboardSubtitle": {
+    "message": "Kontrolin ang buong browser mo sa isang kaway lang ng mouse."
+  },
+  "onboardTrust": {
+    "message": "100% lokal · walang telemetry, walang analytics, walang account. Ang tanging aktibidad sa network ay ang paghahanap na hayagan mong pinapatakbo, papunta sa engine na pipiliin mo."
+  },
+  "onboardEnableTitle": {
+    "message": "I-enable ang mga galaw sa lahat ng site"
+  },
+  "onboardEnableBody": {
+    "message": "Kailangan ng Mga Galaw ng Mouse ng pahintulot na bantayan ang galaw ng mouse sa mga pahinang binibisita mo para makilala nito ang iyong mga galaw. Walang nilalaman ng pahina ang binabasa, iniimbak, o ipinapadala."
+  },
+  "onboardEnableBtn": {
+    "message": "I-enable ang mga galaw sa lahat ng site"
+  },
+  "onboardEnabled": {
+    "message": "Na-enable ang mga galaw. Handa ka na."
+  },
+  "onboardDenied": {
+    "message": "Tinanggihan ang pahintulot. Maaari mo itong i-enable anumang oras mula sa popup."
+  },
+  "onboardTryTitle": {
+    "message": "Subukan ngayon"
+  },
+  "onboardTryBody": {
+    "message": "Pindutin ang kanang button ng mouse, igalaw pakaliwa, at bitawan para bumalik."
+  },
+  "onboardOpenSettings": {
+    "message": "Buksan ang mga setting"
+  },
+  "onboardFinish": {
+    "message": "Tapusin"
+  },
+  "trustBanner": {
+    "message": "Libre habang panahon · Walang account · Walang ad · Walang pagsubaybay"
+  },
+  "aboutBody": {
+    "message": "Bukas ang Mga Galaw ng Mouse tungkol sa mga pahintulot nito at pinananatili ang lahat sa iyong device. Kinikilala ang mga galaw nang lokal; walang kinokolekta sa binibrowse mo."
+  },
+  "privacyLink": {
+    "message": "Patakaran sa privacy"
+  },
+  "save": {
+    "message": "I-save"
+  },
+  "cancel": {
+    "message": "Kanselahin"
+  },
+  "saved": {
+    "message": "Na-save"
+  },
+  "supportLink": {
+    "message": "Makipag-ugnayan sa suporta"
+  }
+}

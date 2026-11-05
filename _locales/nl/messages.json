@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Navigeer met eenvoudige muisbewegingen",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Bedien je browser met muisgebaren. 100% lokaal, geen account, geen tracking.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Gebaren aan"
+  },
+  "statusOff": {
+    "message": "Gebaren uit"
+  },
+  "toggleEnable": {
+    "message": "Inschakelen"
+  },
+  "toggleDisable": {
+    "message": "Uitschakelen"
+  },
+  "cheatSheetTitle": {
+    "message": "Jouw gebaren"
+  },
+  "openOptions": {
+    "message": "Instellingen"
+  },
+  "openOnboarding": {
+    "message": "Gebaren instellen"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "GRATIS"
+  },
+  "cmd_newTab": {
+    "message": "Nieuw tabblad"
+  },
+  "cmd_closeTab": {
+    "message": "Tabblad sluiten"
+  },
+  "cmd_reopenTab": {
+    "message": "Gesloten tabblad heropenen"
+  },
+  "cmd_back": {
+    "message": "Terug"
+  },
+  "cmd_forward": {
+    "message": "Vooruit"
+  },
+  "cmd_reload": {
+    "message": "Pagina vernieuwen"
+  },
+  "cmd_duplicateTab": {
+    "message": "Tabblad dupliceren"
+  },
+  "cmd_scrollTop": {
+    "message": "Naar boven scrollen"
+  },
+  "cmd_scrollBottom": {
+    "message": "Naar onder scrollen"
+  },
+  "cmd_nextTab": {
+    "message": "Volgend tabblad"
+  },
+  "cmd_prevTab": {
+    "message": "Vorig tabblad"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Link in nieuw tabblad openen"
+  },
+  "cmd_searchText": {
+    "message": "Geselecteerde tekst zoeken"
+  },
+  "cmd_none": {
+    "message": "Geen actie"
+  },
+  "optionsTitle": {
+    "message": "Mouse Gestures-instellingen"
+  },
+  "tabGestures": {
+    "message": "Gebaren"
+  },
+  "tabTrail": {
+    "message": "Spoor"
+  },
+  "tabExclusions": {
+    "message": "Uitgesloten sites"
+  },
+  "tabAdvanced": {
+    "message": "Geavanceerd"
+  },
+  "tabAbout": {
+    "message": "Over"
+  },
+  "gestureEditorTitle": {
+    "message": "Gebarenkaart"
+  },
+  "gestureEditorHelp": {
+    "message": "Houd de rechtermuisknop ingedrukt en teken een richting, laat dan los. Wijs elke richting toe aan een opdracht."
+  },
+  "drawToBind": {
+    "message": "Teken om te koppelen"
+  },
+  "drawPrompt": {
+    "message": "Teken een gebaar in het vak (houd de rechterknop ingedrukt)…"
+  },
+  "clearBinding": {
+    "message": "Wissen"
+  },
+  "colGesture": {
+    "message": "Gebaar"
+  },
+  "colCommand": {
+    "message": "Opdracht"
+  },
+  "rockerTitle": {
+    "message": "Rocker-gebaren"
+  },
+  "rockerBack": {
+    "message": "Rechts ingedrukt, links klikken → Terug"
+  },
+  "rockerForward": {
+    "message": "Links ingedrukt, rechts klikken → Vooruit"
+  },
+  "wheelTitle": {
+    "message": "Wielgebaren"
+  },
+  "wheelTabs": {
+    "message": "Rechts ingedrukt + wiel → Tabbladen wisselen"
+  },
+  "superDragTitle": {
+    "message": "Super-slepen"
+  },
+  "superDragLink": {
+    "message": "Sleep een link → openen in nieuw tabblad"
+  },
+  "superDragText": {
+    "message": "Sleep geselecteerde tekst → zoeken"
+  },
+  "trailTitle": {
+    "message": "Gebarenspoor"
+  },
+  "trailEnabled": {
+    "message": "Gebarenspoor tonen"
+  },
+  "trailColor": {
+    "message": "Spoorkleur"
+  },
+  "trailWidth": {
+    "message": "Spoorbreedte"
+  },
+  "trailPreview": {
+    "message": "Voorbeeld"
+  },
+  "exclusionsTitle": {
+    "message": "Uitgesloten sites"
+  },
+  "exclusionsHelp": {
+    "message": "Gebaren zijn uitgeschakeld op deze domeinen. Eén domein per regel, bijv. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Toevoegen"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Verwijderen"
+  },
+  "noExclusions": {
+    "message": "Nog geen uitgesloten sites."
+  },
+  "advancedTitle": {
+    "message": "Geavanceerd"
+  },
+  "importConfig": {
+    "message": "Instellingen importeren"
+  },
+  "exportConfig": {
+    "message": "Instellingen exporteren"
+  },
+  "importError": {
+    "message": "Importeren mislukt: het bestand is geen geldige instellingenexport."
+  },
+  "importOk": {
+    "message": "Instellingen geïmporteerd."
+  },
+  "resetDefaults": {
+    "message": "Standaardwaarden herstellen"
+  },
+  "resetConfirm": {
+    "message": "Alle gebaren en instellingen terugzetten naar de standaardwaarden?"
+  },
+  "searchEngineLabel": {
+    "message": "URL-sjabloon voor zoeken"
+  },
+  "searchEngineHelp": {
+    "message": "Gebruikt door het tekst-zoekgebaar. %s wordt vervangen door je selectie. Verzendt de selectie alleen naar deze URL wanneer je die activeert."
+  },
+  "proTitle": {
+    "message": "Pro-functies"
+  },
+  "proLocked": {
+    "message": "Dit is een Pro-functie."
+  },
+  "proProfiles": {
+    "message": "Gebarenprofielen & presets"
+  },
+  "proChords": {
+    "message": "Akkoorden & reeksen"
+  },
+  "proCustom": {
+    "message": "Aangepaste opdrachten (declaratief)"
+  },
+  "proSync": {
+    "message": "Synchronisatie tussen apparaten"
+  },
+  "proUrlTemplate": {
+    "message": "Aangepaste URL-sjabloonopdracht"
+  },
+  "unlockPro": {
+    "message": "Pro ontgrendelen"
+  },
+  "proActive": {
+    "message": "Pro is actief. Bedankt!"
+  },
+  "licensePlaceholder": {
+    "message": "Voer je licentiesleutel in"
+  },
+  "activateLicense": {
+    "message": "Activeren"
+  },
+  "licenseInvalid": {
+    "message": "Deze licentiesleutel werd niet herkend."
+  },
+  "onboardTitle": {
+    "message": "Welkom bij Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Bedien je hele browser met een simpele muisbeweging."
+  },
+  "onboardTrust": {
+    "message": "100% lokaal · geen telemetrie, geen analyse, geen accounts. De enige netwerkactiviteit is de zoekopdracht die je uitdrukkelijk activeert, naar de zoekmachine van jouw keuze."
+  },
+  "onboardEnableTitle": {
+    "message": "Gebaren op alle sites inschakelen"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures heeft toestemming nodig om muisbewegingen op de pagina's die je bezoekt te volgen, zodat het je gebaren kan herkennen. Pagina-inhoud wordt nooit gelezen, opgeslagen of verzonden."
+  },
+  "onboardEnableBtn": {
+    "message": "Gebaren op alle sites inschakelen"
+  },
+  "onboardEnabled": {
+    "message": "Gebaren ingeschakeld. Alles is klaar."
+  },
+  "onboardDenied": {
+    "message": "Toestemming is geweigerd. Je kunt het op elk moment inschakelen via de pop-up."
+  },
+  "onboardTryTitle": {
+    "message": "Probeer het nu"
+  },
+  "onboardTryBody": {
+    "message": "Houd de rechtermuisknop ingedrukt, beweeg naar links en laat los om terug te gaan."
+  },
+  "onboardOpenSettings": {
+    "message": "Instellingen openen"
+  },
+  "onboardFinish": {
+    "message": "Voltooien"
+  },
+  "trustBanner": {
+    "message": "Voor altijd gratis · Geen account · Geen advertenties · Geen tracking"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures is open over zijn rechten en houdt alles op je apparaat. Gebaren worden lokaal herkend; niets van wat je bekijkt wordt verzameld."
+  },
+  "privacyLink": {
+    "message": "Privacybeleid"
+  },
+  "save": {
+    "message": "Opslaan"
+  },
+  "cancel": {
+    "message": "Annuleren"
+  },
+  "saved": {
+    "message": "Opgeslagen"
+  },
+  "supportLink": {
+    "message": "Contact met support"
+  }
+}

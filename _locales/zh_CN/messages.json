@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - 用简单的鼠标动作浏览网页",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "用鼠标手势控制浏览器。100% 本地运行，无需账户，不做追踪。",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "鼠标手势"
+  },
+  "statusOn": {
+    "message": "手势已开启"
+  },
+  "statusOff": {
+    "message": "手势已关闭"
+  },
+  "toggleEnable": {
+    "message": "启用"
+  },
+  "toggleDisable": {
+    "message": "停用"
+  },
+  "cheatSheetTitle": {
+    "message": "你的手势"
+  },
+  "openOptions": {
+    "message": "设置"
+  },
+  "openOnboarding": {
+    "message": "设置手势"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "免费"
+  },
+  "cmd_newTab": {
+    "message": "新建标签页"
+  },
+  "cmd_closeTab": {
+    "message": "关闭标签页"
+  },
+  "cmd_reopenTab": {
+    "message": "重新打开已关闭的标签页"
+  },
+  "cmd_back": {
+    "message": "后退"
+  },
+  "cmd_forward": {
+    "message": "前进"
+  },
+  "cmd_reload": {
+    "message": "重新加载页面"
+  },
+  "cmd_duplicateTab": {
+    "message": "复制标签页"
+  },
+  "cmd_scrollTop": {
+    "message": "滚动到顶部"
+  },
+  "cmd_scrollBottom": {
+    "message": "滚动到底部"
+  },
+  "cmd_nextTab": {
+    "message": "下一个标签页"
+  },
+  "cmd_prevTab": {
+    "message": "上一个标签页"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "在新标签页中打开链接"
+  },
+  "cmd_searchText": {
+    "message": "搜索选中的文本"
+  },
+  "cmd_none": {
+    "message": "无操作"
+  },
+  "optionsTitle": {
+    "message": "鼠标手势设置"
+  },
+  "tabGestures": {
+    "message": "手势"
+  },
+  "tabTrail": {
+    "message": "轨迹"
+  },
+  "tabExclusions": {
+    "message": "排除的网站"
+  },
+  "tabAdvanced": {
+    "message": "高级"
+  },
+  "tabAbout": {
+    "message": "关于"
+  },
+  "gestureEditorTitle": {
+    "message": "手势映射"
+  },
+  "gestureEditorHelp": {
+    "message": "按住鼠标右键并划出一个方向，然后松开。为每个方向分配一个命令。"
+  },
+  "drawToBind": {
+    "message": "绘制以绑定"
+  },
+  "drawPrompt": {
+    "message": "在框内绘制一个手势（按住右键）…"
+  },
+  "clearBinding": {
+    "message": "清除"
+  },
+  "colGesture": {
+    "message": "手势"
+  },
+  "colCommand": {
+    "message": "命令"
+  },
+  "rockerTitle": {
+    "message": "摇杆手势"
+  },
+  "rockerBack": {
+    "message": "按住右键，点击左键 → 后退"
+  },
+  "rockerForward": {
+    "message": "按住左键，点击右键 → 前进"
+  },
+  "wheelTitle": {
+    "message": "滚轮手势"
+  },
+  "wheelTabs": {
+    "message": "按住右键 + 滚轮 → 切换标签页"
+  },
+  "superDragTitle": {
+    "message": "超级拖拽"
+  },
+  "superDragLink": {
+    "message": "拖拽链接 → 在新标签页中打开"
+  },
+  "superDragText": {
+    "message": "拖拽选中的文本 → 搜索"
+  },
+  "trailTitle": {
+    "message": "手势轨迹"
+  },
+  "trailEnabled": {
+    "message": "显示手势轨迹"
+  },
+  "trailColor": {
+    "message": "轨迹颜色"
+  },
+  "trailWidth": {
+    "message": "轨迹宽度"
+  },
+  "trailPreview": {
+    "message": "预览"
+  },
+  "exclusionsTitle": {
+    "message": "排除的网站"
+  },
+  "exclusionsHelp": {
+    "message": "在这些域名上停用手势。每行一个域名，例如 maps.google.com。"
+  },
+  "addExclusion": {
+    "message": "添加"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "移除"
+  },
+  "noExclusions": {
+    "message": "还没有排除的网站。"
+  },
+  "advancedTitle": {
+    "message": "高级"
+  },
+  "importConfig": {
+    "message": "导入设置"
+  },
+  "exportConfig": {
+    "message": "导出设置"
+  },
+  "importError": {
+    "message": "无法导入：该文件不是有效的设置导出文件。"
+  },
+  "importOk": {
+    "message": "设置已导入。"
+  },
+  "resetDefaults": {
+    "message": "恢复默认设置"
+  },
+  "resetConfirm": {
+    "message": "将所有手势和设置重置为默认值？"
+  },
+  "searchEngineLabel": {
+    "message": "搜索 URL 模板"
+  },
+  "searchEngineHelp": {
+    "message": "由搜索文本手势使用。%s 会替换为你所选的内容。仅在你触发时才将所选内容发送到此 URL。"
+  },
+  "proTitle": {
+    "message": "Pro 功能"
+  },
+  "proLocked": {
+    "message": "这是 Pro 功能。"
+  },
+  "proProfiles": {
+    "message": "手势配置与预设"
+  },
+  "proChords": {
+    "message": "组合键与序列"
+  },
+  "proCustom": {
+    "message": "自定义命令（声明式）"
+  },
+  "proSync": {
+    "message": "跨设备同步"
+  },
+  "proUrlTemplate": {
+    "message": "自定义 URL 模板命令"
+  },
+  "unlockPro": {
+    "message": "解锁 Pro"
+  },
+  "proActive": {
+    "message": "Pro 已激活。谢谢！"
+  },
+  "licensePlaceholder": {
+    "message": "输入你的许可证密钥"
+  },
+  "activateLicense": {
+    "message": "激活"
+  },
+  "licenseInvalid": {
+    "message": "无法识别该许可证密钥。"
+  },
+  "onboardTitle": {
+    "message": "欢迎使用鼠标手势"
+  },
+  "onboardSubtitle": {
+    "message": "轻轻一挥鼠标即可掌控整个浏览器。"
+  },
+  "onboardTrust": {
+    "message": "100% 本地运行 · 无遥测、无分析、无账户。唯一的网络活动是你主动触发的搜索，发送到你所选择的搜索引擎。"
+  },
+  "onboardEnableTitle": {
+    "message": "在所有网站上启用手势"
+  },
+  "onboardEnableBody": {
+    "message": "鼠标手势需要权限来监测你所访问页面上的鼠标移动，从而识别你的手势。绝不会读取、存储或发送任何页面内容。"
+  },
+  "onboardEnableBtn": {
+    "message": "在所有网站上启用手势"
+  },
+  "onboardEnabled": {
+    "message": "手势已启用。一切就绪。"
+  },
+  "onboardDenied": {
+    "message": "权限已被拒绝。你随时可以在弹出窗口中启用它。"
+  },
+  "onboardTryTitle": {
+    "message": "现在就试试"
+  },
+  "onboardTryBody": {
+    "message": "按住鼠标右键，向左移动，然后松开即可后退。"
+  },
+  "onboardOpenSettings": {
+    "message": "打开设置"
+  },
+  "onboardFinish": {
+    "message": "完成"
+  },
+  "trustBanner": {
+    "message": "永久免费 · 无需账户 · 无广告 · 不追踪"
+  },
+  "aboutBody": {
+    "message": "鼠标手势对其权限公开透明，一切都保留在你的设备上。手势在本地识别；不会收集你浏览的任何内容。"
+  },
+  "privacyLink": {
+    "message": "隐私政策"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "saved": {
+    "message": "已保存"
+  },
+  "supportLink": {
+    "message": "联系支持"
+  }
+}

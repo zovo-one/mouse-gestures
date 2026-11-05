@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - સરળ માઉસ હલનચલનથી બ્રાઉઝરમાં નેવિગેટ કરો",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "તમારા બ્રાઉઝરને માઉસ હાવભાવથી નિયંત્રિત કરો. 100% લોકલ, કોઈ ખાતું નહીં, કોઈ ટ્રેકિંગ નહીં.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "માઉસ હાવભાવ"
+  },
+  "statusOn": {
+    "message": "હાવભાવ ચાલુ"
+  },
+  "statusOff": {
+    "message": "હાવભાવ બંધ"
+  },
+  "toggleEnable": {
+    "message": "સક્ષમ કરો"
+  },
+  "toggleDisable": {
+    "message": "અક્ષમ કરો"
+  },
+  "cheatSheetTitle": {
+    "message": "તમારા હાવભાવ"
+  },
+  "openOptions": {
+    "message": "સેટિંગ્સ"
+  },
+  "openOnboarding": {
+    "message": "હાવભાવ સેટ કરો"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "મફત"
+  },
+  "cmd_newTab": {
+    "message": "નવી ટૅબ"
+  },
+  "cmd_closeTab": {
+    "message": "ટૅબ બંધ કરો"
+  },
+  "cmd_reopenTab": {
+    "message": "બંધ કરેલી ટૅબ ફરી ખોલો"
+  },
+  "cmd_back": {
+    "message": "પાછળ જાઓ"
+  },
+  "cmd_forward": {
+    "message": "આગળ જાઓ"
+  },
+  "cmd_reload": {
+    "message": "પેજ ફરી લોડ કરો"
+  },
+  "cmd_duplicateTab": {
+    "message": "ટૅબની નકલ કરો"
+  },
+  "cmd_scrollTop": {
+    "message": "ટોચ પર સ્ક્રોલ કરો"
+  },
+  "cmd_scrollBottom": {
+    "message": "તળિયે સ્ક્રોલ કરો"
+  },
+  "cmd_nextTab": {
+    "message": "આગલી ટૅબ"
+  },
+  "cmd_prevTab": {
+    "message": "પાછલી ટૅબ"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "લિંક નવી ટૅબમાં ખોલો"
+  },
+  "cmd_searchText": {
+    "message": "પસંદ કરેલ ટેક્સ્ટ શોધો"
+  },
+  "cmd_none": {
+    "message": "કોઈ ક્રિયા નહીં"
+  },
+  "optionsTitle": {
+    "message": "માઉસ હાવભાવ સેટિંગ્સ"
+  },
+  "tabGestures": {
+    "message": "હાવભાવ"
+  },
+  "tabTrail": {
+    "message": "ટ્રેલ"
+  },
+  "tabExclusions": {
+    "message": "બાકાત સાઇટ્સ"
+  },
+  "tabAdvanced": {
+    "message": "અદ્યતન"
+  },
+  "tabAbout": {
+    "message": "વિશે"
+  },
+  "gestureEditorTitle": {
+    "message": "હાવભાવ નકશો"
+  },
+  "gestureEditorHelp": {
+    "message": "માઉસનું જમણું બટન દબાવી રાખો અને એક દિશા દોરો, પછી છોડો. દરેક દિશાને એક આદેશ સોંપો."
+  },
+  "drawToBind": {
+    "message": "બાંધવા માટે દોરો"
+  },
+  "drawPrompt": {
+    "message": "બોક્સમાં હાવભાવ દોરો (જમણું બટન દબાવી રાખો)…"
+  },
+  "clearBinding": {
+    "message": "સાફ કરો"
+  },
+  "colGesture": {
+    "message": "હાવભાવ"
+  },
+  "colCommand": {
+    "message": "આદેશ"
+  },
+  "rockerTitle": {
+    "message": "રોકર હાવભાવ"
+  },
+  "rockerBack": {
+    "message": "જમણું દબાવી રાખો, ડાબું ક્લિક કરો → પાછળ"
+  },
+  "rockerForward": {
+    "message": "ડાબું દબાવી રાખો, જમણું ક્લિક કરો → આગળ"
+  },
+  "wheelTitle": {
+    "message": "વ્હીલ હાવભાવ"
+  },
+  "wheelTabs": {
+    "message": "જમણું દબાવી રાખો + વ્હીલ → ટૅબ બદલો"
+  },
+  "superDragTitle": {
+    "message": "સુપર-ડ્રેગ"
+  },
+  "superDragLink": {
+    "message": "લિંક ખેંચો → નવી ટૅબમાં ખોલો"
+  },
+  "superDragText": {
+    "message": "પસંદ કરેલ ટેક્સ્ટ ખેંચો → શોધો"
+  },
+  "trailTitle": {
+    "message": "હાવભાવ ટ્રેલ"
+  },
+  "trailEnabled": {
+    "message": "હાવભાવ ટ્રેલ બતાવો"
+  },
+  "trailColor": {
+    "message": "ટ્રેલ રંગ"
+  },
+  "trailWidth": {
+    "message": "ટ્રેલ પહોળાઈ"
+  },
+  "trailPreview": {
+    "message": "પૂર્વાવલોકન"
+  },
+  "exclusionsTitle": {
+    "message": "બાકાત સાઇટ્સ"
+  },
+  "exclusionsHelp": {
+    "message": "આ ડોમેન પર હાવભાવ અક્ષમ છે. લાઇન દીઠ એક ડોમેન, દા.ત. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "ઉમેરો"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "દૂર કરો"
+  },
+  "noExclusions": {
+    "message": "હજી કોઈ બાકાત સાઇટ નથી."
+  },
+  "advancedTitle": {
+    "message": "અદ્યતન"
+  },
+  "importConfig": {
+    "message": "સેટિંગ્સ આયાત કરો"
+  },
+  "exportConfig": {
+    "message": "સેટિંગ્સ નિકાસ કરો"
+  },
+  "importError": {
+    "message": "આયાત કરી શકાયું નહીં: ફાઇલ માન્ય સેટિંગ્સ નિકાસ નથી."
+  },
+  "importOk": {
+    "message": "સેટિંગ્સ આયાત થઈ."
+  },
+  "resetDefaults": {
+    "message": "ડિફૉલ્ટ પર રીસેટ કરો"
+  },
+  "resetConfirm": {
+    "message": "બધા હાવભાવ અને સેટિંગ્સ ડિફૉલ્ટ પર રીસેટ કરવા?"
+  },
+  "searchEngineLabel": {
+    "message": "શોધ URL ટેમ્પ્લેટ"
+  },
+  "searchEngineHelp": {
+    "message": "ટેક્સ્ટ-શોધ હાવભાવ દ્વારા વપરાય છે. %s તમારી પસંદગીથી બદલાય છે. તમે ટ્રિગર કરો ત્યારે જ પસંદગી આ URL પર મોકલાય છે."
+  },
+  "proTitle": {
+    "message": "Pro સુવિધાઓ"
+  },
+  "proLocked": {
+    "message": "આ એક Pro સુવિધા છે."
+  },
+  "proProfiles": {
+    "message": "હાવભાવ પ્રોફાઇલ્સ અને પ્રીસેટ્સ"
+  },
+  "proChords": {
+    "message": "કોર્ડ્સ અને ક્રમ"
+  },
+  "proCustom": {
+    "message": "કસ્ટમ આદેશો (ઘોષણાત્મક)"
+  },
+  "proSync": {
+    "message": "ઉપકરણો વચ્ચે સિંક"
+  },
+  "proUrlTemplate": {
+    "message": "કસ્ટમ URL-ટેમ્પ્લેટ આદેશ"
+  },
+  "unlockPro": {
+    "message": "Pro અનલૉક કરો"
+  },
+  "proActive": {
+    "message": "Pro સક્રિય છે. આભાર!"
+  },
+  "licensePlaceholder": {
+    "message": "તમારી લાઇસન્સ કી દાખલ કરો"
+  },
+  "activateLicense": {
+    "message": "સક્રિય કરો"
+  },
+  "licenseInvalid": {
+    "message": "તે લાઇસન્સ કી ઓળખાઈ નહીં."
+  },
+  "onboardTitle": {
+    "message": "માઉસ હાવભાવમાં આપનું સ્વાગત છે"
+  },
+  "onboardSubtitle": {
+    "message": "માઉસની એક ઝલકથી તમારું આખું બ્રાઉઝર નિયંત્રિત કરો."
+  },
+  "onboardTrust": {
+    "message": "100% લોકલ · કોઈ ટેલિમેટ્રી નહીં, કોઈ એનાલિટિક્સ નહીં, કોઈ ખાતું નહીં. એકમાત્ર નેટવર્ક પ્રવૃત્તિ એ તમે સ્પષ્ટપણે ટ્રિગર કરેલી શોધ છે, તમે પસંદ કરેલા એન્જિન પર."
+  },
+  "onboardEnableTitle": {
+    "message": "બધી સાઇટ્સ પર હાવભાવ સક્ષમ કરો"
+  },
+  "onboardEnableBody": {
+    "message": "તમારા હાવભાવ ઓળખવા માટે માઉસ હાવભાવને તમે મુલાકાત લો છો તે પેજ પર માઉસની હિલચાલ જોવાની પરવાનગી જોઈએ. કોઈ પેજ સામગ્રી ક્યારેય વંચાતી, સંગ્રહાતી કે મોકલાતી નથી."
+  },
+  "onboardEnableBtn": {
+    "message": "બધી સાઇટ્સ પર હાવભાવ સક્ષમ કરો"
+  },
+  "onboardEnabled": {
+    "message": "હાવભાવ સક્ષમ થયા. તમે તૈયાર છો."
+  },
+  "onboardDenied": {
+    "message": "પરવાનગી નકારાઈ. તમે તેને પોપઅપમાંથી કોઈપણ સમયે સક્ષમ કરી શકો છો."
+  },
+  "onboardTryTitle": {
+    "message": "હમણાં અજમાવો"
+  },
+  "onboardTryBody": {
+    "message": "માઉસનું જમણું બટન દબાવી રાખો, ડાબે ખસેડો, અને પાછળ જવા માટે છોડો."
+  },
+  "onboardOpenSettings": {
+    "message": "સેટિંગ્સ ખોલો"
+  },
+  "onboardFinish": {
+    "message": "સમાપ્ત"
+  },
+  "trustBanner": {
+    "message": "હંમેશા મફત · કોઈ ખાતું નહીં · કોઈ જાહેરાત નહીં · કોઈ ટ્રેકિંગ નહીં"
+  },
+  "aboutBody": {
+    "message": "માઉસ હાવભાવ તેની પરવાનગીઓ વિશે પારદર્શક છે અને બધું તમારા ઉપકરણ પર રાખે છે. હાવભાવ સ્થાનિક રીતે ઓળખાય છે; તમે જે બ્રાઉઝ કરો છો તેમાંથી કંઈ એકત્ર થતું નથી."
+  },
+  "privacyLink": {
+    "message": "ગોપનીયતા નીતિ"
+  },
+  "save": {
+    "message": "સાચવો"
+  },
+  "cancel": {
+    "message": "રદ કરો"
+  },
+  "saved": {
+    "message": "સાચવ્યું"
+  },
+  "supportLink": {
+    "message": "સપોર્ટનો સંપર્ક કરો"
+  }
+}

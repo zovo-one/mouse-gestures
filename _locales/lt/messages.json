@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Naršyklės valdymas paprastais pelės judesiais",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Valdykite naršyklę pelės gestais. 100% vietinis veikimas, be paskyros, be sekimo.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Pelės gestai"
+  },
+  "statusOn": {
+    "message": "Gestai įjungti"
+  },
+  "statusOff": {
+    "message": "Gestai išjungti"
+  },
+  "toggleEnable": {
+    "message": "Įjungti"
+  },
+  "toggleDisable": {
+    "message": "Išjungti"
+  },
+  "cheatSheetTitle": {
+    "message": "Jūsų gestai"
+  },
+  "openOptions": {
+    "message": "Nustatymai"
+  },
+  "openOnboarding": {
+    "message": "Nustatyti gestus"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "NEMOKAMA"
+  },
+  "cmd_newTab": {
+    "message": "Nauja kortelė"
+  },
+  "cmd_closeTab": {
+    "message": "Uždaryti kortelę"
+  },
+  "cmd_reopenTab": {
+    "message": "Vėl atverti uždarytą kortelę"
+  },
+  "cmd_back": {
+    "message": "Atgal"
+  },
+  "cmd_forward": {
+    "message": "Pirmyn"
+  },
+  "cmd_reload": {
+    "message": "Įkelti puslapį iš naujo"
+  },
+  "cmd_duplicateTab": {
+    "message": "Dubliuoti kortelę"
+  },
+  "cmd_scrollTop": {
+    "message": "Slinkti į viršų"
+  },
+  "cmd_scrollBottom": {
+    "message": "Slinkti į apačią"
+  },
+  "cmd_nextTab": {
+    "message": "Kita kortelė"
+  },
+  "cmd_prevTab": {
+    "message": "Ankstesnė kortelė"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Atverti nuorodą naujoje kortelėje"
+  },
+  "cmd_searchText": {
+    "message": "Ieškoti pažymėto teksto"
+  },
+  "cmd_none": {
+    "message": "Jokio veiksmo"
+  },
+  "optionsTitle": {
+    "message": "Pelės gestų nustatymai"
+  },
+  "tabGestures": {
+    "message": "Gestai"
+  },
+  "tabTrail": {
+    "message": "Pėdsakas"
+  },
+  "tabExclusions": {
+    "message": "Išskirtos svetainės"
+  },
+  "tabAdvanced": {
+    "message": "Išplėstiniai"
+  },
+  "tabAbout": {
+    "message": "Apie"
+  },
+  "gestureEditorTitle": {
+    "message": "Gestų žemėlapis"
+  },
+  "gestureEditorHelp": {
+    "message": "Laikykite dešinįjį pelės mygtuką ir nubrėžkite kryptį, tada atleiskite. Kiekvienai krypčiai priskirkite komandą."
+  },
+  "drawToBind": {
+    "message": "Brėžkite, kad susietumėte"
+  },
+  "drawPrompt": {
+    "message": "Nubrėžkite gestą laukelyje (laikykite dešinįjį mygtuką)…"
+  },
+  "clearBinding": {
+    "message": "Išvalyti"
+  },
+  "colGesture": {
+    "message": "Gestas"
+  },
+  "colCommand": {
+    "message": "Komanda"
+  },
+  "rockerTitle": {
+    "message": "Svirties gestai"
+  },
+  "rockerBack": {
+    "message": "Laikykite dešinįjį, spustelėkite kairįjį → Atgal"
+  },
+  "rockerForward": {
+    "message": "Laikykite kairįjį, spustelėkite dešinįjį → Pirmyn"
+  },
+  "wheelTitle": {
+    "message": "Ratuko gestai"
+  },
+  "wheelTabs": {
+    "message": "Laikykite dešinįjį + ratukas → Perjungti korteles"
+  },
+  "superDragTitle": {
+    "message": "Super tempimas"
+  },
+  "superDragLink": {
+    "message": "Tempkite nuorodą → atverti naujoje kortelėje"
+  },
+  "superDragText": {
+    "message": "Tempkite pažymėtą tekstą → ieškoti"
+  },
+  "trailTitle": {
+    "message": "Gesto pėdsakas"
+  },
+  "trailEnabled": {
+    "message": "Rodyti gesto pėdsaką"
+  },
+  "trailColor": {
+    "message": "Pėdsako spalva"
+  },
+  "trailWidth": {
+    "message": "Pėdsako plotis"
+  },
+  "trailPreview": {
+    "message": "Peržiūra"
+  },
+  "exclusionsTitle": {
+    "message": "Išskirtos svetainės"
+  },
+  "exclusionsHelp": {
+    "message": "Šiuose domenuose gestai išjungti. Po vieną domeną eilutėje, pvz., maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Pridėti"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Pašalinti"
+  },
+  "noExclusions": {
+    "message": "Dar nėra išskirtų svetainių."
+  },
+  "advancedTitle": {
+    "message": "Išplėstiniai"
+  },
+  "importConfig": {
+    "message": "Importuoti nustatymus"
+  },
+  "exportConfig": {
+    "message": "Eksportuoti nustatymus"
+  },
+  "importError": {
+    "message": "Nepavyko importuoti: failas nėra tinkamas nustatymų eksportas."
+  },
+  "importOk": {
+    "message": "Nustatymai importuoti."
+  },
+  "resetDefaults": {
+    "message": "Atkurti numatytuosius"
+  },
+  "resetConfirm": {
+    "message": "Atkurti visus gestus ir nustatymus į numatytuosius?"
+  },
+  "searchEngineLabel": {
+    "message": "Paieškos URL šablonas"
+  },
+  "searchEngineHelp": {
+    "message": "Naudojamas teksto paieškos gesto. %s pakeičiamas jūsų pažymėtu tekstu. Pažymėjimas siunčiamas šiuo URL tik tada, kai jį inicijuojate."
+  },
+  "proTitle": {
+    "message": "Pro funkcijos"
+  },
+  "proLocked": {
+    "message": "Tai Pro funkcija."
+  },
+  "proProfiles": {
+    "message": "Gestų profiliai ir išankstiniai nustatymai"
+  },
+  "proChords": {
+    "message": "Akordai ir sekos"
+  },
+  "proCustom": {
+    "message": "Pasirinktinės komandos (deklaratyvios)"
+  },
+  "proSync": {
+    "message": "Sinchronizavimas tarp įrenginių"
+  },
+  "proUrlTemplate": {
+    "message": "Pasirinktinė URL šablono komanda"
+  },
+  "unlockPro": {
+    "message": "Atrakinti Pro"
+  },
+  "proActive": {
+    "message": "Pro aktyvi. Ačiū!"
+  },
+  "licensePlaceholder": {
+    "message": "Įveskite licencijos raktą"
+  },
+  "activateLicense": {
+    "message": "Aktyvinti"
+  },
+  "licenseInvalid": {
+    "message": "Šis licencijos raktas neatpažintas."
+  },
+  "onboardTitle": {
+    "message": "Sveiki atvykę į Pelės gestus"
+  },
+  "onboardSubtitle": {
+    "message": "Valdykite visą naršyklę vienu pelės mostu."
+  },
+  "onboardTrust": {
+    "message": "100% vietinis · jokios telemetrijos, jokios analitikos, jokių paskyrų. Vienintelė tinklo veikla — jūsų aiškiai inicijuota paieška į jūsų pasirinktą sistemą."
+  },
+  "onboardEnableTitle": {
+    "message": "Įjungti gestus visose svetainėse"
+  },
+  "onboardEnableBody": {
+    "message": "Pelės gestams reikia leidimo stebėti pelės judėjimą jūsų lankomuose puslapiuose, kad atpažintų gestus. Jokio puslapio turinio niekada neskaitoma, nesaugoma ir nesiunčiama."
+  },
+  "onboardEnableBtn": {
+    "message": "Įjungti gestus visose svetainėse"
+  },
+  "onboardEnabled": {
+    "message": "Gestai įjungti. Viskas paruošta."
+  },
+  "onboardDenied": {
+    "message": "Leidimas atmestas. Galite jį įjungti bet kada iš iškylančiojo lango."
+  },
+  "onboardTryTitle": {
+    "message": "Išbandykite dabar"
+  },
+  "onboardTryBody": {
+    "message": "Laikykite dešinįjį pelės mygtuką, judinkite kairėn ir atleiskite, kad grįžtumėte atgal."
+  },
+  "onboardOpenSettings": {
+    "message": "Atverti nustatymus"
+  },
+  "onboardFinish": {
+    "message": "Baigti"
+  },
+  "trustBanner": {
+    "message": "Nemokama visam laikui · Be paskyros · Be reklamų · Be sekimo"
+  },
+  "aboutBody": {
+    "message": "Pelės gestai atvirai skelbia savo leidimus ir viską laiko jūsų įrenginyje. Gestai atpažįstami vietoje; niekas, ką naršote, nerenkama."
+  },
+  "privacyLink": {
+    "message": "Privatumo politika"
+  },
+  "save": {
+    "message": "Įrašyti"
+  },
+  "cancel": {
+    "message": "Atšaukti"
+  },
+  "saved": {
+    "message": "Įrašyta"
+  },
+  "supportLink": {
+    "message": "Susisiekti su palaikymu"
+  }
+}

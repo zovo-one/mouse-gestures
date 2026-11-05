@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Навигација прегледачем покретима миша",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Управљајте прегледачем покретима миша. 100% локално, без налога, без праћења.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Покрети укључени"
+  },
+  "statusOff": {
+    "message": "Покрети искључени"
+  },
+  "toggleEnable": {
+    "message": "Омогући"
+  },
+  "toggleDisable": {
+    "message": "Онемогући"
+  },
+  "cheatSheetTitle": {
+    "message": "Ваши покрети"
+  },
+  "openOptions": {
+    "message": "Подешавања"
+  },
+  "openOnboarding": {
+    "message": "Подеси покрете"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "БЕСПЛАТНО"
+  },
+  "cmd_newTab": {
+    "message": "Нова картица"
+  },
+  "cmd_closeTab": {
+    "message": "Затвори картицу"
+  },
+  "cmd_reopenTab": {
+    "message": "Поново отвори затворену картицу"
+  },
+  "cmd_back": {
+    "message": "Назад"
+  },
+  "cmd_forward": {
+    "message": "Напред"
+  },
+  "cmd_reload": {
+    "message": "Освежи страницу"
+  },
+  "cmd_duplicateTab": {
+    "message": "Дуплирај картицу"
+  },
+  "cmd_scrollTop": {
+    "message": "Помери на врх"
+  },
+  "cmd_scrollBottom": {
+    "message": "Помери на дно"
+  },
+  "cmd_nextTab": {
+    "message": "Следећа картица"
+  },
+  "cmd_prevTab": {
+    "message": "Претходна картица"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Отвори везу у новој картици"
+  },
+  "cmd_searchText": {
+    "message": "Претражи изабрани текст"
+  },
+  "cmd_none": {
+    "message": "Без радње"
+  },
+  "optionsTitle": {
+    "message": "Подешавања Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "Покрети"
+  },
+  "tabTrail": {
+    "message": "Траг"
+  },
+  "tabExclusions": {
+    "message": "Искључени сајтови"
+  },
+  "tabAdvanced": {
+    "message": "Напредно"
+  },
+  "tabAbout": {
+    "message": "О програму"
+  },
+  "gestureEditorTitle": {
+    "message": "Мапа покрета"
+  },
+  "gestureEditorHelp": {
+    "message": "Задржите десни тастер миша и нацртајте смер, затим отпустите. Доделите свакој смери команду."
+  },
+  "drawToBind": {
+    "message": "Нацртајте за доделу"
+  },
+  "drawPrompt": {
+    "message": "Нацртајте покрет у пољу (задржите десни тастер)…"
+  },
+  "clearBinding": {
+    "message": "Обриши"
+  },
+  "colGesture": {
+    "message": "Покрет"
+  },
+  "colCommand": {
+    "message": "Команда"
+  },
+  "rockerTitle": {
+    "message": "Rocker покрети"
+  },
+  "rockerBack": {
+    "message": "Задржите десни, кликните левим → Назад"
+  },
+  "rockerForward": {
+    "message": "Задржите леви, кликните десним → Напред"
+  },
+  "wheelTitle": {
+    "message": "Покрети точкићем"
+  },
+  "wheelTabs": {
+    "message": "Задржите десни + точкић → Мењај картице"
+  },
+  "superDragTitle": {
+    "message": "Супер-превлачење"
+  },
+  "superDragLink": {
+    "message": "Превуците везу → отвори у новој картици"
+  },
+  "superDragText": {
+    "message": "Превуците изабрани текст → претражи"
+  },
+  "trailTitle": {
+    "message": "Траг покрета"
+  },
+  "trailEnabled": {
+    "message": "Прикажи траг покрета"
+  },
+  "trailColor": {
+    "message": "Боја трага"
+  },
+  "trailWidth": {
+    "message": "Дебљина трага"
+  },
+  "trailPreview": {
+    "message": "Преглед"
+  },
+  "exclusionsTitle": {
+    "message": "Искључени сајтови"
+  },
+  "exclusionsHelp": {
+    "message": "Покрети су онемогућени на овим доменима. Један домен по реду, нпр. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Додај"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Уклони"
+  },
+  "noExclusions": {
+    "message": "Још нема искључених сајтова."
+  },
+  "advancedTitle": {
+    "message": "Напредно"
+  },
+  "importConfig": {
+    "message": "Увези подешавања"
+  },
+  "exportConfig": {
+    "message": "Извези подешавања"
+  },
+  "importError": {
+    "message": "Увоз није успео: датотека није важећи извоз подешавања."
+  },
+  "importOk": {
+    "message": "Подешавања увезена."
+  },
+  "resetDefaults": {
+    "message": "Врати на подразумевано"
+  },
+  "resetConfirm": {
+    "message": "Вратити све покрете и подешавања на подразумеване?"
+  },
+  "searchEngineLabel": {
+    "message": "Шаблон URL-а за претрагу"
+  },
+  "searchEngineHelp": {
+    "message": "Користи га покрет претраге текста. %s се замењује вашим избором. Шаље избор на овај URL само када га покренете."
+  },
+  "proTitle": {
+    "message": "Pro функције"
+  },
+  "proLocked": {
+    "message": "Ово је Pro функција."
+  },
+  "proProfiles": {
+    "message": "Профили и предподешавања покрета"
+  },
+  "proChords": {
+    "message": "Акорди и секвенце"
+  },
+  "proCustom": {
+    "message": "Прилагођене команде (декларативне)"
+  },
+  "proSync": {
+    "message": "Синхронизација између уређаја"
+  },
+  "proUrlTemplate": {
+    "message": "Прилагођена команда са URL шаблоном"
+  },
+  "unlockPro": {
+    "message": "Откључај Pro"
+  },
+  "proActive": {
+    "message": "Pro је активан. Хвала вам!"
+  },
+  "licensePlaceholder": {
+    "message": "Унесите лиценцни кључ"
+  },
+  "activateLicense": {
+    "message": "Активирај"
+  },
+  "licenseInvalid": {
+    "message": "Овај лиценцни кључ није препознат."
+  },
+  "onboardTitle": {
+    "message": "Добро дошли у Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Управљајте целим прегледачем покретом миша."
+  },
+  "onboardTrust": {
+    "message": "100% локално · без телеметрије, аналитике и налога. Једина мрежна активност је претрага коју изричито покренете, у изабраном претраживачу."
+  },
+  "onboardEnableTitle": {
+    "message": "Омогући покрете на свим сајтовима"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures захтева дозволу да прати кретање миша на страницама које посећујете како би препознао ваше покрете. Садржај страница се никада не чита, не чува нити шаље."
+  },
+  "onboardEnableBtn": {
+    "message": "Омогући покрете на свим сајтовима"
+  },
+  "onboardEnabled": {
+    "message": "Покрети омогућени. Све је спремно."
+  },
+  "onboardDenied": {
+    "message": "Дозвола је одбијена. Можете је омогућити у било ком тренутку из искачућег прозора."
+  },
+  "onboardTryTitle": {
+    "message": "Испробајте одмах"
+  },
+  "onboardTryBody": {
+    "message": "Задржите десни тастер миша, померите улево и отпустите да идете назад."
+  },
+  "onboardOpenSettings": {
+    "message": "Отвори подешавања"
+  },
+  "onboardFinish": {
+    "message": "Заврши"
+  },
+  "trustBanner": {
+    "message": "Бесплатно заувек · Без налога · Без реклама · Без праћења"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures је отворен у погледу својих дозвола и све чува на вашем уређају. Покрети се препознају локално; ништа што прегледате се не прикупља."
+  },
+  "privacyLink": {
+    "message": "Политика приватности"
+  },
+  "save": {
+    "message": "Сачувај"
+  },
+  "cancel": {
+    "message": "Откажи"
+  },
+  "saved": {
+    "message": "Сачувано"
+  },
+  "supportLink": {
+    "message": "Контакт са подршком"
+  }
+}

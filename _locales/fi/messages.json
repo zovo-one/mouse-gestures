@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Selaa selainta yksinkertaisilla hiiren liikkeillä",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Ohjaa selainta hiirieleillä. 100 % paikallinen, ei tiliä, ei seurantaa.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Hiirieleet"
+  },
+  "statusOn": {
+    "message": "Eleet käytössä"
+  },
+  "statusOff": {
+    "message": "Eleet pois käytöstä"
+  },
+  "toggleEnable": {
+    "message": "Ota käyttöön"
+  },
+  "toggleDisable": {
+    "message": "Poista käytöstä"
+  },
+  "cheatSheetTitle": {
+    "message": "Eleesi"
+  },
+  "openOptions": {
+    "message": "Asetukset"
+  },
+  "openOnboarding": {
+    "message": "Määritä eleet"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "ILMAINEN"
+  },
+  "cmd_newTab": {
+    "message": "Uusi välilehti"
+  },
+  "cmd_closeTab": {
+    "message": "Sulje välilehti"
+  },
+  "cmd_reopenTab": {
+    "message": "Avaa suljettu välilehti uudelleen"
+  },
+  "cmd_back": {
+    "message": "Siirry taakse"
+  },
+  "cmd_forward": {
+    "message": "Siirry eteen"
+  },
+  "cmd_reload": {
+    "message": "Lataa sivu uudelleen"
+  },
+  "cmd_duplicateTab": {
+    "message": "Kahdenna välilehti"
+  },
+  "cmd_scrollTop": {
+    "message": "Vieritä ylös"
+  },
+  "cmd_scrollBottom": {
+    "message": "Vieritä alas"
+  },
+  "cmd_nextTab": {
+    "message": "Seuraava välilehti"
+  },
+  "cmd_prevTab": {
+    "message": "Edellinen välilehti"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Avaa linkki uuteen välilehteen"
+  },
+  "cmd_searchText": {
+    "message": "Hae valittua tekstiä"
+  },
+  "cmd_none": {
+    "message": "Ei toimintoa"
+  },
+  "optionsTitle": {
+    "message": "Hiirieleet-asetukset"
+  },
+  "tabGestures": {
+    "message": "Eleet"
+  },
+  "tabTrail": {
+    "message": "Jälki"
+  },
+  "tabExclusions": {
+    "message": "Poissuljetut sivustot"
+  },
+  "tabAdvanced": {
+    "message": "Lisäasetukset"
+  },
+  "tabAbout": {
+    "message": "Tietoja"
+  },
+  "gestureEditorTitle": {
+    "message": "Ele-kartta"
+  },
+  "gestureEditorHelp": {
+    "message": "Pidä oikeaa hiiripainiketta pohjassa ja piirrä suunta, vapauta sitten. Määritä jokaiselle suunnalle komento."
+  },
+  "drawToBind": {
+    "message": "Piirrä sitoaksesi"
+  },
+  "drawPrompt": {
+    "message": "Piirrä ele ruutuun (pidä oikea painike pohjassa)…"
+  },
+  "clearBinding": {
+    "message": "Tyhjennä"
+  },
+  "colGesture": {
+    "message": "Ele"
+  },
+  "colCommand": {
+    "message": "Komento"
+  },
+  "rockerTitle": {
+    "message": "Keinutuseleet"
+  },
+  "rockerBack": {
+    "message": "Pidä oikea, napsauta vasen → Taakse"
+  },
+  "rockerForward": {
+    "message": "Pidä vasen, napsauta oikea → Eteen"
+  },
+  "wheelTitle": {
+    "message": "Rullaeleet"
+  },
+  "wheelTabs": {
+    "message": "Pidä oikea + rulla → Vaihda välilehteä"
+  },
+  "superDragTitle": {
+    "message": "Superveto"
+  },
+  "superDragLink": {
+    "message": "Vedä linkki → avaa uuteen välilehteen"
+  },
+  "superDragText": {
+    "message": "Vedä valittu teksti → hae"
+  },
+  "trailTitle": {
+    "message": "Ele-jälki"
+  },
+  "trailEnabled": {
+    "message": "Näytä ele-jälki"
+  },
+  "trailColor": {
+    "message": "Jäljen väri"
+  },
+  "trailWidth": {
+    "message": "Jäljen leveys"
+  },
+  "trailPreview": {
+    "message": "Esikatselu"
+  },
+  "exclusionsTitle": {
+    "message": "Poissuljetut sivustot"
+  },
+  "exclusionsHelp": {
+    "message": "Eleet on poistettu käytöstä näillä verkkotunnuksilla. Yksi verkkotunnus riviä kohden, esim. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Lisää"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Poista"
+  },
+  "noExclusions": {
+    "message": "Ei vielä poissuljettuja sivustoja."
+  },
+  "advancedTitle": {
+    "message": "Lisäasetukset"
+  },
+  "importConfig": {
+    "message": "Tuo asetukset"
+  },
+  "exportConfig": {
+    "message": "Vie asetukset"
+  },
+  "importError": {
+    "message": "Tuonti epäonnistui: tiedosto ei ole kelvollinen asetusvienti."
+  },
+  "importOk": {
+    "message": "Asetukset tuotu."
+  },
+  "resetDefaults": {
+    "message": "Palauta oletukset"
+  },
+  "resetConfirm": {
+    "message": "Palautetaanko kaikki eleet ja asetukset oletusarvoihin?"
+  },
+  "searchEngineLabel": {
+    "message": "Haku-URL:n malli"
+  },
+  "searchEngineHelp": {
+    "message": "Käytetään tekstinhakueleessä. %s korvataan valinnallasi. Lähettää valinnan tähän URL-osoitteeseen vain, kun käynnistät sen."
+  },
+  "proTitle": {
+    "message": "Pro-ominaisuudet"
+  },
+  "proLocked": {
+    "message": "Tämä on Pro-ominaisuus."
+  },
+  "proProfiles": {
+    "message": "Ele-profiilit ja esiasetukset"
+  },
+  "proChords": {
+    "message": "Soinnut ja sekvenssit"
+  },
+  "proCustom": {
+    "message": "Omat komennot (deklaratiiviset)"
+  },
+  "proSync": {
+    "message": "Synkronointi laitteiden välillä"
+  },
+  "proUrlTemplate": {
+    "message": "Oma URL-mallikomento"
+  },
+  "unlockPro": {
+    "message": "Avaa Pro"
+  },
+  "proActive": {
+    "message": "Pro on aktiivinen. Kiitos!"
+  },
+  "licensePlaceholder": {
+    "message": "Syötä lisenssiavaimesi"
+  },
+  "activateLicense": {
+    "message": "Aktivoi"
+  },
+  "licenseInvalid": {
+    "message": "Lisenssiavainta ei tunnistettu."
+  },
+  "onboardTitle": {
+    "message": "Tervetuloa Hiirieleisiin"
+  },
+  "onboardSubtitle": {
+    "message": "Ohjaa koko selaintasi hiiren nopealla liikkeellä."
+  },
+  "onboardTrust": {
+    "message": "100 % paikallinen · ei telemetriaa, ei analytiikkaa, ei tilejä. Ainoa verkkotoiminta on haku, jonka nimenomaisesti käynnistät, valitsemallesi hakukoneelle."
+  },
+  "onboardEnableTitle": {
+    "message": "Ota eleet käyttöön kaikilla sivustoilla"
+  },
+  "onboardEnableBody": {
+    "message": "Hiirieleet tarvitsee luvan seurata hiiren liikettä vierailemillasi sivuilla tunnistaakseen eleesi. Mitään sivun sisältöä ei koskaan lueta, tallenneta tai lähetetä."
+  },
+  "onboardEnableBtn": {
+    "message": "Ota eleet käyttöön kaikilla sivustoilla"
+  },
+  "onboardEnabled": {
+    "message": "Eleet käytössä. Olet valmis."
+  },
+  "onboardDenied": {
+    "message": "Lupa evättiin. Voit ottaa sen käyttöön milloin tahansa ponnahdusikkunasta."
+  },
+  "onboardTryTitle": {
+    "message": "Kokeile nyt"
+  },
+  "onboardTryBody": {
+    "message": "Pidä oikeaa hiiripainiketta pohjassa, liikuta vasemmalle ja vapauta siirtyäksesi taakse."
+  },
+  "onboardOpenSettings": {
+    "message": "Avaa asetukset"
+  },
+  "onboardFinish": {
+    "message": "Valmis"
+  },
+  "trustBanner": {
+    "message": "Ilmainen ikuisesti · Ei tiliä · Ei mainoksia · Ei seurantaa"
+  },
+  "aboutBody": {
+    "message": "Hiirieleet on avoin käyttöoikeuksistaan ja pitää kaiken laitteellasi. Eleet tunnistetaan paikallisesti; mitään selaamaasi ei kerätä."
+  },
+  "privacyLink": {
+    "message": "Tietosuojakäytäntö"
+  },
+  "save": {
+    "message": "Tallenna"
+  },
+  "cancel": {
+    "message": "Peruuta"
+  },
+  "saved": {
+    "message": "Tallennettu"
+  },
+  "supportLink": {
+    "message": "Ota yhteyttä tukeen"
+  }
+}

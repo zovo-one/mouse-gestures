@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - ניווט בדפדפן בעזרת תנועות עכבר פשוטות",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "שלטו בדפדפן באמצעות מחוות עכבר. 100% מקומי, בלי חשבון, בלי מעקב.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "מחוות פועלות"
+  },
+  "statusOff": {
+    "message": "מחוות כבויות"
+  },
+  "toggleEnable": {
+    "message": "הפעל"
+  },
+  "toggleDisable": {
+    "message": "השבת"
+  },
+  "cheatSheetTitle": {
+    "message": "המחוות שלכם"
+  },
+  "openOptions": {
+    "message": "הגדרות"
+  },
+  "openOnboarding": {
+    "message": "הגדרת מחוות"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "חינם"
+  },
+  "cmd_newTab": {
+    "message": "כרטיסייה חדשה"
+  },
+  "cmd_closeTab": {
+    "message": "סגור כרטיסייה"
+  },
+  "cmd_reopenTab": {
+    "message": "פתח מחדש כרטיסייה שנסגרה"
+  },
+  "cmd_back": {
+    "message": "חזור אחורה"
+  },
+  "cmd_forward": {
+    "message": "התקדם"
+  },
+  "cmd_reload": {
+    "message": "רענן דף"
+  },
+  "cmd_duplicateTab": {
+    "message": "שכפל כרטיסייה"
+  },
+  "cmd_scrollTop": {
+    "message": "גלול לראש"
+  },
+  "cmd_scrollBottom": {
+    "message": "גלול לתחתית"
+  },
+  "cmd_nextTab": {
+    "message": "כרטיסייה הבאה"
+  },
+  "cmd_prevTab": {
+    "message": "כרטיסייה קודמת"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "פתח קישור בכרטיסייה חדשה"
+  },
+  "cmd_searchText": {
+    "message": "חפש טקסט מסומן"
+  },
+  "cmd_none": {
+    "message": "אין פעולה"
+  },
+  "optionsTitle": {
+    "message": "הגדרות Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "מחוות"
+  },
+  "tabTrail": {
+    "message": "שובל"
+  },
+  "tabExclusions": {
+    "message": "אתרים מוחרגים"
+  },
+  "tabAdvanced": {
+    "message": "מתקדם"
+  },
+  "tabAbout": {
+    "message": "אודות"
+  },
+  "gestureEditorTitle": {
+    "message": "מפת מחוות"
+  },
+  "gestureEditorHelp": {
+    "message": "החזיקו את הלחצן הימני של העכבר, ציירו כיוון ואז שחררו. הקצו לכל כיוון פקודה."
+  },
+  "drawToBind": {
+    "message": "ציירו כדי לשייך"
+  },
+  "drawPrompt": {
+    "message": "ציירו מחווה בתיבה (תוך החזקת הלחצן הימני)…"
+  },
+  "clearBinding": {
+    "message": "נקה"
+  },
+  "colGesture": {
+    "message": "מחווה"
+  },
+  "colCommand": {
+    "message": "פקודה"
+  },
+  "rockerTitle": {
+    "message": "מחוות רוקר"
+  },
+  "rockerBack": {
+    "message": "החזיקו ימני, לחצו שמאלי → אחורה"
+  },
+  "rockerForward": {
+    "message": "החזיקו שמאלי, לחצו ימני → קדימה"
+  },
+  "wheelTitle": {
+    "message": "מחוות גלגלת"
+  },
+  "wheelTabs": {
+    "message": "החזיקו ימני + גלגלת → החלפת כרטיסיות"
+  },
+  "superDragTitle": {
+    "message": "גרירת-על"
+  },
+  "superDragLink": {
+    "message": "גררו קישור → פתיחה בכרטיסייה חדשה"
+  },
+  "superDragText": {
+    "message": "גררו טקסט מסומן → חיפוש"
+  },
+  "trailTitle": {
+    "message": "שובל מחווה"
+  },
+  "trailEnabled": {
+    "message": "הצג שובל מחווה"
+  },
+  "trailColor": {
+    "message": "צבע השובל"
+  },
+  "trailWidth": {
+    "message": "עובי השובל"
+  },
+  "trailPreview": {
+    "message": "תצוגה מקדימה"
+  },
+  "exclusionsTitle": {
+    "message": "אתרים מוחרגים"
+  },
+  "exclusionsHelp": {
+    "message": "המחוות מושבתות בדומיינים אלה. דומיין אחד בכל שורה, לדוגמה maps.google.com."
+  },
+  "addExclusion": {
+    "message": "הוסף"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "הסר"
+  },
+  "noExclusions": {
+    "message": "אין עדיין אתרים מוחרגים."
+  },
+  "advancedTitle": {
+    "message": "מתקדם"
+  },
+  "importConfig": {
+    "message": "ייבא הגדרות"
+  },
+  "exportConfig": {
+    "message": "ייצא הגדרות"
+  },
+  "importError": {
+    "message": "הייבוא נכשל: הקובץ אינו ייצוא הגדרות תקין."
+  },
+  "importOk": {
+    "message": "ההגדרות יובאו."
+  },
+  "resetDefaults": {
+    "message": "אפס לברירות המחדל"
+  },
+  "resetConfirm": {
+    "message": "לאפס את כל המחוות וההגדרות לברירות המחדל?"
+  },
+  "searchEngineLabel": {
+    "message": "תבנית כתובת חיפוש"
+  },
+  "searchEngineHelp": {
+    "message": "בשימוש מחוות חיפוש הטקסט. %s מוחלף בבחירה שלכם. שולח את הבחירה לכתובת זו רק כשאתם מפעילים אותה."
+  },
+  "proTitle": {
+    "message": "תכונות Pro"
+  },
+  "proLocked": {
+    "message": "זו תכונת Pro."
+  },
+  "proProfiles": {
+    "message": "פרופילים וקביעות מחוות מוגדרות מראש"
+  },
+  "proChords": {
+    "message": "אקורדים ורצפים"
+  },
+  "proCustom": {
+    "message": "פקודות מותאמות אישית (הצהרתיות)"
+  },
+  "proSync": {
+    "message": "סנכרון בין מכשירים"
+  },
+  "proUrlTemplate": {
+    "message": "פקודת תבנית כתובת מותאמת אישית"
+  },
+  "unlockPro": {
+    "message": "שחרר את Pro"
+  },
+  "proActive": {
+    "message": "Pro פעיל. תודה!"
+  },
+  "licensePlaceholder": {
+    "message": "הזינו את מפתח הרישיון שלכם"
+  },
+  "activateLicense": {
+    "message": "הפעל"
+  },
+  "licenseInvalid": {
+    "message": "מפתח הרישיון לא זוהה."
+  },
+  "onboardTitle": {
+    "message": "ברוכים הבאים ל-Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "שלטו בכל הדפדפן בתנועת עכבר אחת."
+  },
+  "onboardTrust": {
+    "message": "100% מקומי · בלי טלמטריה, אנליטיקה או חשבונות. פעילות הרשת היחידה היא החיפוש שאתם מפעילים במפורש, למנוע שתבחרו."
+  },
+  "onboardEnableTitle": {
+    "message": "הפעלת מחוות בכל האתרים"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures זקוק להרשאה לעקוב אחר תנועת העכבר בדפים שאתם מבקרים בהם כדי לזהות את המחוות שלכם. תוכן הדף לעולם אינו נקרא, נשמר או נשלח."
+  },
+  "onboardEnableBtn": {
+    "message": "הפעלת מחוות בכל האתרים"
+  },
+  "onboardEnabled": {
+    "message": "המחוות הופעלו. הכול מוכן."
+  },
+  "onboardDenied": {
+    "message": "ההרשאה נדחתה. תוכלו להפעיל אותה בכל עת מהחלון הקופץ."
+  },
+  "onboardTryTitle": {
+    "message": "נסו עכשיו"
+  },
+  "onboardTryBody": {
+    "message": "החזיקו את הלחצן הימני של העכבר, הזיזו שמאלה ושחררו כדי לחזור אחורה."
+  },
+  "onboardOpenSettings": {
+    "message": "פתח הגדרות"
+  },
+  "onboardFinish": {
+    "message": "סיום"
+  },
+  "trustBanner": {
+    "message": "חינם לתמיד · בלי חשבון · בלי פרסומות · בלי מעקב"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures שקוף לגבי ההרשאות שלו ושומר הכול במכשיר שלכם. המחוות מזוהות מקומית; דבר ממה שאתם גולשים אינו נאסף."
+  },
+  "privacyLink": {
+    "message": "מדיניות פרטיות"
+  },
+  "save": {
+    "message": "שמור"
+  },
+  "cancel": {
+    "message": "ביטול"
+  },
+  "saved": {
+    "message": "נשמר"
+  },
+  "supportLink": {
+    "message": "צור קשר עם התמיכה"
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Browser Navigation by Gesture",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Control your browser with mouse gestures. 100% local, no account, no tracking.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Gestures on"
+  },
+  "statusOff": {
+    "message": "Gestures off"
+  },
+  "toggleEnable": {
+    "message": "Enable"
+  },
+  "toggleDisable": {
+    "message": "Disable"
+  },
+  "cheatSheetTitle": {
+    "message": "Your gestures"
+  },
+  "openOptions": {
+    "message": "Settings"
+  },
+  "openOnboarding": {
+    "message": "Set up gestures"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "FREE"
+  },
+  "cmd_newTab": {
+    "message": "New tab"
+  },
+  "cmd_closeTab": {
+    "message": "Close tab"
+  },
+  "cmd_reopenTab": {
+    "message": "Reopen closed tab"
+  },
+  "cmd_back": {
+    "message": "Go back"
+  },
+  "cmd_forward": {
+    "message": "Go forward"
+  },
+  "cmd_reload": {
+    "message": "Reload page"
+  },
+  "cmd_duplicateTab": {
+    "message": "Duplicate tab"
+  },
+  "cmd_scrollTop": {
+    "message": "Scroll to top"
+  },
+  "cmd_scrollBottom": {
+    "message": "Scroll to bottom"
+  },
+  "cmd_nextTab": {
+    "message": "Next tab"
+  },
+  "cmd_prevTab": {
+    "message": "Previous tab"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Open link in new tab"
+  },
+  "cmd_searchText": {
+    "message": "Search selected text"
+  },
+  "cmd_none": {
+    "message": "No action"
+  },
+  "optionsTitle": {
+    "message": "Mouse Gestures settings"
+  },
+  "tabGestures": {
+    "message": "Gestures"
+  },
+  "tabTrail": {
+    "message": "Trail"
+  },
+  "tabExclusions": {
+    "message": "Excluded sites"
+  },
+  "tabAdvanced": {
+    "message": "Advanced"
+  },
+  "tabAbout": {
+    "message": "About"
+  },
+  "gestureEditorTitle": {
+    "message": "Gesture map"
+  },
+  "gestureEditorHelp": {
+    "message": "Hold the right mouse button and draw a direction, then release. Assign each direction to a command."
+  },
+  "drawToBind": {
+    "message": "Draw to bind"
+  },
+  "drawPrompt": {
+    "message": "Draw a gesture in the box (hold right button)…"
+  },
+  "clearBinding": {
+    "message": "Clear"
+  },
+  "colGesture": {
+    "message": "Gesture"
+  },
+  "colCommand": {
+    "message": "Command"
+  },
+  "rockerTitle": {
+    "message": "Rocker gestures"
+  },
+  "rockerBack": {
+    "message": "Hold right, click left → Back"
+  },
+  "rockerForward": {
+    "message": "Hold left, click right → Forward"
+  },
+  "wheelTitle": {
+    "message": "Wheel gestures"
+  },
+  "wheelTabs": {
+    "message": "Hold right + wheel → Switch tabs"
+  },
+  "superDragTitle": {
+    "message": "Super-drag"
+  },
+  "superDragLink": {
+    "message": "Drag a link → open in new tab"
+  },
+  "superDragText": {
+    "message": "Drag selected text → search"
+  },
+  "trailTitle": {
+    "message": "Gesture trail"
+  },
+  "trailEnabled": {
+    "message": "Show gesture trail"
+  },
+  "trailColor": {
+    "message": "Trail color"
+  },
+  "trailWidth": {
+    "message": "Trail width"
+  },
+  "trailPreview": {
+    "message": "Preview"
+  },
+  "exclusionsTitle": {
+    "message": "Excluded sites"
+  },
+  "exclusionsHelp": {
+    "message": "Gestures are disabled on these domains. One domain per line, e.g. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Add"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Remove"
+  },
+  "noExclusions": {
+    "message": "No excluded sites yet."
+  },
+  "advancedTitle": {
+    "message": "Advanced"
+  },
+  "importConfig": {
+    "message": "Import settings"
+  },
+  "exportConfig": {
+    "message": "Export settings"
+  },
+  "importError": {
+    "message": "Could not import: the file is not a valid settings export."
+  },
+  "importOk": {
+    "message": "Settings imported."
+  },
+  "resetDefaults": {
+    "message": "Reset to defaults"
+  },
+  "resetConfirm": {
+    "message": "Reset all gestures and settings to defaults?"
+  },
+  "searchEngineLabel": {
+    "message": "Search URL template"
+  },
+  "searchEngineHelp": {
+    "message": "Used by the search-text gesture. %s is replaced by your selection. Sends the selection to this URL only when you trigger it."
+  },
+  "proTitle": {
+    "message": "Pro features"
+  },
+  "proLocked": {
+    "message": "This is a Pro feature."
+  },
+  "proProfiles": {
+    "message": "Gesture profiles & presets"
+  },
+  "proChords": {
+    "message": "Chords & sequences"
+  },
+  "proCustom": {
+    "message": "Custom commands (declarative)"
+  },
+  "proSync": {
+    "message": "Cross-machine sync"
+  },
+  "proUrlTemplate": {
+    "message": "Custom URL-template command"
+  },
+  "unlockPro": {
+    "message": "Unlock Pro"
+  },
+  "proActive": {
+    "message": "Pro is active. Thank you!"
+  },
+  "licensePlaceholder": {
+    "message": "Enter your license key"
+  },
+  "activateLicense": {
+    "message": "Activate"
+  },
+  "licenseInvalid": {
+    "message": "That license key was not recognized."
+  },
+  "paywallKicker": {
+    "message": "Zovo Lifetime"
+  },
+  "paywallHead": {
+    "message": "Unlock every gesture power-up"
+  },
+  "paywallOnce": {
+    "message": "once"
+  },
+  "paywallReframe": {
+    "message": "$$99 once, not $$9 every month. One payment, no subscription."
+  },
+  "paywallSeats": {
+    "message": "%d founding seats left at $$99"
+  },
+  "paywallMembers": {
+    "message": "Join %d members"
+  },
+  "paywallGuarantee": {
+    "message": "14-day money-back"
+  },
+  "paywallGetLifetime": {
+    "message": "Get Lifetime for $$99"
+  },
+  "paywallStartTrial": {
+    "message": "Get Pro"
+  },
+  "paywallCrossSell": {
+    "message": "Also from Zovo: ShortsGuard, hide YouTube Shorts"
+  },
+  "profilesTab": {
+    "message": "Profiles"
+  },
+  "profilesTitle": {
+    "message": "Gesture profiles"
+  },
+  "profilesHelp": {
+    "message": "Save your gesture map as a named profile and switch between profiles, for example one for work and one for research. Free includes the Default profile."
+  },
+  "profilesActive": {
+    "message": "Active profile"
+  },
+  "profilesSaveAs": {
+    "message": "Save current map as a new profile"
+  },
+  "profilesNamePlaceholder": {
+    "message": "Profile name"
+  },
+  "profilesSwitch": {
+    "message": "Switch"
+  },
+  "profilesDelete": {
+    "message": "Delete"
+  },
+  "profilesProLocked": {
+    "message": "Multiple profiles are a Pro feature."
+  },
+  "onboardTitle": {
+    "message": "Welcome to Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Control your whole browser with a flick of the mouse."
+  },
+  "onboardTrust": {
+    "message": "100% local · no telemetry, no analytics, no accounts. The only network activity is the search you explicitly trigger, to the engine you choose."
+  },
+  "onboardEnableTitle": {
+    "message": "Enable gestures on all sites"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures needs permission to watch mouse movement on the pages you visit so it can recognize your gestures. No page content is ever read, stored, or sent."
+  },
+  "onboardEnableBtn": {
+    "message": "Enable gestures on all sites"
+  },
+  "onboardEnabled": {
+    "message": "Gestures enabled. You're all set."
+  },
+  "onboardDenied": {
+    "message": "Permission was declined. You can enable it any time from the popup."
+  },
+  "onboardTryTitle": {
+    "message": "Try it now"
+  },
+  "onboardTryBody": {
+    "message": "Hold the right mouse button, move left, and release to go back."
+  },
+  "onboardOpenSettings": {
+    "message": "Open settings"
+  },
+  "onboardFinish": {
+    "message": "Finish"
+  },
+  "trustBanner": {
+    "message": "Free forever · No account · No ads · No tracking"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures is open about its permissions and keeps everything on your device. Gestures are recognized locally; nothing you browse is collected."
+  },
+  "privacyLink": {
+    "message": "Privacy policy"
+  },
+  "supportLink": {
+    "message": "Contact support"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "saved": {
+    "message": "Saved"
+  }
+}

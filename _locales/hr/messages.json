@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Upravljajte preglednikom pokretima miša",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Upravljajte preglednikom pokretima miša. 100% lokalno, bez računa, bez praćenja.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Pokreti miša"
+  },
+  "statusOn": {
+    "message": "Pokreti uključeni"
+  },
+  "statusOff": {
+    "message": "Pokreti isključeni"
+  },
+  "toggleEnable": {
+    "message": "Uključi"
+  },
+  "toggleDisable": {
+    "message": "Isključi"
+  },
+  "cheatSheetTitle": {
+    "message": "Vaši pokreti"
+  },
+  "openOptions": {
+    "message": "Postavke"
+  },
+  "openOnboarding": {
+    "message": "Postavi pokrete"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "BESPLATNO"
+  },
+  "cmd_newTab": {
+    "message": "Nova kartica"
+  },
+  "cmd_closeTab": {
+    "message": "Zatvori karticu"
+  },
+  "cmd_reopenTab": {
+    "message": "Ponovno otvori zatvorenu karticu"
+  },
+  "cmd_back": {
+    "message": "Natrag"
+  },
+  "cmd_forward": {
+    "message": "Naprijed"
+  },
+  "cmd_reload": {
+    "message": "Osvježi stranicu"
+  },
+  "cmd_duplicateTab": {
+    "message": "Dupliciraj karticu"
+  },
+  "cmd_scrollTop": {
+    "message": "Kliži na vrh"
+  },
+  "cmd_scrollBottom": {
+    "message": "Kliži na dno"
+  },
+  "cmd_nextTab": {
+    "message": "Sljedeća kartica"
+  },
+  "cmd_prevTab": {
+    "message": "Prethodna kartica"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Otvori poveznicu u novoj kartici"
+  },
+  "cmd_searchText": {
+    "message": "Pretraži označeni tekst"
+  },
+  "cmd_none": {
+    "message": "Bez radnje"
+  },
+  "optionsTitle": {
+    "message": "Postavke pokreta miša"
+  },
+  "tabGestures": {
+    "message": "Pokreti"
+  },
+  "tabTrail": {
+    "message": "Trag"
+  },
+  "tabExclusions": {
+    "message": "Isključene stranice"
+  },
+  "tabAdvanced": {
+    "message": "Napredno"
+  },
+  "tabAbout": {
+    "message": "O aplikaciji"
+  },
+  "gestureEditorTitle": {
+    "message": "Karta pokreta"
+  },
+  "gestureEditorHelp": {
+    "message": "Držite desni gumb miša i povucite u smjeru, zatim otpustite. Dodijelite svakom smjeru naredbu."
+  },
+  "drawToBind": {
+    "message": "Nacrtaj za povezivanje"
+  },
+  "drawPrompt": {
+    "message": "Nacrtajte pokret u okviru (držite desni gumb)…"
+  },
+  "clearBinding": {
+    "message": "Očisti"
+  },
+  "colGesture": {
+    "message": "Pokret"
+  },
+  "colCommand": {
+    "message": "Naredba"
+  },
+  "rockerTitle": {
+    "message": "Rocker pokreti"
+  },
+  "rockerBack": {
+    "message": "Držite desni, kliknite lijevi → Natrag"
+  },
+  "rockerForward": {
+    "message": "Držite lijevi, kliknite desni → Naprijed"
+  },
+  "wheelTitle": {
+    "message": "Pokreti kotačićem"
+  },
+  "wheelTabs": {
+    "message": "Držite desni + kotačić → Prebacivanje kartica"
+  },
+  "superDragTitle": {
+    "message": "Super-povlačenje"
+  },
+  "superDragLink": {
+    "message": "Povucite poveznicu → otvori u novoj kartici"
+  },
+  "superDragText": {
+    "message": "Povucite označeni tekst → pretraži"
+  },
+  "trailTitle": {
+    "message": "Trag pokreta"
+  },
+  "trailEnabled": {
+    "message": "Prikaži trag pokreta"
+  },
+  "trailColor": {
+    "message": "Boja traga"
+  },
+  "trailWidth": {
+    "message": "Širina traga"
+  },
+  "trailPreview": {
+    "message": "Pregled"
+  },
+  "exclusionsTitle": {
+    "message": "Isključene stranice"
+  },
+  "exclusionsHelp": {
+    "message": "Pokreti su onemogućeni na ovim domenama. Jedna domena po retku, npr. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Dodaj"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Ukloni"
+  },
+  "noExclusions": {
+    "message": "Još nema isključenih stranica."
+  },
+  "advancedTitle": {
+    "message": "Napredno"
+  },
+  "importConfig": {
+    "message": "Uvezi postavke"
+  },
+  "exportConfig": {
+    "message": "Izvezi postavke"
+  },
+  "importError": {
+    "message": "Uvoz nije uspio: datoteka nije valjani izvoz postavki."
+  },
+  "importOk": {
+    "message": "Postavke su uvezene."
+  },
+  "resetDefaults": {
+    "message": "Vrati na zadano"
+  },
+  "resetConfirm": {
+    "message": "Vratiti sve pokrete i postavke na zadane vrijednosti?"
+  },
+  "searchEngineLabel": {
+    "message": "Predložak URL-a za pretragu"
+  },
+  "searchEngineHelp": {
+    "message": "Koristi ga pokret za pretragu teksta. %s se zamjenjuje vašim odabirom. Šalje odabir na ovaj URL samo kad ga pokrenete."
+  },
+  "proTitle": {
+    "message": "Pro značajke"
+  },
+  "proLocked": {
+    "message": "Ovo je Pro značajka."
+  },
+  "proProfiles": {
+    "message": "Profili pokreta i predlošci"
+  },
+  "proChords": {
+    "message": "Akordi i sekvence"
+  },
+  "proCustom": {
+    "message": "Prilagođene naredbe (deklarativne)"
+  },
+  "proSync": {
+    "message": "Sinkronizacija između uređaja"
+  },
+  "proUrlTemplate": {
+    "message": "Prilagođena naredba s URL predloškom"
+  },
+  "unlockPro": {
+    "message": "Otključaj Pro"
+  },
+  "proActive": {
+    "message": "Pro je aktivan. Hvala vam!"
+  },
+  "licensePlaceholder": {
+    "message": "Unesite svoj licencni ključ"
+  },
+  "activateLicense": {
+    "message": "Aktiviraj"
+  },
+  "licenseInvalid": {
+    "message": "Taj licencni ključ nije prepoznat."
+  },
+  "onboardTitle": {
+    "message": "Dobro došli u Pokrete miša"
+  },
+  "onboardSubtitle": {
+    "message": "Upravljajte cijelim preglednikom pokretom miša."
+  },
+  "onboardTrust": {
+    "message": "100% lokalno · bez telemetrije, bez analitike, bez računa. Jedina mrežna aktivnost jest pretraga koju izričito pokrenete, prema tražilici po vašem izboru."
+  },
+  "onboardEnableTitle": {
+    "message": "Omogući pokrete na svim stranicama"
+  },
+  "onboardEnableBody": {
+    "message": "Pokretima miša potrebna je dozvola za praćenje kretanja miša na stranicama koje posjećujete kako bi prepoznali vaše pokrete. Sadržaj stranica nikada se ne čita, ne pohranjuje niti šalje."
+  },
+  "onboardEnableBtn": {
+    "message": "Omogući pokrete na svim stranicama"
+  },
+  "onboardEnabled": {
+    "message": "Pokreti su omogućeni. Sve je spremno."
+  },
+  "onboardDenied": {
+    "message": "Dozvola je odbijena. Možete je omogućiti u bilo kojem trenutku iz skočnog prozora."
+  },
+  "onboardTryTitle": {
+    "message": "Isprobajte odmah"
+  },
+  "onboardTryBody": {
+    "message": "Držite desni gumb miša, pomaknite ulijevo i otpustite za povratak natrag."
+  },
+  "onboardOpenSettings": {
+    "message": "Otvori postavke"
+  },
+  "onboardFinish": {
+    "message": "Završi"
+  },
+  "trustBanner": {
+    "message": "Besplatno zauvijek · Bez računa · Bez oglasa · Bez praćenja"
+  },
+  "aboutBody": {
+    "message": "Pokreti miša otvoreni su o svojim dozvolama i sve zadržavaju na vašem uređaju. Pokreti se prepoznaju lokalno; ništa što pregledavate ne prikuplja se."
+  },
+  "privacyLink": {
+    "message": "Pravila privatnosti"
+  },
+  "save": {
+    "message": "Spremi"
+  },
+  "cancel": {
+    "message": "Odustani"
+  },
+  "saved": {
+    "message": "Spremljeno"
+  },
+  "supportLink": {
+    "message": "Kontaktirajte podršku"
+  }
+}

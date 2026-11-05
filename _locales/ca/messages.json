@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Navega pel navegador amb moviments simples del ratolí",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Controla el navegador amb gestos del ratolí. 100% local, sense compte ni seguiment.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Gestos activats"
+  },
+  "statusOff": {
+    "message": "Gestos desactivats"
+  },
+  "toggleEnable": {
+    "message": "Activa"
+  },
+  "toggleDisable": {
+    "message": "Desactiva"
+  },
+  "cheatSheetTitle": {
+    "message": "Els teus gestos"
+  },
+  "openOptions": {
+    "message": "Configuració"
+  },
+  "openOnboarding": {
+    "message": "Configura els gestos"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "GRATIS"
+  },
+  "cmd_newTab": {
+    "message": "Pestanya nova"
+  },
+  "cmd_closeTab": {
+    "message": "Tanca la pestanya"
+  },
+  "cmd_reopenTab": {
+    "message": "Reobre la pestanya tancada"
+  },
+  "cmd_back": {
+    "message": "Enrere"
+  },
+  "cmd_forward": {
+    "message": "Endavant"
+  },
+  "cmd_reload": {
+    "message": "Torna a carregar la pàgina"
+  },
+  "cmd_duplicateTab": {
+    "message": "Duplica la pestanya"
+  },
+  "cmd_scrollTop": {
+    "message": "Vés a dalt"
+  },
+  "cmd_scrollBottom": {
+    "message": "Vés a baix"
+  },
+  "cmd_nextTab": {
+    "message": "Pestanya següent"
+  },
+  "cmd_prevTab": {
+    "message": "Pestanya anterior"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Obre l'enllaç en una pestanya nova"
+  },
+  "cmd_searchText": {
+    "message": "Cerca el text seleccionat"
+  },
+  "cmd_none": {
+    "message": "Cap acció"
+  },
+  "optionsTitle": {
+    "message": "Configuració de Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "Gestos"
+  },
+  "tabTrail": {
+    "message": "Rastre"
+  },
+  "tabExclusions": {
+    "message": "Llocs exclosos"
+  },
+  "tabAdvanced": {
+    "message": "Avançat"
+  },
+  "tabAbout": {
+    "message": "Quant a"
+  },
+  "gestureEditorTitle": {
+    "message": "Mapa de gestos"
+  },
+  "gestureEditorHelp": {
+    "message": "Mantén premut el botó dret del ratolí i dibuixa una direcció; després deixa'l anar. Assigna una ordre a cada direcció."
+  },
+  "drawToBind": {
+    "message": "Dibuixa per assignar"
+  },
+  "drawPrompt": {
+    "message": "Dibuixa un gest a la caixa (mantén premut el botó dret)…"
+  },
+  "clearBinding": {
+    "message": "Esborra"
+  },
+  "colGesture": {
+    "message": "Gest"
+  },
+  "colCommand": {
+    "message": "Ordre"
+  },
+  "rockerTitle": {
+    "message": "Gestos rocker"
+  },
+  "rockerBack": {
+    "message": "Mantén el dret, clic amb l'esquerre → Enrere"
+  },
+  "rockerForward": {
+    "message": "Mantén l'esquerre, clic amb el dret → Endavant"
+  },
+  "wheelTitle": {
+    "message": "Gestos amb la roda"
+  },
+  "wheelTabs": {
+    "message": "Mantén el dret + roda → Canvia de pestanya"
+  },
+  "superDragTitle": {
+    "message": "Superarrossegament"
+  },
+  "superDragLink": {
+    "message": "Arrossega un enllaç → obre en una pestanya nova"
+  },
+  "superDragText": {
+    "message": "Arrossega el text seleccionat → cerca"
+  },
+  "trailTitle": {
+    "message": "Rastre del gest"
+  },
+  "trailEnabled": {
+    "message": "Mostra el rastre del gest"
+  },
+  "trailColor": {
+    "message": "Color del rastre"
+  },
+  "trailWidth": {
+    "message": "Gruix del rastre"
+  },
+  "trailPreview": {
+    "message": "Vista prèvia"
+  },
+  "exclusionsTitle": {
+    "message": "Llocs exclosos"
+  },
+  "exclusionsHelp": {
+    "message": "Els gestos estan desactivats en aquests dominis. Un domini per línia, p. ex. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Afegeix"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Elimina"
+  },
+  "noExclusions": {
+    "message": "Encara no hi ha llocs exclosos."
+  },
+  "advancedTitle": {
+    "message": "Avançat"
+  },
+  "importConfig": {
+    "message": "Importa la configuració"
+  },
+  "exportConfig": {
+    "message": "Exporta la configuració"
+  },
+  "importError": {
+    "message": "No s'ha pogut importar: el fitxer no és una exportació de configuració vàlida."
+  },
+  "importOk": {
+    "message": "Configuració importada."
+  },
+  "resetDefaults": {
+    "message": "Restableix els valors predeterminats"
+  },
+  "resetConfirm": {
+    "message": "Voleu restablir tots els gestos i la configuració als valors predeterminats?"
+  },
+  "searchEngineLabel": {
+    "message": "Plantilla d'URL de cerca"
+  },
+  "searchEngineHelp": {
+    "message": "L'utilitza el gest de cercar text. %s se substitueix per la teva selecció. Envia la selecció a aquest URL només quan l'actives."
+  },
+  "proTitle": {
+    "message": "Funcions Pro"
+  },
+  "proLocked": {
+    "message": "Aquesta és una funció Pro."
+  },
+  "proProfiles": {
+    "message": "Perfils i configuracions predefinides de gestos"
+  },
+  "proChords": {
+    "message": "Acords i seqüències"
+  },
+  "proCustom": {
+    "message": "Ordres personalitzades (declaratives)"
+  },
+  "proSync": {
+    "message": "Sincronització entre màquines"
+  },
+  "proUrlTemplate": {
+    "message": "Ordre personalitzada amb plantilla d'URL"
+  },
+  "unlockPro": {
+    "message": "Desbloqueja Pro"
+  },
+  "proActive": {
+    "message": "Pro està actiu. Gràcies!"
+  },
+  "licensePlaceholder": {
+    "message": "Introdueix la teva clau de llicència"
+  },
+  "activateLicense": {
+    "message": "Activa"
+  },
+  "licenseInvalid": {
+    "message": "No s'ha reconegut aquesta clau de llicència."
+  },
+  "onboardTitle": {
+    "message": "Et donem la benvinguda a Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Controla tot el navegador amb un simple moviment del ratolí."
+  },
+  "onboardTrust": {
+    "message": "100% local · sense telemetria, sense analítiques, sense comptes. L'única activitat de xarxa és la cerca que actives explícitament, cap al motor que triïs."
+  },
+  "onboardEnableTitle": {
+    "message": "Activa els gestos a tots els llocs"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures necessita permís per observar el moviment del ratolí a les pàgines que visites i així reconèixer els teus gestos. Mai no es llegeix, es desa ni s'envia el contingut de cap pàgina."
+  },
+  "onboardEnableBtn": {
+    "message": "Activa els gestos a tots els llocs"
+  },
+  "onboardEnabled": {
+    "message": "Gestos activats. Ja ho tens tot a punt."
+  },
+  "onboardDenied": {
+    "message": "S'ha rebutjat el permís. Pots activar-lo quan vulguis des de la finestra emergent."
+  },
+  "onboardTryTitle": {
+    "message": "Prova-ho ara"
+  },
+  "onboardTryBody": {
+    "message": "Mantén premut el botó dret del ratolí, mou-lo cap a l'esquerra i deixa'l anar per tornar enrere."
+  },
+  "onboardOpenSettings": {
+    "message": "Obre la configuració"
+  },
+  "onboardFinish": {
+    "message": "Finalitza"
+  },
+  "trustBanner": {
+    "message": "Gratis per sempre · Sense compte · Sense anuncis · Sense seguiment"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures és transparent amb els seus permisos i ho manté tot al teu dispositiu. Els gestos es reconeixen localment; no es recull res del que navegues."
+  },
+  "privacyLink": {
+    "message": "Política de privadesa"
+  },
+  "save": {
+    "message": "Desa"
+  },
+  "cancel": {
+    "message": "Cancel·la"
+  },
+  "saved": {
+    "message": "Desat"
+  },
+  "supportLink": {
+    "message": "Contacta amb suport"
+  }
+}

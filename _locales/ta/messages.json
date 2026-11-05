@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - எளிய மவுஸ் அசைவுகளால் உலாவியை இயக்கவும்",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "சுட்டி சைகைகளால் உலாவியைக் கட்டுப்படுத்துங்கள். 100% லோக்கல், கணக்கு இல்லை, கண்காணிப்பு இல்லை.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "சுட்டி சைகைகள்"
+  },
+  "statusOn": {
+    "message": "சைகைகள் இயக்கத்தில்"
+  },
+  "statusOff": {
+    "message": "சைகைகள் அணைந்துள்ளன"
+  },
+  "toggleEnable": {
+    "message": "இயக்கு"
+  },
+  "toggleDisable": {
+    "message": "முடக்கு"
+  },
+  "cheatSheetTitle": {
+    "message": "உங்கள் சைகைகள்"
+  },
+  "openOptions": {
+    "message": "அமைப்புகள்"
+  },
+  "openOnboarding": {
+    "message": "சைகைகளை அமைக்கவும்"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "இலவசம்"
+  },
+  "cmd_newTab": {
+    "message": "புதிய தாவல்"
+  },
+  "cmd_closeTab": {
+    "message": "தாவலை மூடு"
+  },
+  "cmd_reopenTab": {
+    "message": "மூடிய தாவலை மீண்டும் திற"
+  },
+  "cmd_back": {
+    "message": "பின் செல்"
+  },
+  "cmd_forward": {
+    "message": "முன் செல்"
+  },
+  "cmd_reload": {
+    "message": "பக்கத்தை மீளேற்று"
+  },
+  "cmd_duplicateTab": {
+    "message": "தாவலை நகலெடு"
+  },
+  "cmd_scrollTop": {
+    "message": "மேலே உருட்டு"
+  },
+  "cmd_scrollBottom": {
+    "message": "கீழே உருட்டு"
+  },
+  "cmd_nextTab": {
+    "message": "அடுத்த தாவல்"
+  },
+  "cmd_prevTab": {
+    "message": "முந்தைய தாவல்"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "இணைப்பை புதிய தாவலில் திற"
+  },
+  "cmd_searchText": {
+    "message": "தேர்ந்தெடுத்த உரையைத் தேடு"
+  },
+  "cmd_none": {
+    "message": "செயல் இல்லை"
+  },
+  "optionsTitle": {
+    "message": "சுட்டி சைகைகள் அமைப்புகள்"
+  },
+  "tabGestures": {
+    "message": "சைகைகள்"
+  },
+  "tabTrail": {
+    "message": "தடம்"
+  },
+  "tabExclusions": {
+    "message": "விலக்கிய தளங்கள்"
+  },
+  "tabAdvanced": {
+    "message": "மேம்பட்டவை"
+  },
+  "tabAbout": {
+    "message": "பற்றி"
+  },
+  "gestureEditorTitle": {
+    "message": "சைகை வரைபடம்"
+  },
+  "gestureEditorHelp": {
+    "message": "வலது சுட்டி பொத்தானை அழுத்திப் பிடித்து ஒரு திசையை வரைந்து விடுங்கள். ஒவ்வொரு திசைக்கும் ஒரு கட்டளையை ஒதுக்குங்கள்."
+  },
+  "drawToBind": {
+    "message": "இணைக்க வரையவும்"
+  },
+  "drawPrompt": {
+    "message": "பெட்டியில் ஒரு சைகையை வரையுங்கள் (வலது பொத்தானைப் பிடியுங்கள்)…"
+  },
+  "clearBinding": {
+    "message": "அழி"
+  },
+  "colGesture": {
+    "message": "சைகை"
+  },
+  "colCommand": {
+    "message": "கட்டளை"
+  },
+  "rockerTitle": {
+    "message": "ராக்கர் சைகைகள்"
+  },
+  "rockerBack": {
+    "message": "வலதைப் பிடித்து இடதை கிளிக் செய் → பின்"
+  },
+  "rockerForward": {
+    "message": "இடதைப் பிடித்து வலதை கிளிக் செய் → முன்"
+  },
+  "wheelTitle": {
+    "message": "சக்கர சைகைகள்"
+  },
+  "wheelTabs": {
+    "message": "வலது + சக்கரம் → தாவல்களை மாற்று"
+  },
+  "superDragTitle": {
+    "message": "சூப்பர்-இழுவை"
+  },
+  "superDragLink": {
+    "message": "இணைப்பை இழு → புதிய தாவலில் திற"
+  },
+  "superDragText": {
+    "message": "தேர்ந்தெடுத்த உரையை இழு → தேடு"
+  },
+  "trailTitle": {
+    "message": "சைகைத் தடம்"
+  },
+  "trailEnabled": {
+    "message": "சைகைத் தடத்தைக் காட்டு"
+  },
+  "trailColor": {
+    "message": "தடத்தின் நிறம்"
+  },
+  "trailWidth": {
+    "message": "தடத்தின் அகலம்"
+  },
+  "trailPreview": {
+    "message": "முன்னோட்டம்"
+  },
+  "exclusionsTitle": {
+    "message": "விலக்கிய தளங்கள்"
+  },
+  "exclusionsHelp": {
+    "message": "இந்த டொமைன்களில் சைகைகள் முடக்கப்படும். ஒரு வரிக்கு ஒரு டொமைன், எ.கா. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "சேர்"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "அகற்று"
+  },
+  "noExclusions": {
+    "message": "இதுவரை விலக்கிய தளங்கள் இல்லை."
+  },
+  "advancedTitle": {
+    "message": "மேம்பட்டவை"
+  },
+  "importConfig": {
+    "message": "அமைப்புகளை இறக்குமதி செய்"
+  },
+  "exportConfig": {
+    "message": "அமைப்புகளை ஏற்றுமதி செய்"
+  },
+  "importError": {
+    "message": "இறக்குமதி செய்ய முடியவில்லை: கோப்பு சரியான அமைப்பு ஏற்றுமதி அல்ல."
+  },
+  "importOk": {
+    "message": "அமைப்புகள் இறக்குமதி செய்யப்பட்டன."
+  },
+  "resetDefaults": {
+    "message": "இயல்புநிலைக்கு மீட்டமை"
+  },
+  "resetConfirm": {
+    "message": "அனைத்து சைகைகளையும் அமைப்புகளையும் இயல்புநிலைக்கு மீட்டமைக்கவா?"
+  },
+  "searchEngineLabel": {
+    "message": "தேடல் URL வார்ப்புரு"
+  },
+  "searchEngineHelp": {
+    "message": "தேடல்-உரை சைகையால் பயன்படுத்தப்படுகிறது. %s உங்கள் தேர்வால் மாற்றப்படும். நீங்கள் தூண்டும்போது மட்டுமே தேர்வை இந்த URL-க்கு அனுப்பும்."
+  },
+  "proTitle": {
+    "message": "Pro அம்சங்கள்"
+  },
+  "proLocked": {
+    "message": "இது ஒரு Pro அம்சம்."
+  },
+  "proProfiles": {
+    "message": "சைகை சுயவிவரங்கள் & முன்னமைவுகள்"
+  },
+  "proChords": {
+    "message": "நாண்கள் & வரிசைகள்"
+  },
+  "proCustom": {
+    "message": "தனிப்பயன் கட்டளைகள் (அறிவிப்புசார்)"
+  },
+  "proSync": {
+    "message": "இயந்திரங்களுக்கு இடையேயான ஒத்திசைவு"
+  },
+  "proUrlTemplate": {
+    "message": "தனிப்பயன் URL-வார்ப்புரு கட்டளை"
+  },
+  "unlockPro": {
+    "message": "Pro-வைத் திற"
+  },
+  "proActive": {
+    "message": "Pro செயலில் உள்ளது. நன்றி!"
+  },
+  "licensePlaceholder": {
+    "message": "உங்கள் உரிம விசையை உள்ளிடவும்"
+  },
+  "activateLicense": {
+    "message": "செயல்படுத்து"
+  },
+  "licenseInvalid": {
+    "message": "அந்த உரிம விசை அங்கீகரிக்கப்படவில்லை."
+  },
+  "onboardTitle": {
+    "message": "சுட்டி சைகைகளுக்கு வரவேற்கிறோம்"
+  },
+  "onboardSubtitle": {
+    "message": "சுட்டியின் ஒரு அசைவால் உங்கள் முழு உலாவியையும் கட்டுப்படுத்துங்கள்."
+  },
+  "onboardTrust": {
+    "message": "100% லோக்கல் · டெலிமெட்ரி இல்லை, பகுப்பாய்வு இல்லை, கணக்குகள் இல்லை. நீங்கள் வெளிப்படையாகத் தூண்டும் தேடல் மட்டுமே ஒரே பிணைய செயல்பாடு, நீங்கள் தேர்ந்தெடுத்த இயந்திரத்திற்கு."
+  },
+  "onboardEnableTitle": {
+    "message": "அனைத்து தளங்களிலும் சைகைகளை இயக்கு"
+  },
+  "onboardEnableBody": {
+    "message": "நீங்கள் பார்வையிடும் பக்கங்களில் சுட்டி அசைவைக் கண்காணித்து உங்கள் சைகைகளை அடையாளம் காண சுட்டி சைகைகளுக்கு அனுமதி தேவை. எந்தப் பக்க உள்ளடக்கமும் படிக்கப்படுவதோ, சேமிக்கப்படுவதோ, அனுப்பப்படுவதோ இல்லை."
+  },
+  "onboardEnableBtn": {
+    "message": "அனைத்து தளங்களிலும் சைகைகளை இயக்கு"
+  },
+  "onboardEnabled": {
+    "message": "சைகைகள் இயக்கப்பட்டன. நீங்கள் தயார்."
+  },
+  "onboardDenied": {
+    "message": "அனுமதி மறுக்கப்பட்டது. பாப்அப்பிலிருந்து எப்போது வேண்டுமானாலும் இயக்கலாம்."
+  },
+  "onboardTryTitle": {
+    "message": "இப்போது முயற்சிக்கவும்"
+  },
+  "onboardTryBody": {
+    "message": "வலது சுட்டி பொத்தானைப் பிடித்து, இடதுபுறம் நகர்த்தி, விட்டுவிட்டால் பின் செல்லும்."
+  },
+  "onboardOpenSettings": {
+    "message": "அமைப்புகளைத் திற"
+  },
+  "onboardFinish": {
+    "message": "முடி"
+  },
+  "trustBanner": {
+    "message": "என்றென்றும் இலவசம் · கணக்கு இல்லை · விளம்பரம் இல்லை · கண்காணிப்பு இல்லை"
+  },
+  "aboutBody": {
+    "message": "சுட்டி சைகைகள் அதன் அனுமதிகள் குறித்து வெளிப்படையானது, அனைத்தையும் உங்கள் சாதனத்திலேயே வைத்திருக்கிறது. சைகைகள் லோக்கலாக அடையாளம் காணப்படுகின்றன; நீங்கள் உலாவுவது எதுவும் சேகரிக்கப்படுவதில்லை."
+  },
+  "privacyLink": {
+    "message": "தனியுரிமைக் கொள்கை"
+  },
+  "save": {
+    "message": "சேமி"
+  },
+  "cancel": {
+    "message": "ரத்து"
+  },
+  "saved": {
+    "message": "சேமிக்கப்பட்டது"
+  },
+  "supportLink": {
+    "message": "ஆதரவைத் தொடர்பு கொள்ளவும்"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Naviger i nettleseren med enkle musebevegelser",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Styr nettleseren med musebevegelser. 100 % lokalt, ingen konto, ingen sporing.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Bevegelser på"
+  },
+  "statusOff": {
+    "message": "Bevegelser av"
+  },
+  "toggleEnable": {
+    "message": "Aktiver"
+  },
+  "toggleDisable": {
+    "message": "Deaktiver"
+  },
+  "cheatSheetTitle": {
+    "message": "Dine bevegelser"
+  },
+  "openOptions": {
+    "message": "Innstillinger"
+  },
+  "openOnboarding": {
+    "message": "Sett opp bevegelser"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "GRATIS"
+  },
+  "cmd_newTab": {
+    "message": "Ny fane"
+  },
+  "cmd_closeTab": {
+    "message": "Lukk fane"
+  },
+  "cmd_reopenTab": {
+    "message": "Gjenåpne lukket fane"
+  },
+  "cmd_back": {
+    "message": "Gå tilbake"
+  },
+  "cmd_forward": {
+    "message": "Gå fremover"
+  },
+  "cmd_reload": {
+    "message": "Last inn siden på nytt"
+  },
+  "cmd_duplicateTab": {
+    "message": "Dupliser fane"
+  },
+  "cmd_scrollTop": {
+    "message": "Rull til toppen"
+  },
+  "cmd_scrollBottom": {
+    "message": "Rull til bunnen"
+  },
+  "cmd_nextTab": {
+    "message": "Neste fane"
+  },
+  "cmd_prevTab": {
+    "message": "Forrige fane"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Åpne lenke i ny fane"
+  },
+  "cmd_searchText": {
+    "message": "Søk i markert tekst"
+  },
+  "cmd_none": {
+    "message": "Ingen handling"
+  },
+  "optionsTitle": {
+    "message": "Innstillinger for Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "Bevegelser"
+  },
+  "tabTrail": {
+    "message": "Spor"
+  },
+  "tabExclusions": {
+    "message": "Ekskluderte nettsteder"
+  },
+  "tabAdvanced": {
+    "message": "Avansert"
+  },
+  "tabAbout": {
+    "message": "Om"
+  },
+  "gestureEditorTitle": {
+    "message": "Bevegelseskart"
+  },
+  "gestureEditorHelp": {
+    "message": "Hold inne høyre museknapp og tegn en retning, slipp deretter. Tildel hver retning en kommando."
+  },
+  "drawToBind": {
+    "message": "Tegn for å tilordne"
+  },
+  "drawPrompt": {
+    "message": "Tegn en bevegelse i feltet (hold inne høyre knapp)…"
+  },
+  "clearBinding": {
+    "message": "Tøm"
+  },
+  "colGesture": {
+    "message": "Bevegelse"
+  },
+  "colCommand": {
+    "message": "Kommando"
+  },
+  "rockerTitle": {
+    "message": "Rocker-bevegelser"
+  },
+  "rockerBack": {
+    "message": "Hold høyre, klikk venstre → Tilbake"
+  },
+  "rockerForward": {
+    "message": "Hold venstre, klikk høyre → Fremover"
+  },
+  "wheelTitle": {
+    "message": "Hjulbevegelser"
+  },
+  "wheelTabs": {
+    "message": "Hold høyre + hjul → Bytt faner"
+  },
+  "superDragTitle": {
+    "message": "Superdrag"
+  },
+  "superDragLink": {
+    "message": "Dra en lenke → åpne i ny fane"
+  },
+  "superDragText": {
+    "message": "Dra markert tekst → søk"
+  },
+  "trailTitle": {
+    "message": "Bevegelsesspor"
+  },
+  "trailEnabled": {
+    "message": "Vis bevegelsesspor"
+  },
+  "trailColor": {
+    "message": "Sporfarge"
+  },
+  "trailWidth": {
+    "message": "Sporbredde"
+  },
+  "trailPreview": {
+    "message": "Forhåndsvisning"
+  },
+  "exclusionsTitle": {
+    "message": "Ekskluderte nettsteder"
+  },
+  "exclusionsHelp": {
+    "message": "Bevegelser er deaktivert på disse domenene. Ett domene per linje, f.eks. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Legg til"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Fjern"
+  },
+  "noExclusions": {
+    "message": "Ingen ekskluderte nettsteder ennå."
+  },
+  "advancedTitle": {
+    "message": "Avansert"
+  },
+  "importConfig": {
+    "message": "Importer innstillinger"
+  },
+  "exportConfig": {
+    "message": "Eksporter innstillinger"
+  },
+  "importError": {
+    "message": "Kunne ikke importere: filen er ikke en gyldig innstillingseksport."
+  },
+  "importOk": {
+    "message": "Innstillinger importert."
+  },
+  "resetDefaults": {
+    "message": "Tilbakestill til standard"
+  },
+  "resetConfirm": {
+    "message": "Tilbakestille alle bevegelser og innstillinger til standardverdiene?"
+  },
+  "searchEngineLabel": {
+    "message": "URL-mal for søk"
+  },
+  "searchEngineHelp": {
+    "message": "Brukes av tekstsøk-bevegelsen. %s erstattes av utvalget ditt. Sender utvalget til denne URL-en bare når du utløser det."
+  },
+  "proTitle": {
+    "message": "Pro-funksjoner"
+  },
+  "proLocked": {
+    "message": "Dette er en Pro-funksjon."
+  },
+  "proProfiles": {
+    "message": "Bevegelsesprofiler og forhåndsinnstillinger"
+  },
+  "proChords": {
+    "message": "Akkorder og sekvenser"
+  },
+  "proCustom": {
+    "message": "Egendefinerte kommandoer (deklarative)"
+  },
+  "proSync": {
+    "message": "Synkronisering mellom enheter"
+  },
+  "proUrlTemplate": {
+    "message": "Egendefinert URL-mal-kommando"
+  },
+  "unlockPro": {
+    "message": "Lås opp Pro"
+  },
+  "proActive": {
+    "message": "Pro er aktiv. Takk!"
+  },
+  "licensePlaceholder": {
+    "message": "Skriv inn lisensnøkkelen din"
+  },
+  "activateLicense": {
+    "message": "Aktiver"
+  },
+  "licenseInvalid": {
+    "message": "Lisensnøkkelen ble ikke gjenkjent."
+  },
+  "onboardTitle": {
+    "message": "Velkommen til Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Styr hele nettleseren med en enkel musebevegelse."
+  },
+  "onboardTrust": {
+    "message": "100 % lokalt · ingen telemetri, ingen analyse, ingen kontoer. Den eneste nettverksaktiviteten er søket du uttrykkelig utløser, til søkemotoren du velger."
+  },
+  "onboardEnableTitle": {
+    "message": "Aktiver bevegelser på alle nettsteder"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures trenger tillatelse til å følge musebevegelser på sidene du besøker for å gjenkjenne bevegelsene dine. Sideinnhold blir aldri lest, lagret eller sendt."
+  },
+  "onboardEnableBtn": {
+    "message": "Aktiver bevegelser på alle nettsteder"
+  },
+  "onboardEnabled": {
+    "message": "Bevegelser aktivert. Alt er klart."
+  },
+  "onboardDenied": {
+    "message": "Tillatelsen ble avslått. Du kan aktivere den når som helst fra popup-vinduet."
+  },
+  "onboardTryTitle": {
+    "message": "Prøv det nå"
+  },
+  "onboardTryBody": {
+    "message": "Hold inne høyre museknapp, flytt til venstre og slipp for å gå tilbake."
+  },
+  "onboardOpenSettings": {
+    "message": "Åpne innstillinger"
+  },
+  "onboardFinish": {
+    "message": "Fullfør"
+  },
+  "trustBanner": {
+    "message": "Gratis for alltid · Ingen konto · Ingen annonser · Ingen sporing"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures er åpen om tillatelsene sine og beholder alt på enheten din. Bevegelser gjenkjennes lokalt; ingenting av det du surfer på, samles inn."
+  },
+  "privacyLink": {
+    "message": "Personvernerklæring"
+  },
+  "save": {
+    "message": "Lagre"
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "saved": {
+    "message": "Lagret"
+  },
+  "supportLink": {
+    "message": "Kontakt kundestøtte"
+  }
+}

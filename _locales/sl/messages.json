@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Krmarjenje po brskalniku s preprostimi gibi miške",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Upravljajte brskalnik z gibi miške. 100% lokalno, brez računa, brez sledenja.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Gibi vklopljeni"
+  },
+  "statusOff": {
+    "message": "Gibi izklopljeni"
+  },
+  "toggleEnable": {
+    "message": "Omogoči"
+  },
+  "toggleDisable": {
+    "message": "Onemogoči"
+  },
+  "cheatSheetTitle": {
+    "message": "Vaši gibi"
+  },
+  "openOptions": {
+    "message": "Nastavitve"
+  },
+  "openOnboarding": {
+    "message": "Nastavi gibe"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "BREZPLAČNO"
+  },
+  "cmd_newTab": {
+    "message": "Nov zavihek"
+  },
+  "cmd_closeTab": {
+    "message": "Zapri zavihek"
+  },
+  "cmd_reopenTab": {
+    "message": "Znova odpri zaprti zavihek"
+  },
+  "cmd_back": {
+    "message": "Nazaj"
+  },
+  "cmd_forward": {
+    "message": "Naprej"
+  },
+  "cmd_reload": {
+    "message": "Osveži stran"
+  },
+  "cmd_duplicateTab": {
+    "message": "Podvoji zavihek"
+  },
+  "cmd_scrollTop": {
+    "message": "Pomakni na vrh"
+  },
+  "cmd_scrollBottom": {
+    "message": "Pomakni na dno"
+  },
+  "cmd_nextTab": {
+    "message": "Naslednji zavihek"
+  },
+  "cmd_prevTab": {
+    "message": "Prejšnji zavihek"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Odpri povezavo v novem zavihku"
+  },
+  "cmd_searchText": {
+    "message": "Išči izbrano besedilo"
+  },
+  "cmd_none": {
+    "message": "Brez dejanja"
+  },
+  "optionsTitle": {
+    "message": "Nastavitve Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "Gibi"
+  },
+  "tabTrail": {
+    "message": "Sled"
+  },
+  "tabExclusions": {
+    "message": "Izključena spletna mesta"
+  },
+  "tabAdvanced": {
+    "message": "Napredno"
+  },
+  "tabAbout": {
+    "message": "O programu"
+  },
+  "gestureEditorTitle": {
+    "message": "Zemljevid gibov"
+  },
+  "gestureEditorHelp": {
+    "message": "Pridržite desni gumb miške in narišite smer, nato spustite. Vsaki smeri dodelite ukaz."
+  },
+  "drawToBind": {
+    "message": "Narišite za dodelitev"
+  },
+  "drawPrompt": {
+    "message": "Narišite gib v polju (pridržite desni gumb)…"
+  },
+  "clearBinding": {
+    "message": "Počisti"
+  },
+  "colGesture": {
+    "message": "Gib"
+  },
+  "colCommand": {
+    "message": "Ukaz"
+  },
+  "rockerTitle": {
+    "message": "Gibi Rocker"
+  },
+  "rockerBack": {
+    "message": "Pridržite desni, kliknite z levim → Nazaj"
+  },
+  "rockerForward": {
+    "message": "Pridržite levi, kliknite z desnim → Naprej"
+  },
+  "wheelTitle": {
+    "message": "Gibi s kolescem"
+  },
+  "wheelTabs": {
+    "message": "Pridržite desni + kolesce → Preklapljaj zavihke"
+  },
+  "superDragTitle": {
+    "message": "Super-poteg"
+  },
+  "superDragLink": {
+    "message": "Povlecite povezavo → odpri v novem zavihku"
+  },
+  "superDragText": {
+    "message": "Povlecite izbrano besedilo → išči"
+  },
+  "trailTitle": {
+    "message": "Sled giba"
+  },
+  "trailEnabled": {
+    "message": "Prikaži sled giba"
+  },
+  "trailColor": {
+    "message": "Barva sledi"
+  },
+  "trailWidth": {
+    "message": "Debelina sledi"
+  },
+  "trailPreview": {
+    "message": "Predogled"
+  },
+  "exclusionsTitle": {
+    "message": "Izključena spletna mesta"
+  },
+  "exclusionsHelp": {
+    "message": "Na teh domenah so gibi onemogočeni. Ena domena na vrstico, npr. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Dodaj"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Odstrani"
+  },
+  "noExclusions": {
+    "message": "Zaenkrat ni izključenih spletnih mest."
+  },
+  "advancedTitle": {
+    "message": "Napredno"
+  },
+  "importConfig": {
+    "message": "Uvozi nastavitve"
+  },
+  "exportConfig": {
+    "message": "Izvozi nastavitve"
+  },
+  "importError": {
+    "message": "Uvoz ni uspel: datoteka ni veljaven izvoz nastavitev."
+  },
+  "importOk": {
+    "message": "Nastavitve uvožene."
+  },
+  "resetDefaults": {
+    "message": "Ponastavi na privzeto"
+  },
+  "resetConfirm": {
+    "message": "Ponastaviti vse gibe in nastavitve na privzeto?"
+  },
+  "searchEngineLabel": {
+    "message": "Predloga URL za iskanje"
+  },
+  "searchEngineHelp": {
+    "message": "Uporablja jo gib iskanja besedila. %s se nadomesti z vašim izborom. Izbor pošlje na ta URL samo, ko ga sprožite."
+  },
+  "proTitle": {
+    "message": "Funkcije Pro"
+  },
+  "proLocked": {
+    "message": "To je funkcija Pro."
+  },
+  "proProfiles": {
+    "message": "Profili in prednastavitve gibov"
+  },
+  "proChords": {
+    "message": "Akordi in zaporedja"
+  },
+  "proCustom": {
+    "message": "Ukazi po meri (deklarativni)"
+  },
+  "proSync": {
+    "message": "Sinhronizacija med napravami"
+  },
+  "proUrlTemplate": {
+    "message": "Ukaz s predlogo URL po meri"
+  },
+  "unlockPro": {
+    "message": "Odkleni Pro"
+  },
+  "proActive": {
+    "message": "Pro je aktiven. Hvala!"
+  },
+  "licensePlaceholder": {
+    "message": "Vnesite licenčni ključ"
+  },
+  "activateLicense": {
+    "message": "Aktiviraj"
+  },
+  "licenseInvalid": {
+    "message": "Tega licenčnega ključa ni bilo mogoče prepoznati."
+  },
+  "onboardTitle": {
+    "message": "Dobrodošli v Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Upravljajte celoten brskalnik z gibom miške."
+  },
+  "onboardTrust": {
+    "message": "100% lokalno · brez telemetrije, analitike in računov. Edina omrežna dejavnost je iskanje, ki ga izrecno sprožite, v izbranem iskalniku."
+  },
+  "onboardEnableTitle": {
+    "message": "Omogoči gibe na vseh spletnih mestih"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures potrebuje dovoljenje za spremljanje premikanja miške na straneh, ki jih obiščete, da lahko prepozna vaše gibe. Vsebina strani se nikoli ne bere, shranjuje ali pošilja."
+  },
+  "onboardEnableBtn": {
+    "message": "Omogoči gibe na vseh spletnih mestih"
+  },
+  "onboardEnabled": {
+    "message": "Gibi omogočeni. Vse je pripravljeno."
+  },
+  "onboardDenied": {
+    "message": "Dovoljenje je bilo zavrnjeno. Kadar koli ga lahko omogočite v pojavnem oknu."
+  },
+  "onboardTryTitle": {
+    "message": "Preizkusite zdaj"
+  },
+  "onboardTryBody": {
+    "message": "Pridržite desni gumb miške, premaknite v levo in spustite za vrnitev nazaj."
+  },
+  "onboardOpenSettings": {
+    "message": "Odpri nastavitve"
+  },
+  "onboardFinish": {
+    "message": "Končaj"
+  },
+  "trustBanner": {
+    "message": "Za vedno brezplačno · Brez računa · Brez oglasov · Brez sledenja"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures je odkrit glede svojih dovoljenj in vse ohranja na vaši napravi. Gibi se prepoznavajo lokalno; nič od tega, kar brskate, se ne zbira."
+  },
+  "privacyLink": {
+    "message": "Politika zasebnosti"
+  },
+  "save": {
+    "message": "Shrani"
+  },
+  "cancel": {
+    "message": "Prekliči"
+  },
+  "saved": {
+    "message": "Shranjeno"
+  },
+  "supportLink": {
+    "message": "Stik s podporo"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - مرور مرورگر با حرکات ساده ماوس",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "مرورگرتان را با حرکات ماوس کنترل کنید. 100% محلی، بدون حساب، بدون ردیابی.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "حرکات ماوس"
+  },
+  "statusOn": {
+    "message": "حرکات فعال"
+  },
+  "statusOff": {
+    "message": "حرکات غیرفعال"
+  },
+  "toggleEnable": {
+    "message": "فعال‌سازی"
+  },
+  "toggleDisable": {
+    "message": "غیرفعال‌سازی"
+  },
+  "cheatSheetTitle": {
+    "message": "حرکات شما"
+  },
+  "openOptions": {
+    "message": "تنظیمات"
+  },
+  "openOnboarding": {
+    "message": "راه‌اندازی حرکات"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "رایگان"
+  },
+  "cmd_newTab": {
+    "message": "زبانهٔ جدید"
+  },
+  "cmd_closeTab": {
+    "message": "بستن زبانه"
+  },
+  "cmd_reopenTab": {
+    "message": "بازکردن دوبارهٔ زبانهٔ بسته‌شده"
+  },
+  "cmd_back": {
+    "message": "بازگشت"
+  },
+  "cmd_forward": {
+    "message": "جلو"
+  },
+  "cmd_reload": {
+    "message": "بارگذاری مجدد صفحه"
+  },
+  "cmd_duplicateTab": {
+    "message": "تکثیر زبانه"
+  },
+  "cmd_scrollTop": {
+    "message": "پیمایش به بالا"
+  },
+  "cmd_scrollBottom": {
+    "message": "پیمایش به پایین"
+  },
+  "cmd_nextTab": {
+    "message": "زبانهٔ بعدی"
+  },
+  "cmd_prevTab": {
+    "message": "زبانهٔ قبلی"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "باز کردن پیوند در زبانهٔ جدید"
+  },
+  "cmd_searchText": {
+    "message": "جست‌وجوی متن انتخاب‌شده"
+  },
+  "cmd_none": {
+    "message": "بدون کنش"
+  },
+  "optionsTitle": {
+    "message": "تنظیمات حرکات ماوس"
+  },
+  "tabGestures": {
+    "message": "حرکات"
+  },
+  "tabTrail": {
+    "message": "رد"
+  },
+  "tabExclusions": {
+    "message": "سایت‌های مستثنا"
+  },
+  "tabAdvanced": {
+    "message": "پیشرفته"
+  },
+  "tabAbout": {
+    "message": "درباره"
+  },
+  "gestureEditorTitle": {
+    "message": "نقشهٔ حرکات"
+  },
+  "gestureEditorHelp": {
+    "message": "دکمهٔ راست ماوس را نگه دارید و یک جهت بکشید، سپس رها کنید. به هر جهت یک فرمان اختصاص دهید."
+  },
+  "drawToBind": {
+    "message": "برای پیوند بکشید"
+  },
+  "drawPrompt": {
+    "message": "یک حرکت در کادر بکشید (دکمهٔ راست را نگه دارید)…"
+  },
+  "clearBinding": {
+    "message": "پاک کردن"
+  },
+  "colGesture": {
+    "message": "حرکت"
+  },
+  "colCommand": {
+    "message": "فرمان"
+  },
+  "rockerTitle": {
+    "message": "حرکات راکر"
+  },
+  "rockerBack": {
+    "message": "راست را نگه دارید، چپ‌کلیک → بازگشت"
+  },
+  "rockerForward": {
+    "message": "چپ را نگه دارید، راست‌کلیک → جلو"
+  },
+  "wheelTitle": {
+    "message": "حرکات چرخ"
+  },
+  "wheelTabs": {
+    "message": "راست را نگه دارید + چرخ → تعویض زبانه‌ها"
+  },
+  "superDragTitle": {
+    "message": "کشیدن ویژه"
+  },
+  "superDragLink": {
+    "message": "یک پیوند را بکشید → باز شدن در زبانهٔ جدید"
+  },
+  "superDragText": {
+    "message": "متن انتخاب‌شده را بکشید → جست‌وجو"
+  },
+  "trailTitle": {
+    "message": "رد حرکت"
+  },
+  "trailEnabled": {
+    "message": "نمایش رد حرکت"
+  },
+  "trailColor": {
+    "message": "رنگ رد"
+  },
+  "trailWidth": {
+    "message": "ضخامت رد"
+  },
+  "trailPreview": {
+    "message": "پیش‌نمایش"
+  },
+  "exclusionsTitle": {
+    "message": "سایت‌های مستثنا"
+  },
+  "exclusionsHelp": {
+    "message": "حرکات روی این دامنه‌ها غیرفعال است. هر خط یک دامنه، مثل maps.google.com."
+  },
+  "addExclusion": {
+    "message": "افزودن"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "حذف"
+  },
+  "noExclusions": {
+    "message": "هنوز سایتی مستثنا نشده است."
+  },
+  "advancedTitle": {
+    "message": "پیشرفته"
+  },
+  "importConfig": {
+    "message": "وارد کردن تنظیمات"
+  },
+  "exportConfig": {
+    "message": "صادر کردن تنظیمات"
+  },
+  "importError": {
+    "message": "وارد کردن ناموفق بود: فایل یک خروجی معتبر تنظیمات نیست."
+  },
+  "importOk": {
+    "message": "تنظیمات وارد شد."
+  },
+  "resetDefaults": {
+    "message": "بازنشانی به پیش‌فرض‌ها"
+  },
+  "resetConfirm": {
+    "message": "همهٔ حرکات و تنظیمات به پیش‌فرض بازنشانی شوند؟"
+  },
+  "searchEngineLabel": {
+    "message": "قالب نشانی URL جست‌وجو"
+  },
+  "searchEngineHelp": {
+    "message": "توسط حرکت جست‌وجوی متن استفاده می‌شود. %s با انتخاب شما جایگزین می‌شود. متن انتخابی فقط هنگام اجرای شما به این نشانی ارسال می‌شود."
+  },
+  "proTitle": {
+    "message": "ویژگی‌های Pro"
+  },
+  "proLocked": {
+    "message": "این یک ویژگی Pro است."
+  },
+  "proProfiles": {
+    "message": "نمایه‌ها و پیش‌تنظیم‌های حرکت"
+  },
+  "proChords": {
+    "message": "ترکیب‌ها و توالی‌ها"
+  },
+  "proCustom": {
+    "message": "فرمان‌های سفارشی (اعلانی)"
+  },
+  "proSync": {
+    "message": "همگام‌سازی بین دستگاه‌ها"
+  },
+  "proUrlTemplate": {
+    "message": "فرمان قالب URL سفارشی"
+  },
+  "unlockPro": {
+    "message": "باز کردن Pro"
+  },
+  "proActive": {
+    "message": "Pro فعال است. سپاسگزاریم!"
+  },
+  "licensePlaceholder": {
+    "message": "کلید مجوز خود را وارد کنید"
+  },
+  "activateLicense": {
+    "message": "فعال‌سازی"
+  },
+  "licenseInvalid": {
+    "message": "این کلید مجوز شناسایی نشد."
+  },
+  "onboardTitle": {
+    "message": "به حرکات ماوس خوش آمدید"
+  },
+  "onboardSubtitle": {
+    "message": "کل مرورگرتان را با یک حرکت ساده از ماوس کنترل کنید."
+  },
+  "onboardTrust": {
+    "message": "100% محلی · بدون سنجش از راه دور، بدون تحلیل، بدون حساب. تنها فعالیت شبکه‌ای جست‌وجویی است که خودتان اجرا می‌کنید، به موتوری که انتخاب می‌کنید."
+  },
+  "onboardEnableTitle": {
+    "message": "فعال‌سازی حرکات در همهٔ سایت‌ها"
+  },
+  "onboardEnableBody": {
+    "message": "حرکات ماوس برای شناسایی حرکات شما به اجازه‌ای برای مشاهدهٔ حرکت ماوس در صفحاتی که بازدید می‌کنید نیاز دارد. هیچ محتوای صفحه‌ای هرگز خوانده، ذخیره یا ارسال نمی‌شود."
+  },
+  "onboardEnableBtn": {
+    "message": "فعال‌سازی حرکات در همهٔ سایت‌ها"
+  },
+  "onboardEnabled": {
+    "message": "حرکات فعال شد. همه‌چیز آماده است."
+  },
+  "onboardDenied": {
+    "message": "اجازه رد شد. می‌توانید هر زمان از پنجرهٔ بازشو آن را فعال کنید."
+  },
+  "onboardTryTitle": {
+    "message": "همین حالا امتحان کنید"
+  },
+  "onboardTryBody": {
+    "message": "دکمهٔ راست ماوس را نگه دارید، به چپ حرکت دهید و رها کنید تا بازگردید."
+  },
+  "onboardOpenSettings": {
+    "message": "باز کردن تنظیمات"
+  },
+  "onboardFinish": {
+    "message": "پایان"
+  },
+  "trustBanner": {
+    "message": "همیشه رایگان · بدون حساب · بدون تبلیغات · بدون ردیابی"
+  },
+  "aboutBody": {
+    "message": "حرکات ماوس دربارهٔ مجوزهایش شفاف است و همه‌چیز را روی دستگاه شما نگه می‌دارد. حرکات به‌صورت محلی شناسایی می‌شوند؛ هیچ‌چیز از آنچه مرور می‌کنید جمع‌آوری نمی‌شود."
+  },
+  "privacyLink": {
+    "message": "سیاست حفظ حریم خصوصی"
+  },
+  "save": {
+    "message": "ذخیره"
+  },
+  "cancel": {
+    "message": "لغو"
+  },
+  "saved": {
+    "message": "ذخیره شد"
+  },
+  "supportLink": {
+    "message": "تماس با پشتیبانی"
+  }
+}

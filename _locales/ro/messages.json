@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Navigați în browser cu mișcări simple ale mouse-ului",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Controlează browserul cu gesturi de mouse. 100% local, fără cont, fără urmărire.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Gesturi active"
+  },
+  "statusOff": {
+    "message": "Gesturi inactive"
+  },
+  "toggleEnable": {
+    "message": "Activează"
+  },
+  "toggleDisable": {
+    "message": "Dezactivează"
+  },
+  "cheatSheetTitle": {
+    "message": "Gesturile tale"
+  },
+  "openOptions": {
+    "message": "Setări"
+  },
+  "openOnboarding": {
+    "message": "Configurează gesturile"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "GRATUIT"
+  },
+  "cmd_newTab": {
+    "message": "Filă nouă"
+  },
+  "cmd_closeTab": {
+    "message": "Închide fila"
+  },
+  "cmd_reopenTab": {
+    "message": "Redeschide fila închisă"
+  },
+  "cmd_back": {
+    "message": "Înapoi"
+  },
+  "cmd_forward": {
+    "message": "Înainte"
+  },
+  "cmd_reload": {
+    "message": "Reîncarcă pagina"
+  },
+  "cmd_duplicateTab": {
+    "message": "Duplică fila"
+  },
+  "cmd_scrollTop": {
+    "message": "Derulează sus"
+  },
+  "cmd_scrollBottom": {
+    "message": "Derulează jos"
+  },
+  "cmd_nextTab": {
+    "message": "Fila următoare"
+  },
+  "cmd_prevTab": {
+    "message": "Fila anterioară"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Deschide linkul într-o filă nouă"
+  },
+  "cmd_searchText": {
+    "message": "Caută textul selectat"
+  },
+  "cmd_none": {
+    "message": "Nicio acțiune"
+  },
+  "optionsTitle": {
+    "message": "Setări Mouse Gestures"
+  },
+  "tabGestures": {
+    "message": "Gesturi"
+  },
+  "tabTrail": {
+    "message": "Dâră"
+  },
+  "tabExclusions": {
+    "message": "Site-uri excluse"
+  },
+  "tabAdvanced": {
+    "message": "Avansat"
+  },
+  "tabAbout": {
+    "message": "Despre"
+  },
+  "gestureEditorTitle": {
+    "message": "Harta gesturilor"
+  },
+  "gestureEditorHelp": {
+    "message": "Ține apăsat butonul drept al mouse-ului și trasează o direcție, apoi eliberează. Atribuie fiecărei direcții o comandă."
+  },
+  "drawToBind": {
+    "message": "Trasează pentru a asocia"
+  },
+  "drawPrompt": {
+    "message": "Trasează un gest în casetă (ține apăsat butonul drept)…"
+  },
+  "clearBinding": {
+    "message": "Șterge"
+  },
+  "colGesture": {
+    "message": "Gest"
+  },
+  "colCommand": {
+    "message": "Comandă"
+  },
+  "rockerTitle": {
+    "message": "Gesturi Rocker"
+  },
+  "rockerBack": {
+    "message": "Ține dreapta, clic stânga → Înapoi"
+  },
+  "rockerForward": {
+    "message": "Ține stânga, clic dreapta → Înainte"
+  },
+  "wheelTitle": {
+    "message": "Gesturi cu rotița"
+  },
+  "wheelTabs": {
+    "message": "Ține dreapta + rotița → Comută filele"
+  },
+  "superDragTitle": {
+    "message": "Super-tragere"
+  },
+  "superDragLink": {
+    "message": "Trage un link → deschide în filă nouă"
+  },
+  "superDragText": {
+    "message": "Trage textul selectat → caută"
+  },
+  "trailTitle": {
+    "message": "Dâra gestului"
+  },
+  "trailEnabled": {
+    "message": "Afișează dâra gestului"
+  },
+  "trailColor": {
+    "message": "Culoarea dârei"
+  },
+  "trailWidth": {
+    "message": "Lățimea dârei"
+  },
+  "trailPreview": {
+    "message": "Previzualizare"
+  },
+  "exclusionsTitle": {
+    "message": "Site-uri excluse"
+  },
+  "exclusionsHelp": {
+    "message": "Gesturile sunt dezactivate pe aceste domenii. Un domeniu pe linie, de ex. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Adaugă"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Elimină"
+  },
+  "noExclusions": {
+    "message": "Niciun site exclus încă."
+  },
+  "advancedTitle": {
+    "message": "Avansat"
+  },
+  "importConfig": {
+    "message": "Importă setările"
+  },
+  "exportConfig": {
+    "message": "Exportă setările"
+  },
+  "importError": {
+    "message": "Importul nu a reușit: fișierul nu este un export de setări valid."
+  },
+  "importOk": {
+    "message": "Setări importate."
+  },
+  "resetDefaults": {
+    "message": "Resetează la valorile implicite"
+  },
+  "resetConfirm": {
+    "message": "Resetezi toate gesturile și setările la valorile implicite?"
+  },
+  "searchEngineLabel": {
+    "message": "Șablon URL pentru căutare"
+  },
+  "searchEngineHelp": {
+    "message": "Folosit de gestul de căutare a textului. %s este înlocuit cu selecția ta. Trimite selecția către această adresă URL doar când o declanșezi."
+  },
+  "proTitle": {
+    "message": "Funcții Pro"
+  },
+  "proLocked": {
+    "message": "Aceasta este o funcție Pro."
+  },
+  "proProfiles": {
+    "message": "Profiluri și presetări de gesturi"
+  },
+  "proChords": {
+    "message": "Acorduri și secvențe"
+  },
+  "proCustom": {
+    "message": "Comenzi personalizate (declarative)"
+  },
+  "proSync": {
+    "message": "Sincronizare între dispozitive"
+  },
+  "proUrlTemplate": {
+    "message": "Comandă cu șablon URL personalizat"
+  },
+  "unlockPro": {
+    "message": "Deblochează Pro"
+  },
+  "proActive": {
+    "message": "Pro este activ. Mulțumim!"
+  },
+  "licensePlaceholder": {
+    "message": "Introdu cheia de licență"
+  },
+  "activateLicense": {
+    "message": "Activează"
+  },
+  "licenseInvalid": {
+    "message": "Cheia de licență nu a fost recunoscută."
+  },
+  "onboardTitle": {
+    "message": "Bine ai venit la Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Controlează întregul browser cu o simplă mișcare a mouse-ului."
+  },
+  "onboardTrust": {
+    "message": "100% local · fără telemetrie, fără analize, fără conturi. Singura activitate de rețea este căutarea pe care o declanșezi explicit, către motorul ales de tine."
+  },
+  "onboardEnableTitle": {
+    "message": "Activează gesturile pe toate site-urile"
+  },
+  "onboardEnableBody": {
+    "message": "Mouse Gestures are nevoie de permisiunea de a urmări mișcarea mouse-ului pe paginile pe care le vizitezi pentru a-ți recunoaște gesturile. Conținutul paginilor nu este niciodată citit, stocat sau trimis."
+  },
+  "onboardEnableBtn": {
+    "message": "Activează gesturile pe toate site-urile"
+  },
+  "onboardEnabled": {
+    "message": "Gesturi activate. Totul este gata."
+  },
+  "onboardDenied": {
+    "message": "Permisiunea a fost refuzată. O poți activa oricând din fereastra pop-up."
+  },
+  "onboardTryTitle": {
+    "message": "Încearcă acum"
+  },
+  "onboardTryBody": {
+    "message": "Ține apăsat butonul drept al mouse-ului, mută spre stânga și eliberează pentru a merge înapoi."
+  },
+  "onboardOpenSettings": {
+    "message": "Deschide setările"
+  },
+  "onboardFinish": {
+    "message": "Finalizează"
+  },
+  "trustBanner": {
+    "message": "Gratuit pentru totdeauna · Fără cont · Fără reclame · Fără urmărire"
+  },
+  "aboutBody": {
+    "message": "Mouse Gestures este transparent în privința permisiunilor sale și păstrează totul pe dispozitivul tău. Gesturile sunt recunoscute local; nimic din ceea ce navighezi nu este colectat."
+  },
+  "privacyLink": {
+    "message": "Politica de confidențialitate"
+  },
+  "save": {
+    "message": "Salvează"
+  },
+  "cancel": {
+    "message": "Anulează"
+  },
+  "saved": {
+    "message": "Salvat"
+  },
+  "supportLink": {
+    "message": "Contactează asistența"
+  }
+}

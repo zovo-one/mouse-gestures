@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Liigu brauseris lihtsate hiireliigutustega",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Juhi brauserit hiirežestidega. 100% lokaalne, kontot pole, jälgimist pole.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Hiirežestid"
+  },
+  "statusOn": {
+    "message": "Žestid sees"
+  },
+  "statusOff": {
+    "message": "Žestid väljas"
+  },
+  "toggleEnable": {
+    "message": "Luba"
+  },
+  "toggleDisable": {
+    "message": "Keela"
+  },
+  "cheatSheetTitle": {
+    "message": "Sinu žestid"
+  },
+  "openOptions": {
+    "message": "Seaded"
+  },
+  "openOnboarding": {
+    "message": "Seadista žestid"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "TASUTA"
+  },
+  "cmd_newTab": {
+    "message": "Uus kaart"
+  },
+  "cmd_closeTab": {
+    "message": "Sulge kaart"
+  },
+  "cmd_reopenTab": {
+    "message": "Taasava suletud kaart"
+  },
+  "cmd_back": {
+    "message": "Mine tagasi"
+  },
+  "cmd_forward": {
+    "message": "Mine edasi"
+  },
+  "cmd_reload": {
+    "message": "Laadi leht uuesti"
+  },
+  "cmd_duplicateTab": {
+    "message": "Dubleeri kaart"
+  },
+  "cmd_scrollTop": {
+    "message": "Keri üles"
+  },
+  "cmd_scrollBottom": {
+    "message": "Keri alla"
+  },
+  "cmd_nextTab": {
+    "message": "Järgmine kaart"
+  },
+  "cmd_prevTab": {
+    "message": "Eelmine kaart"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Ava link uuel kaardil"
+  },
+  "cmd_searchText": {
+    "message": "Otsi valitud teksti"
+  },
+  "cmd_none": {
+    "message": "Tegevus puudub"
+  },
+  "optionsTitle": {
+    "message": "Hiirežestide seaded"
+  },
+  "tabGestures": {
+    "message": "Žestid"
+  },
+  "tabTrail": {
+    "message": "Jälg"
+  },
+  "tabExclusions": {
+    "message": "Välistatud saidid"
+  },
+  "tabAdvanced": {
+    "message": "Täpsemad"
+  },
+  "tabAbout": {
+    "message": "Teave"
+  },
+  "gestureEditorTitle": {
+    "message": "Žestikaart"
+  },
+  "gestureEditorHelp": {
+    "message": "Hoia all hiire paremat nuppu ja joonista suund, seejärel vabasta. Määra igale suunale käsk."
+  },
+  "drawToBind": {
+    "message": "Joonista sidumiseks"
+  },
+  "drawPrompt": {
+    "message": "Joonista kastis žest (hoia all paremat nuppu)…"
+  },
+  "clearBinding": {
+    "message": "Tühjenda"
+  },
+  "colGesture": {
+    "message": "Žest"
+  },
+  "colCommand": {
+    "message": "Käsk"
+  },
+  "rockerTitle": {
+    "message": "Kang-žestid"
+  },
+  "rockerBack": {
+    "message": "Hoia paremat, klõpsa vasakut → Tagasi"
+  },
+  "rockerForward": {
+    "message": "Hoia vasakut, klõpsa paremat → Edasi"
+  },
+  "wheelTitle": {
+    "message": "Rattažestid"
+  },
+  "wheelTabs": {
+    "message": "Hoia paremat + ratas → Vaheta kaarte"
+  },
+  "superDragTitle": {
+    "message": "Superlohistamine"
+  },
+  "superDragLink": {
+    "message": "Lohista link → ava uuel kaardil"
+  },
+  "superDragText": {
+    "message": "Lohista valitud tekst → otsi"
+  },
+  "trailTitle": {
+    "message": "Žestijälg"
+  },
+  "trailEnabled": {
+    "message": "Näita žestijälge"
+  },
+  "trailColor": {
+    "message": "Jälje värv"
+  },
+  "trailWidth": {
+    "message": "Jälje laius"
+  },
+  "trailPreview": {
+    "message": "Eelvaade"
+  },
+  "exclusionsTitle": {
+    "message": "Välistatud saidid"
+  },
+  "exclusionsHelp": {
+    "message": "Nendel domeenidel on žestid keelatud. Üks domeen rea kohta, nt maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Lisa"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Eemalda"
+  },
+  "noExclusions": {
+    "message": "Välistatud saite pole veel."
+  },
+  "advancedTitle": {
+    "message": "Täpsemad"
+  },
+  "importConfig": {
+    "message": "Impordi seaded"
+  },
+  "exportConfig": {
+    "message": "Ekspordi seaded"
+  },
+  "importError": {
+    "message": "Importimine ebaõnnestus: fail ei ole kehtiv seadete eksport."
+  },
+  "importOk": {
+    "message": "Seaded imporditud."
+  },
+  "resetDefaults": {
+    "message": "Lähtesta vaikeväärtustele"
+  },
+  "resetConfirm": {
+    "message": "Kas lähtestada kõik žestid ja seaded vaikeväärtustele?"
+  },
+  "searchEngineLabel": {
+    "message": "Otsingu-URL-i mall"
+  },
+  "searchEngineHelp": {
+    "message": "Kasutab tekstiotsingu žest. %s asendatakse sinu valikuga. Saadab valiku sellele URL-ile ainult siis, kui sa selle käivitad."
+  },
+  "proTitle": {
+    "message": "Pro-funktsioonid"
+  },
+  "proLocked": {
+    "message": "See on Pro-funktsioon."
+  },
+  "proProfiles": {
+    "message": "Žestiprofiilid ja eelseaded"
+  },
+  "proChords": {
+    "message": "Akordid ja jadad"
+  },
+  "proCustom": {
+    "message": "Kohandatud käsud (deklaratiivsed)"
+  },
+  "proSync": {
+    "message": "Seadmetevaheline sünkroonimine"
+  },
+  "proUrlTemplate": {
+    "message": "Kohandatud URL-malli käsk"
+  },
+  "unlockPro": {
+    "message": "Ava Pro"
+  },
+  "proActive": {
+    "message": "Pro on aktiivne. Aitäh!"
+  },
+  "licensePlaceholder": {
+    "message": "Sisesta oma litsentsivõti"
+  },
+  "activateLicense": {
+    "message": "Aktiveeri"
+  },
+  "licenseInvalid": {
+    "message": "Seda litsentsivõtit ei tuntud ära."
+  },
+  "onboardTitle": {
+    "message": "Tere tulemast Hiirežestidesse"
+  },
+  "onboardSubtitle": {
+    "message": "Juhi kogu oma brauserit ühe hiireliigutusega."
+  },
+  "onboardTrust": {
+    "message": "100% lokaalne · ei mingit telemeetriat, analüütikat ega kontosid. Ainus võrgutegevus on otsing, mille sa ise käivitad, sinu valitud otsingumootorisse."
+  },
+  "onboardEnableTitle": {
+    "message": "Luba žestid kõigil saitidel"
+  },
+  "onboardEnableBody": {
+    "message": "Hiirežestid vajab luba, et jälgida külastatavatel lehtedel hiire liikumist ja sinu žeste ära tunda. Lehtede sisu ei loeta, salvestata ega saadeta kunagi."
+  },
+  "onboardEnableBtn": {
+    "message": "Luba žestid kõigil saitidel"
+  },
+  "onboardEnabled": {
+    "message": "Žestid lubatud. Kõik on valmis."
+  },
+  "onboardDenied": {
+    "message": "Luba lükati tagasi. Saad selle igal ajal hüpikaknast lubada."
+  },
+  "onboardTryTitle": {
+    "message": "Proovi kohe"
+  },
+  "onboardTryBody": {
+    "message": "Hoia all hiire paremat nuppu, liiguta vasakule ja vabasta, et minna tagasi."
+  },
+  "onboardOpenSettings": {
+    "message": "Ava seaded"
+  },
+  "onboardFinish": {
+    "message": "Lõpeta"
+  },
+  "trustBanner": {
+    "message": "Igavesti tasuta · Kontot pole · Reklaame pole · Jälgimist pole"
+  },
+  "aboutBody": {
+    "message": "Hiirežestid on oma lubade osas avatud ja hoiab kõike sinu seadmes. Žeste tuvastatakse lokaalselt; midagi sinu sirvimisest ei koguta."
+  },
+  "privacyLink": {
+    "message": "Privaatsuspoliitika"
+  },
+  "save": {
+    "message": "Salvesta"
+  },
+  "cancel": {
+    "message": "Tühista"
+  },
+  "saved": {
+    "message": "Salvestatud"
+  },
+  "supportLink": {
+    "message": "Võta ühendust toega"
+  }
+}

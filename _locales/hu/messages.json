@@ -1,0 +1,298 @@
+{
+  "extName": {
+    "message": "Mouse Gestures - Böngészés egyszerű egérmozdulatokkal",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Vezéreld a böngészőt egérmozdulatokkal. 100% helyi, fiók és követés nélkül.",
+    "description": "Extension description"
+  },
+  "popupTitle": {
+    "message": "Mouse Gestures"
+  },
+  "statusOn": {
+    "message": "Mozdulatok bekapcsolva"
+  },
+  "statusOff": {
+    "message": "Mozdulatok kikapcsolva"
+  },
+  "toggleEnable": {
+    "message": "Bekapcsolás"
+  },
+  "toggleDisable": {
+    "message": "Kikapcsolás"
+  },
+  "cheatSheetTitle": {
+    "message": "A mozdulataid"
+  },
+  "openOptions": {
+    "message": "Beállítások"
+  },
+  "openOnboarding": {
+    "message": "Mozdulatok beállítása"
+  },
+  "proBadge": {
+    "message": "PRO"
+  },
+  "freeBadge": {
+    "message": "INGYENES"
+  },
+  "cmd_newTab": {
+    "message": "Új lap"
+  },
+  "cmd_closeTab": {
+    "message": "Lap bezárása"
+  },
+  "cmd_reopenTab": {
+    "message": "Bezárt lap újranyitása"
+  },
+  "cmd_back": {
+    "message": "Vissza"
+  },
+  "cmd_forward": {
+    "message": "Előre"
+  },
+  "cmd_reload": {
+    "message": "Oldal újratöltése"
+  },
+  "cmd_duplicateTab": {
+    "message": "Lap megkettőzése"
+  },
+  "cmd_scrollTop": {
+    "message": "Görgetés a tetejére"
+  },
+  "cmd_scrollBottom": {
+    "message": "Görgetés az aljára"
+  },
+  "cmd_nextTab": {
+    "message": "Következő lap"
+  },
+  "cmd_prevTab": {
+    "message": "Előző lap"
+  },
+  "cmd_openLinkNewTab": {
+    "message": "Hivatkozás megnyitása új lapon"
+  },
+  "cmd_searchText": {
+    "message": "Kijelölt szöveg keresése"
+  },
+  "cmd_none": {
+    "message": "Nincs művelet"
+  },
+  "optionsTitle": {
+    "message": "Mouse Gestures beállítások"
+  },
+  "tabGestures": {
+    "message": "Mozdulatok"
+  },
+  "tabTrail": {
+    "message": "Nyom"
+  },
+  "tabExclusions": {
+    "message": "Kizárt oldalak"
+  },
+  "tabAdvanced": {
+    "message": "Speciális"
+  },
+  "tabAbout": {
+    "message": "Névjegy"
+  },
+  "gestureEditorTitle": {
+    "message": "Mozdulattérkép"
+  },
+  "gestureEditorHelp": {
+    "message": "Tartsd lenyomva a jobb egérgombot, rajzolj egy irányt, majd engedd el. Rendelj minden irányhoz egy parancsot."
+  },
+  "drawToBind": {
+    "message": "Rajzolj a hozzárendeléshez"
+  },
+  "drawPrompt": {
+    "message": "Rajzolj egy mozdulatot a mezőbe (tartsd lenyomva a jobb gombot)…"
+  },
+  "clearBinding": {
+    "message": "Törlés"
+  },
+  "colGesture": {
+    "message": "Mozdulat"
+  },
+  "colCommand": {
+    "message": "Parancs"
+  },
+  "rockerTitle": {
+    "message": "Rocker mozdulatok"
+  },
+  "rockerBack": {
+    "message": "Tartsd a jobbot, kattints ballal → Vissza"
+  },
+  "rockerForward": {
+    "message": "Tartsd a balt, kattints jobbal → Előre"
+  },
+  "wheelTitle": {
+    "message": "Görgő mozdulatok"
+  },
+  "wheelTabs": {
+    "message": "Tartsd a jobbot + görgő → Lapváltás"
+  },
+  "superDragTitle": {
+    "message": "Szuperhúzás"
+  },
+  "superDragLink": {
+    "message": "Húzz el egy hivatkozást → megnyitás új lapon"
+  },
+  "superDragText": {
+    "message": "Húzz el kijelölt szöveget → keresés"
+  },
+  "trailTitle": {
+    "message": "Mozdulatnyom"
+  },
+  "trailEnabled": {
+    "message": "Mozdulatnyom megjelenítése"
+  },
+  "trailColor": {
+    "message": "Nyom színe"
+  },
+  "trailWidth": {
+    "message": "Nyom vastagsága"
+  },
+  "trailPreview": {
+    "message": "Előnézet"
+  },
+  "exclusionsTitle": {
+    "message": "Kizárt oldalak"
+  },
+  "exclusionsHelp": {
+    "message": "A mozdulatok le vannak tiltva ezeken a domaineken. Soronként egy domain, pl. maps.google.com."
+  },
+  "addExclusion": {
+    "message": "Hozzáadás"
+  },
+  "exclusionPlaceholder": {
+    "message": "example.com"
+  },
+  "removeExclusion": {
+    "message": "Eltávolítás"
+  },
+  "noExclusions": {
+    "message": "Még nincsenek kizárt oldalak."
+  },
+  "advancedTitle": {
+    "message": "Speciális"
+  },
+  "importConfig": {
+    "message": "Beállítások importálása"
+  },
+  "exportConfig": {
+    "message": "Beállítások exportálása"
+  },
+  "importError": {
+    "message": "Nem sikerült importálni: a fájl nem érvényes beállításexport."
+  },
+  "importOk": {
+    "message": "Beállítások importálva."
+  },
+  "resetDefaults": {
+    "message": "Alapértékek visszaállítása"
+  },
+  "resetConfirm": {
+    "message": "Visszaállítod az összes mozdulatot és beállítást az alapértékekre?"
+  },
+  "searchEngineLabel": {
+    "message": "Kereső URL-sablon"
+  },
+  "searchEngineHelp": {
+    "message": "A szövegkereső mozdulat használja. A %s helyére a kijelölésed kerül. A kijelölést csak akkor küldi erre az URL-re, amikor elindítod."
+  },
+  "proTitle": {
+    "message": "Pro funkciók"
+  },
+  "proLocked": {
+    "message": "Ez egy Pro funkció."
+  },
+  "proProfiles": {
+    "message": "Mozdulatprofilok és előbeállítások"
+  },
+  "proChords": {
+    "message": "Akkordok és szekvenciák"
+  },
+  "proCustom": {
+    "message": "Egyéni parancsok (deklaratív)"
+  },
+  "proSync": {
+    "message": "Eszközök közti szinkronizálás"
+  },
+  "proUrlTemplate": {
+    "message": "Egyéni URL-sablon parancs"
+  },
+  "unlockPro": {
+    "message": "Pro feloldása"
+  },
+  "proActive": {
+    "message": "A Pro aktív. Köszönjük!"
+  },
+  "licensePlaceholder": {
+    "message": "Add meg a licenckulcsodat"
+  },
+  "activateLicense": {
+    "message": "Aktiválás"
+  },
+  "licenseInvalid": {
+    "message": "Ezt a licenckulcsot nem sikerült felismerni."
+  },
+  "onboardTitle": {
+    "message": "Üdvözöl a Mouse Gestures"
+  },
+  "onboardSubtitle": {
+    "message": "Vezéreld az egész böngésződet az egér egyetlen mozdulatával."
+  },
+  "onboardTrust": {
+    "message": "100% helyi · nincs telemetria, analitika vagy fiók. Az egyetlen hálózati tevékenység az általad kifejezetten elindított keresés, az általad választott keresőhöz."
+  },
+  "onboardEnableTitle": {
+    "message": "Mozdulatok engedélyezése minden oldalon"
+  },
+  "onboardEnableBody": {
+    "message": "A Mouse Gesturesnek engedélyre van szüksége, hogy figyelje az egér mozgását a meglátogatott oldalakon, így felismerheti a mozdulataidat. Az oldalak tartalmát soha nem olvassa, tárolja vagy küldi el."
+  },
+  "onboardEnableBtn": {
+    "message": "Mozdulatok engedélyezése minden oldalon"
+  },
+  "onboardEnabled": {
+    "message": "Mozdulatok engedélyezve. Minden készen áll."
+  },
+  "onboardDenied": {
+    "message": "Az engedélyt elutasítottad. Bármikor engedélyezheted a felugró ablakból."
+  },
+  "onboardTryTitle": {
+    "message": "Próbáld ki most"
+  },
+  "onboardTryBody": {
+    "message": "Tartsd lenyomva a jobb egérgombot, mozdulj balra, és engedd el a visszalépéshez."
+  },
+  "onboardOpenSettings": {
+    "message": "Beállítások megnyitása"
+  },
+  "onboardFinish": {
+    "message": "Befejezés"
+  },
+  "trustBanner": {
+    "message": "Örökre ingyenes · Fiók nélkül · Hirdetések nélkül · Követés nélkül"
+  },
+  "aboutBody": {
+    "message": "A Mouse Gestures nyíltan közli a jogosultságait, és mindent az eszközödön tart. A mozdulatokat helyben ismeri fel; semmit sem gyűjt abból, amit böngészel."
+  },
+  "privacyLink": {
+    "message": "Adatvédelmi irányelvek"
+  },
+  "save": {
+    "message": "Mentés"
+  },
+  "cancel": {
+    "message": "Mégse"
+  },
+  "saved": {
+    "message": "Mentve"
+  },
+  "supportLink": {
+    "message": "Kapcsolat a támogatással"
+  }
+}
